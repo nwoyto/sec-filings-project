@@ -1,0 +1,1295 @@
+Table of Contents
+
+s
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+[TABLE_START]
+​ | ​ | ☒ | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[TABLE_END]
+
+​
+
+For the quarterly period ended: October 30, 2021
+
+OR
+
+[TABLE_START]
+​ | ​ | ☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[TABLE_END]
+
+​
+
+For the transition period from __________ to __________
+
+Commission File Number: 1-10299
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE_START]
+​ | ​ | New York | 13-3513936 | (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.)
+[TABLE_END]
+
+​
+
+330 West 34 th Street , New York , New York 10001
+
+(Address of principal executive offices, Zip Code)
+
+( 212 - 720-3700 )
+
+(Registrant’s telephone number, including area code)
+
+[TABLE_START]
+​ | ​ | ​ | Title of each class | Trading Symbol(s) | Name of each exchange on which registered | Common Stock | , par value $0.01 | Preferred Stock Purchase Rights | FL | New York Stock Exchange | New York Stock Exchange
+[TABLE_END]
+
+​
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ◻
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ◻
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | Large accelerated filer | ☒ | Accelerated filer | ◻ | Non-accelerated filer | ◻ | Smaller reporting company | ◻ | Emerging growth company | ◻ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ◻
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ◻ No ☒
+
+Number of shares of Common Stock outstanding as of December 3, 2021: 100,368,462
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+TABLE OF CONTENTS
+
+[TABLE_START]
+​ | ​ | ​ | Page | PART I | FINANCIAL INFORMATION | 1 | ​ | Item 1. | Financial Statements | (Unaudited) | 1 | ​ | ​ | Condensed Consolidated Balance Sheets | (Unaudited) | 1 | ​ | ​ | Condensed Consolidated Statements of Operations | (Unaudited) | 2 | ​ | ​ | Condensed Consolidated Statements of Comprehensive Income | (Unaudited) | 3 | ​ | ​ | Condensed Consolidated Statements of Changes in Shareholders’ Equity | (Unaudited) | 4 | ​ | ​ | Condensed Consolidated Statements of Cash Flows | (Unaudited) | 5 | ​ | ​ | Notes to the Unaudited | Condensed | Consolidated Financial Statements | (Unaudited) | 6 | ​ | Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 20 | ​ | Item 4. | Controls and Procedures | 32 | ​ | ​ | ​ | ​ | PART II | OTHER INFORMATION | 32 | ​ | Item 1. | Legal Proceedings | 32 | ​ | Item 1A. | Risk Factors | 32 | ​ | Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 33 | ​ | Item 6. | Exhibits | 34 | ​ | ​ | ​ | ​ | SIGNATURE | 35
+[TABLE_END]
+
+​
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+​
+
+This Quarterly Report on Form 10-Q includes “forward-looking” statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by the fact that they do not relate strictly to historical or current facts. They often include words such as “believes,” “expects,” “anticipates,” “estimates,” “intends,” “plans,” “seeks,” “continues,” “feels,” “forecasts,” or words of similar meaning, or future or conditional verbs, such as “will,” “should,” “could,” “may,” “aims,” “intends,” or “projects.”
+
+​
+
+These statements include statements relating to trends in or expectations relating to the expected effects of our initiatives, strategies and plans, as well as trends in or expectations regarding our financial results and long-term growth model and drivers; expectations regarding increasing global taxes; business opportunities and expansion; acquisitions; investments; expenses; dividends; share repurchases; liquidity; cash flow from operations; use of cash and cash requirements; borrowing capacity and use of proceeds; repatriation of cash to the U.S.; the direct and indirect effects of all variants of the coronavirus pandemic (COVID-19) on our business, including any adverse effects of the U.S. government’s COVID-19 vaccine mandates; supply chain issues, including delays in merchandise receipts and increasing cost pressure caused by higher oceanic shipping and freight costs; labor shortages; expectations regarding increased wages; inflation; consumer spending levels; the effect of governmental assistance programs; and social unrest, on our financial results.
+
+​
+
+A forward-looking statement is neither a prediction nor a guarantee of future events or circumstances, and those future events or circumstances may not occur. You should not place undue reliance on forward-looking statements, which speak to our views only as of the date of this filing. These forward-looking statements are all based on currently-available operating, financial, and competitive information, and are subject to various risks and uncertainties, many of which are unforeseeable and beyond our control, such as the ongoing uncertainty related to COVID-19. Additional risks and uncertainties that we do not presently know about or that we currently consider to be insignificant may also affect our business operations and financial performance.
+
+​
+
+Please refer to “Item 1A. Risk Factors” of our most recent Annual Report on Form 10-K filed with the U.S. Securities and Exchange Commission, as well as the updates provided in Item 1A. Risk Factors of this Form 10-Q. Given these risks and uncertainties, you should not rely on forward-looking statements as predictions of actual results. Any or all of the forward-looking statements contained in this report, or any other public statement made by us, including by our management, may turn out to be incorrect. We are including this cautionary note to make applicable and take advantage of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 for forward-looking statements. We expressly disclaim any obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise.
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(Unaudited)
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | October 30, | ​ | October 31, | ​ | January 30, | ​ | ($ in millions, except share amounts) | 2021 | 2020 | 2021* | ASSETS | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Current assets: | ​ | ​ | ​ | Cash and cash equivalents | ​ | $ | 1,339 | ​ | $ | 1,393 | ​ | $ | 1,680 | ​ | Merchandise inventories | ​ | 1,301 | ​ | 1,193 | ​ | 923 | ​ | Other current assets | ​ | 253 | ​ | 237 | ​ | 232 | ​ | ​ | ​ | 2,893 | ​ | 2,823 | ​ | 2,835 | ​ | Property and equipment, net | ​ | 860 | ​ | 773 | ​ | 788 | ​ | Operating lease right-of-use assets | ​ | ​ | 2,619 | ​ | ​ | 2,752 | ​ | ​ | 2,716 | ​ | Deferred taxes | ​ | 95 | ​ | 69 | ​ | 101 | ​ | Goodwill | ​ | 651 | ​ | 158 | ​ | 159 | ​ | Other intangible assets, net | ​ | 235 | ​ | 18 | ​ | 17 | ​ | Minority investments | ​ | ​ | 762 | ​ | ​ | 340 | ​ | ​ | 337 | ​ | Other assets | ​ | 96 | ​ | 85 | ​ | 90 | ​ | ​ | ​ | $ | 8,211 | ​ | $ | 7,018 | ​ | $ | 7,043 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | LIABILITIES AND SHAREHOLDERS’ EQUITY | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Current liabilities: | ​ | ​ | ​ | ​ | Accounts payable | ​ | $ | 578 | ​ | $ | 514 | ​ | $ | 402 | ​ | Accrued and other liabilities | ​ | 498 | ​ | 451 | ​ | 560 | ​ | Current portion of debt and obligations under finance leases | ​ | ​ | 104 | ​ | ​ | 2 | ​ | ​ | 102 | ​ | Current portion of lease obligations | ​ | ​ | 577 | ​ | ​ | 575 | ​ | ​ | 580 | ​ | ​ | ​ | 1,757 | ​ | 1,542 | ​ | 1,644 | ​ | Long-term debt and obligations under finance leases | ​ | 456 | ​ | 129 | ​ | 8 | ​ | Long-term lease obligations | ​ | ​ | 2,421 | ​ | ​ | 2,514 | ​ | ​ | 2,499 | ​ | Other liabilities | ​ | 235 | ​ | 181 | ​ | 116 | ​ | Total liabilities | ​ | 4,869 | ​ | 4,366 | ​ | 4,267 | ​ | Commitments and contingencies | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Shareholders’ equity: | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Common stock and paid-in capital: | 104,541,760 | ; | 104,451,566 | ; and | 103,693,359 | shares issued, respectively | ​ | ​ | 806 | ​ | ​ | 777 | ​ | ​ | 779 | ​ | Retained earnings | ​ | ​ | 3,044 | ​ | ​ | 2,245 | ​ | ​ | 2,326 | ​ | Accumulated other comprehensive loss | ​ | ​ | ( | 343 | ) | ​ | ​ | ( | 365 | ) | ​ | ​ | ( | 331 | ) | ​ | Less: Treasury stock at cost: | 3,473,932 | ; | 326,727 | ; and | 74,236 | shares, respectively | ​ | ​ | ( | 170 | ) | ​ | ​ | ( | 11 | ) | ​ | ​ | ( | 3 | ) | ​ | Noncontrolling interest | ​ | ​ | 5 | ​ | ​ | 6 | ​ | ​ | 5 | ​ | Total shareholders' equity | ​ | ​ | 3,342 | ​ | ​ | 2,652 | ​ | ​ | 2,776 | ​ | ​ | ​ | $ | 8,211 | ​ | $ | 7,018 | ​ | $ | 7,043 | ​
+[TABLE_END]
+
+[TABLE_START]
+* | The balance sheet at January 30, 2021 has been derived from the previously reported audited consolidated financial statements at that date, but does not include all of the information and footnotes required by U.S. generally accepted accounting principles for complete financial statements. For further information, refer to the consolidated financial statements and footnotes thereto included in Foot Locker, Inc.’s Annual Report on Form 10-K for the year ended January 30, 2021.
+[TABLE_END]
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+Third Quarter 2021 Form 10-Q Page 1
+
+[PAGE BREAK]
+
+Table of Contents
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ​ | ($ in millions, except per share amounts) | 2021 | 2020 | 2021 | 2020 | Sales | ​ | $ | 2,189 | ​ | $ | 2,106 | ​ | $ | 6,617 | ​ | $ | 5,359 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cost of sales | ​ | 1,429 | ​ | 1,456 | ​ | 4,310 | ​ | 3,900 | ​ | Selling, general and administrative expenses | ​ | 458 | ​ | 424 | ​ | 1,326 | ​ | 1,127 | ​ | Depreciation and amortization | ​ | 49 | ​ | 44 | ​ | 142 | ​ | 132 | ​ | Impairment and other charges | ​ | 57 | ​ | 4 | ​ | 97 | ​ | 58 | ​ | Income from operations | ​ | 196 | ​ | 178 | ​ | 742 | ​ | 142 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Interest expense, net | ​ | ( | 4 | ) | ​ | ( | 2 | ) | ​ | ( | 8 | ) | ​ | ( | 5 | ) | ​ | Other income, net | ​ | 30 | ​ | 193 | ​ | 359 | ​ | 197 | ​ | Income before income taxes | ​ | 222 | ​ | 369 | ​ | 1,093 | ​ | 334 | ​ | Income tax expense | ​ | 64 | ​ | 104 | ​ | 303 | ​ | 134 | ​ | Net income | ​ | $ | 158 | ​ | $ | 265 | ​ | $ | 790 | ​ | $ | 200 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Basic earnings per share | ​ | $ | 1.53 | ​ | $ | 2.54 | ​ | $ | 7.63 | ​ | $ | 1.92 | ​ | Weighted-average shares outstanding | ​ | 103.2 | ​ | 104.4 | ​ | 103.5 | ​ | 104.4 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Diluted earnings per share | ​ | $ | 1.52 | ​ | $ | 2.52 | ​ | $ | 7.54 | ​ | $ | 1.91 | ​ | Weighted-average shares outstanding, assuming dilution | ​ | 104.4 | ​ | 105.3 | ​ | 104.9 | ​ | 105.1 | ​
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+Third Quarter 2021 Form 10-Q Page 2
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Net income | ​ | $ | 158 | ​ | $ | 265 | ​ | $ | 790 | ​ | $ | 200 | ​ | Other comprehensive income (loss), net of income tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Foreign currency translation adjustment: | ​ | ​ | ​ | ​ | ​ | Translation adjustment arising during the period, net of income tax (benefit)/expense of ( | $ | 2 | ), | $- | , ( | $ | 1 | ), and | $ | 2 | , respectively | ​ | ( | 7 | ) | ​ | — | ​ | ( | 17 | ) | ​ | 20 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cash flow hedges: | ​ | ​ | ​ | ​ | ​ | Change in fair value of derivatives, net of income tax expense of | $- | , | $- | , | $- | , and | $ | 1 | , respectively | ​ | 1 | ​ | — | ​ | 1 | ​ | 3 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Pension and postretirement adjustments: | ​ | ​ | ​ | ​ | ​ | ​ | Amortization of net actuarial gain/loss and prior service cost included in net periodic benefit costs, net of income tax expense of | $ | 1 | , | $- | , | $ | 2 | , and | $ | 2 | , respectively | ​ | 1 | ​ | 2 | ​ | 4 | ​ | ​ | 6 | ​ | Comprehensive income | ​ | $ | 153 | ​ | $ | 267 | ​ | $ | 778 | ​ | $ | 229 | ​
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+Third Quarter 2021 Form 10-Q Page 3
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Additional Paid-In | ​ | ​ | ​ | ​ | ​ | ​ | Accumulated | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Capital & | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Other | ​ | ​ | ​ | Total | Thirteen weeks ended | ​ | Common Stock | ​ | Treasury Stock | ​ | Retained | ​ | Comprehensive | ​ | Noncontrolling | ​ | Shareholders' | (shares in thousands, amounts in millions) | ​ | Shares | ​ | Amount | ​ | Shares | ​ | Amount | ​ | Earnings | ​ | Loss | ​ | interests | ​ | Equity | Balance at July 31, 2021 | 104,516 | ​ | $ | 799 | ​ | ( | 714 | ) | ​ | $ | ( | 41 | ) | ​ | $ | 2,916 | ​ | $ | ( | 338 | ) | ​ | $ | 5 | ​ | $ | 3,341 | Issued under restricted stock plans | 19 | ​ | ​ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 7 | ​ | ​ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Share-based compensation expense | ​ | ​ | ​ | 7 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 7 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 10 | ) | ​ | ​ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Share repurchases | ​ | ​ | ​ | ​ | ​ | ( | 2,750 | ) | ​ | ​ | ( | 129 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 129 | ) | Net income | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 158 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 158 | Cash dividends declared on common stock ($ | 0.30 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 30 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 30 | ) | Translation adjustment, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 7 | ) | ​ | ​ | ​ | ​ | ​ | ( | 7 | ) | Change in cash flow hedges, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 1 | ​ | ​ | ​ | ​ | ​ | 1 | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 1 | ​ | ​ | ​ | ​ | ​ | 1 | Balance at October 30, 2021 | 104,542 | ​ | $ | 806 | ( | 3,474 | ) | ​ | $ | ( | 170 | ) | ​ | $ | 3,044 | ​ | $ | ( | 343 | ) | ​ | $ | 5 | ​ | $ | 3,342 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Balance at August 1, 2020 | 104,392 | ​ | $ | 774 | ​ | — | ​ | $ | — | ​ | $ | 1,996 | ​ | $ | ( | 367 | ) | ​ | $ | — | ​ | $ | 2,403 | Issued under restricted stock plans | 53 | ​ | ​ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 7 | ​ | ​ | 1 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 1 | Share-based compensation expense | ​ | ​ | ​ | 2 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 2 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 19 | ) | ​ | ​ | ( | 1 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 1 | ) | Share repurchases | ​ | ​ | ​ | ​ | ​ | ( | 308 | ) | ​ | ​ | ( | 10 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 10 | ) | Noncontrolling interests acquired | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 6 | ​ | ​ | 6 | Net income | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 265 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 265 | Cash dividends declared on common stock ($ | 0.15 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 16 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 16 | ) | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 2 | ​ | ​ | ​ | ​ | ​ | 2 | Balance at October 31, 2020 | 104,452 | ​ | $ | 777 | ​ | ( | 327 | ) | ​ | $ | ( | 11 | ) | ​ | $ | 2,245 | ​ | $ | ( | 365 | ) | ​ | $ | 6 | ​ | $ | 2,652
+[TABLE_END]
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Additional Paid-In | ​ | ​ | ​ | ​ | ​ | ​ | Accumulated | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Capital & | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Other | ​ | ​ | ​ | Total | Thirty-nine weeks ended | ​ | Common Stock | ​ | Treasury Stock | ​ | Retained | ​ | Comprehensive | ​ | Noncontrolling | ​ | Shareholders' | (shares in thousands, amounts in millions) | ​ | Shares | ​ | Amount | ​ | Shares | ​ | Amount | ​ | Earnings | ​ | Loss | ​ | interests | ​ | Equity | Balance at January 30, 2021 | 103,693 | ​ | $ | 779 | ​ | ( | 74 | ) | ​ | $ | ( | 3 | ) | ​ | $ | 2,326 | ​ | $ | ( | 331 | ) | ​ | $ | 5 | ​ | $ | 2,776 | Issued under restricted stock plans | 498 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 351 | ​ | ​ | 11 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 11 | Share-based compensation expense | ​ | ​ | ​ | 23 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 23 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 205 | ) | ​ | ​ | ( | 11 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 11 | ) | Share repurchases | ​ | ​ | ​ | ​ | ​ | ( | 3,496 | ) | ​ | ​ | ( | 170 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 170 | ) | Reissued for Employee Stock Purchase Plan | ​ | ​ | ​ | ( | 7 | ) | ​ | 301 | ​ | ​ | 14 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 7 | Net income | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 790 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 790 | Cash dividends declared on common stock ($ | 0.70 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 72 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 72 | ) | Translation adjustment, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 17 | ) | ​ | ​ | ​ | ​ | ​ | ( | 17 | ) | Change in cash flow hedges, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 1 | ​ | ​ | ​ | ​ | ​ | 1 | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 4 | ​ | ​ | ​ | ​ | ​ | 4 | Balance at October 30, 2021 | 104,542 | ​ | $ | 806 | ​ | ( | 3,474 | ) | ​ | $ | ( | 170 | ) | ​ | $ | 3,044 | ​ | $ | ( | 343 | ) | ​ | $ | 5 | ​ | $ | 3,342 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Balance at February 1, 2020 | 104,188 | ​ | $ | 764 | ​ | — | ​ | $ | — | ​ | $ | 2,103 | ​ | $ | ( | 394 | ) | ​ | $ | — | ​ | $ | 2,473 | Issued under restricted stock plans | 120 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 144 | ​ | ​ | 4 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 4 | Share-based compensation expense | ​ | ​ | ​ | 9 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 9 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 42 | ) | ​ | ​ | ( | 1 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 1 | ) | Share repurchases | ​ | ​ | ​ | ​ | ​ | ​ | ( | 308 | ) | ​ | ​ | ( | 10 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 10 | ) | Reissued Employee Stock Purchase Plan | ​ | ​ | ​ | ​ | ​ | ​ | 23 | ​ | ​ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Noncontrolling interests acquired | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 6 | ​ | ​ | 6 | Net income | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 200 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 200 | Cash dividends declared on common stock ($ | 0.55 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 58 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 58 | ) | Translation adjustment, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 20 | ​ | ​ | ​ | ​ | ​ | 20 | Change in cash flow hedges, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 3 | ​ | ​ | ​ | ​ | ​ | 3 | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 6 | ​ | ​ | ​ | ​ | ​ | 6 | Balance at October 31, 2020 | 104,452 | ​ | $ | 777 | ​ | ( | 327 | ) | ​ | $ | ( | 11 | ) | ​ | $ | 2,245 | ​ | $ | ( | 365 | ) | ​ | $ | 6 | ​ | $ | 2,652
+[TABLE_END]
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+Third Quarter 2021 Form 10-Q Page 4
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | From operating activities: | ​ | ​ | Net income | ​ | $ | 790 | ​ | $ | 200 | Adjustments to reconcile net income to net cash provided by operating activities: | ​ | ​ | ​ | ​ | Non-cash impairment and other charges | ​ | 88 | ​ | 32 | Non-cash gains | ​ | ​ | ( | 340 | ) | ​ | ​ | ( | 190 | ) | Depreciation and amortization | ​ | 142 | ​ | 132 | Deferred income taxes | ​ | 57 | ​ | 73 | Share-based compensation expense | ​ | 23 | ​ | 9 | Change in assets and liabilities: | ​ | ​ | ​ | ​ | Merchandise inventories | ​ | ( | 306 | ) | ​ | 13 | Accounts payable | ​ | 122 | ​ | 177 | Accrued and other liabilities | ​ | 16 | ​ | 122 | Insurance receivable for inventory loss | ​ | 8 | ​ | — | Other, net | ​ | ( | 102 | ) | ​ | 104 | Net cash provided by operating activities | ​ | 498 | ​ | 672 | From investing activities: | ​ | ​ | Purchase of business, net of cash acquired | ​ | ( | 737 | ) | ​ | — | Capital expenditures | ​ | ( | 137 | ) | ​ | ( | 116 | ) | Minority investments | ​ | ( | 115 | ) | ​ | ( | 8 | ) | Proceeds from sale of property | ​ | ​ | 3 | ​ | ​ | — | Insurance proceeds related to loss on property and equipment | ​ | 3 | ​ | — | Net cash used in investing activities | ​ | ( | 983 | ) | ​ | ( | 124 | ) | From financing activities: | ​ | ​ | Proceeds from debt issuance, net | ​ | ​ | 395 | ​ | — | Payment of obligations under finance leases | ​ | ​ | ( | 3 | ) | ​ | ​ | — | Payment of debt issuance costs | ​ | ​ | ( | 2 | ) | ​ | ​ | ( | 4 | ) | Proceeds from the revolving credit facility | ​ | ​ | — | ​ | ​ | 330 | Repayment of the revolving credit facility | ​ | ​ | — | ​ | ​ | ( | 330 | ) | Purchase of treasury shares | ​ | ​ | ( | 170 | ) | ​ | ( | 10 | ) | Dividends paid on common stock | ​ | ​ | ( | 72 | ) | ​ | ( | 58 | ) | Proceeds from exercise of stock options | ​ | ​ | 10 | ​ | — | Shares of common stock repurchased to satisfy tax withholding obligations | ​ | ​ | ( | 11 | ) | ​ | ( | 1 | ) | Treasury stock reissued under employee stock plan | ​ | 7 | ​ | — | Proceeds from common stock issued under employee stock plan | ​ | ​ | — | ​ | ​ | 2 | Contribution from non-controlling interest | ​ | ​ | — | ​ | ​ | 6 | Net cash provided by (used in) financing activities | ​ | 154 | ​ | ( | 65 | ) | Effect of exchange rate fluctuations on cash, cash equivalents, and restricted cash | ​ | ( | 2 | ) | ​ | 5 | Net change in cash, cash equivalents, and restricted cash | ​ | ( | 333 | ) | ​ | 488 | Cash, cash equivalents, and restricted cash at beginning of year | ​ | 1,718 | ​ | 942 | Cash, cash equivalents, and restricted cash at end of period | ​ | $ | 1,385 | ​ | $ | 1,430 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cash paid during the year: | ​ | ​ | Interest | ​ | $ | 7 | ​ | $ | 8 | Income taxes | ​ | $ | 313 | ​ | $ | 55 | Cash paid for amounts included in measurement of lease liabilities | ​ | $ | 527 | ​ | $ | 445 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Non-cash investing activities: | ​ | ​ | ​ | ​ | ​ | ​ | Right-of-use assets obtained in exchange for operating lease obligations | ​ | $ | 242 | ​ | $ | 212 | Assets obtained in exchange for finance lease obligations | ​ | $ | 4 | ​ | $ | 11
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements .
+
+​
+
+Third Quarter 2021 Form 10-Q Page 5
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+1. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accompanying condensed consolidated financial statements contained in this report are unaudited. In the opinion of management, the condensed consolidated financial statements include all normal, recurring adjustments necessary for a fair presentation of the results for the interim periods presented. As used in these Notes to the Unaudited Condensed Consolidated Financial Statements, the terms “Foot Locker,” “Company,” “we,” “our,” and “us” refer to Foot Locker, Inc. and its consolidated subsidiaries.
+
+The preparation of financial statements in accordance with U.S. generally accepted accounting principles requires us to make estimates and assumptions that affect the amounts reported in the accompanying Unaudited Condensed Consolidated Financial Statements and these Notes and related disclosures. Actual results may differ from those estimates. The results of operations for any interim period are not necessarily indicative of the results expected for the year. The results of operations for the period ended October 30, 2021 are not necessarily indicative of the results to be expected for the full fiscal year due to the continued uncertainty of general economic conditions that may affect us for the remainder of 2021. Specifically, the ongoing pandemic (“COVID-19”), including the dissemination and adoption of COVID-19 vaccines and their effectiveness against COVID-19 and its evolving strains, some of which may be more transmissible or virulent than the initial strain or additional widespread resurgences in COVID-19 infections, including evolving safety protocols including requirements for proof of vaccination, are significant uncertainties. COVID-19, as well as port delays, may affect our sales, traffic to our stores, our distribution capabilities, and distribution capabilities of our suppliers.
+
+The accompanying unaudited condensed consolidated financial statements should be read in conjunction with the Notes to Consolidated Financial Statements contained in our 2020 Form 10-K.
+
+There were no significant changes to the policies disclosed in Note 1, Summary of Significant Accounting Policies of our 2020 Form 10-K.
+
+Recent Accounting Pronouncements
+
+Recently issued accounting pronouncements did not, or are not believed by management to, have a material effect on our present or future consolidated financial statements.
+
+2. Acquisition
+
+Effective September 18, 2021, the Company, through its wholly-owned subsidiary Foot Locker Retail, Inc., acquired 100 percent of the shares of Eurostar, Inc., a Delaware corporation operating as WSS (“WSS”). WSS is a U.S.-based off-mall athletic footwear and apparel retailer, focused on the Hispanic consumer, which operates 93 stores primarily on the West Coast. The aggregate purchase price paid for the acquisition was $ 807 million ($ 737 million, net of cash acquired), subject to adjustment for finalization of the value of the net assets acquired and was funded with available cash. We believe that this acquisition enhances our growth opportunities in North America and creates further diversification and differentiation in terms of both customers and products.
+
+The results of WSS are included in our consolidated financial statements since the acquisition date. The table on the following page summarizes the preliminary allocation of the purchase price to the fair value of assets acquired. The allocation of the purchase price shown in the table below is preliminary and subject to change based on the finalization of our detailed valuations, including the valuations of WSS tradename, private label tradenames, customer lists, other intangibles, and leases.
+
+Third Quarter 2021 Form 10-Q Page 6
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ($ in millions) | ​ | Assets acquired: | ​ | Cash and cash equivalents | ​ | $ | 70 | Merchandise inventories | ​ | 80 | Other current assets | ​ | 10 | Property and equipment, net | ​ | 116 | Operating lease right-of-use assets | ​ | ​ | 143 | WSS tradename | ​ | 220 | Other assets | ​ | 4 | Liabilities assumed: | ​ | Accounts payable | ​ | $ | ( | 58 | ) | Current portion of obligations under finance leases | ​ | ​ | ( | 3 | ) | Current portion of lease obligations | ​ | ​ | ( | 20 | ) | Long-term portion of obligations under finance leases | ​ | ​ | ( | 53 | ) | Long-term lease obligations | ​ | ​ | ( | 134 | ) | Deferred taxes | ​ | ​ | ( | 58 | ) | Other liabilities | ​ | ( | 4 | ) | ​ | ​ | ​ | ​ | Goodwill | ​ | ​ | 494 | Total purchase price | ​ | $ | 807
+[TABLE_END]
+
+​
+
+We determined that the WSS tradename will have an indefinite life and will not be amortized.  The proforma effects of the acquisition have not been presented, as their effects were not significant to the consolidated results of operations.
+
+3. Revenue
+
+The table below presents sales disaggregated based upon sales channel. Sales are attributable to the channel in which the sales transaction is initiated.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Sales by Channel | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Stores | ​ | $ | 1,756 | ​ | $ | 1,656 | ​ | $ | 5,193 | ​ | $ | 3,858 | Direct-to-customers | ​ | 433 | ​ | 450 | ​ | 1,424 | ​ | 1,501 | Total sales | ​ | $ | 2,189 | ​ | $ | 2,106 | ​ | $ | 6,617 | ​ | $ | 5,359
+[TABLE_END]
+
+​
+
+Sales disaggregated based upon geographic area is presented in the table below. Sales are attributable to the geographic area in which the sales transaction is fulfilled.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Sales by Geography | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | United States | ​ | $ | 1,524 | ​ | $ | 1,534 | ​ | $ | 4,860 | ​ | $ | 3,974 | International | ​ | 665 | ​ | 572 | ​ | 1,757 | ​ | 1,385 | Total sales | ​ | $ | 2,189 | ​ | $ | 2,106 | ​ | $ | 6,617 | ​ | $ | 5,359
+[TABLE_END]
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 7
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+Contract Liabilities
+
+We sell gift cards, which do not have expiration dates. Revenue from gift card sales is recorded when the gift cards are redeemed by customers. Breakage income is recognized as revenue in proportion to the pattern of rights exercised by the customer . The table below presents the activity of our gift card liability balance.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | October 30, | ​ | October 31, | ($ in millions) | ​ | 2021 | ​ | 2020 | Gift card liability at beginning of year | ​ | $ | 41 | ​ | $ | 35 | Liabilities acquired - WSS | ​ | ​ | 1 | ​ | ​ | — | Redemptions | ​ | ​ | ( | 187 | ) | ​ | ​ | ( | 70 | ) | Breakage recognized in sales | ​ | ​ | ( | 13 | ) | ​ | ​ | ( | 5 | ) | Activations | ​ | ​ | 192 | ​ | ​ | 69 | Foreign currency fluctuations | ​ | ​ | — | ​ | ​ | 1 | Gift card liability | ​ | $ | 34 | ​ | $ | 30
+[TABLE_END]
+
+We elected not to disclose the information about remaining performance obligations since the amount of gift cards redeemed after 12 months is not significant.
+
+4. Segment Information
+
+We have integrated all available shopping channels including stores, websites, apps, social channels, and catalogs. Store sales are primarily fulfilled from the store’s inventory, but may also be shipped from any of our distribution centers or from a different store location if an item is not available at the original store. Direct-to-customer orders are generally shipped to our customers through our distribution centers but may also be shipped from any store or a combination of our distribution centers and stores depending on availability.
+
+We evaluate performance based on several factors, primarily the banner’s financial results, referred to as division profit. Division profit reflects income before income taxes, impairment and other charges, corporate expense, non-operating income, and net interest expense.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Sales | ​ | $ | 2,189 | ​ | $ | 2,106 | ​ | $ | 6,617 | ​ | $ | 5,359 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Operating Results | ​ | ​ | ​ | ​ | Division profit | ​ | ​ | 283 | ​ | ​ | 198 | ​ | ​ | 930 | ​ | ​ | 244 | Less: Impairment and other charges | (1) | ​ | 57 | ​ | 4 | ​ | 97 | ​ | 58 | Less: Corporate expense | (2) | ​ | 30 | ​ | 16 | ​ | 91 | ​ | 44 | Income from operations | ​ | 196 | ​ | 178 | ​ | 742 | ​ | 142 | Interest expense, net | ​ | ( | 4 | ) | ​ | ( | 2 | ) | ​ | ( | 8 | ) | ​ | ( | 5 | ) | Other income, net | ​ | 30 | ​ | 193 | ​ | 359 | ​ | 197 | Income before income taxes | ​ | $ | 222 | ​ | $ | 369 | ​ | $ | 1,093 | ​ | $ | 334
+[TABLE_END]
+
+[TABLE_START]
+(1) | During the thirty-nine weeks ended October 30, 2021, we recorded pre-tax charges as detailed in Note 5, | Impairment and Other Charges | .
+[TABLE_END]
+
+[TABLE_START]
+(2) | Corporate expense consists of unallocated selling, general and administrative expenses, as well as depreciation and amortization related to our corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items.
+[TABLE_END]
+
+​
+
+Third Quarter 2021 Form 10-Q Page 8
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+5. Impairment and Other Charges
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Impairment of long-lived assets and right-of-use assets | ​ | $ | 13 | ​ | $ | — | ​ | $ | 52 | ​ | $ | 15 | Impairment of investments | ​ | ​ | 30 | ​ | ​ | — | ​ | ​ | 32 | ​ | ​ | — | Acquisition and integration costs | ​ | ​ | 14 | ​ | ​ | — | ​ | ​ | 14 | ​ | ​ | — | Lease termination costs | ​ | ​ | — | ​ | ​ | — | ​ | ​ | 4 | ​ | ​ | — | Reorganization costs | ​ | ​ | — | ​ | ​ | — | ​ | ​ | 2 | ​ | ​ | 3 | (Insurance recovery)/ losses related to social unrest | ​ | ​ | — | ​ | ​ | 1 | ​ | ​ | ( | 7 | ) | ​ | ​ | 19 | Runners Point shut down | ​ | ​ | — | ​ | ​ | 3 | ​ | ​ | — | ​ | ​ | 19 | Pension litigation related charges | ​ | ​ | — | ​ | ​ | — | ​ | ​ | — | ​ | ​ | 2 | Total impairment and other charges | ​ | $ | 57 | ​ | $ | 4 | ​ | $ | 97 | ​ | $ | 58
+[TABLE_END]
+
+​
+
+Impairment of long-lived assets and right-of-use assets was $ 13 million and $ 52 million for the thirteen and thirty-nine weeks ended October 30, 2021, respectively, and $ 15 million for the thirty-nine weeks ended October 31, 2020. During the second quarter of 2021, we conducted an impairment review of Footaction stores as a result of our decision to convert part of the stores to other existing banner concepts and close the remaining stores. We evaluated the long-lived assets, including the right-of-use assets and recorded non-cash charges to write down store fixtures, leasehold improvements, and right-of-use assets for approximately 60 locations, and accelerated tenancy charges for leases we expect to terminate prior to the end of the lease term. In connection with this, we recorded charges totaling $ 39 million and $ 13 million for the second and third quarters, respectively. The prior year charges of $ 15 million related to certain Runners Point and Sidestep stores and other underperforming stores in Europe.
+
+Impairment of investments was $ 30 million and $ 32 million for the thirteen and thirty-nine weeks ended October 30, 2021, respectively. During the third quarter of 2021, due to continued losses and updated and estimates of value for one of the Company’s minority investments, we recorded a non-cash write down of one of our minority investments. The thirty-nine weeks ended October 30, 2021 included a charge of $ 2 million related to another of our minority investments.
+
+In connection with the acquisitions, we recorded acquisition and integration costs of $ 14 million, which primarily represented investment banking fees related to the WSS acquisition.
+
+Additionally, during the thirty-nine weeks ended October 30, 2021, we recorded charges of $ 4 million primarily in other lease-related termination costs and charges of $ 2 million related to previously disclosed reorganization of certain support functions. The thirty-nine weeks ended October 31, 2020 included $ 3 million of reorganization costs and $ 2 million related to administrative costs associated with the pension plan reformation.
+
+For the thirteen and thirty-nine weeks ended October 31, 2020, we recorded $ 1 million and $ 19 million of costs and losses related to social unrest, respectively, and $ 3 million and $ 19 million, respectively, of charges related to the shutdown of the Runners Point business.
+
+Partially offsetting these losses and charges was $ 11 million of additional insurance recovery recorded, $ 7 million of which is classified in impairment and other charges as it relates to the book value of property losses recorded in 2020.
+
+Third Quarter 2021 Form 10-Q Page 9
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+6. Cash, Cash Equivalents, and Restricted Cash
+
+The table below provides a reconciliation of cash and cash equivalents, as reported on our Condensed Consolidated Balance Sheets, to cash, cash equivalents, and restricted cash, as reported on our Condensed Consolidated Statements of Cash Flows.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | Cash and cash equivalents | ​ | $ | 1,339 | ​ | $ | 1,393 | Restricted cash included in other current assets | ​ | ​ | 9 | ​ | ​ | 8 | Restricted cash included in other non-current assets | ​ | ​ | 37 | ​ | ​ | 29 | Cash, cash equivalents, and restricted cash | ​ | $ | 1,385 | ​ | $ | 1,430
+[TABLE_END]
+
+​
+
+Amounts included in restricted cash primarily relate to amounts held in escrow in connection with various leasing arrangements in Europe and deposits held in insurance trusts to satisfy the requirement to collateralize part of the self-insured workers’ compensation and liability claims.
+
+7. Goodwill
+
+Goodwill as of October 30, 2021 included $ 494 million related to the acquisition of WSS.
+
+We review goodwill for impairment annually during the first quarter of each fiscal year, or more frequently if impairment indicators arise. The review of impairment consists of either using a qualitative approach to determine whether it is more likely than not that the fair value of the assets is less than their respective carrying values or a one-step quantitative impairment test.
+
+The results of the first quarter analysis did not result in an impairment since the fair value of each reporting unit exceeded its carrying value.
+
+8. Other Intangible Assets, net
+
+The components of finite-lived intangible assets and intangible assets not subject to amortization are as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | October 30, 2021 | ​ | ​ | October 31, 2020 | ​ | ​ | Gross | ​ | Accum. | ​ | Net | ​ | Gross | ​ | Accum. | ​ | Net | ($ in millions) | ​ | value | ​ | amort. | ​ | value | ​ | value | ​ | amort. | ​ | value | Amortized intangible assets: | (1) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Lease acquisition costs | ​ | $ | 112 | ​ | $ | ( | 108 | ) | ​ | $ | 4 | ​ | $ | 119 | ​ | $ | ( | 113 | ) | ​ | $ | 6 | Trademarks / trade names | ​ | ​ | 20 | ​ | ​ | ( | 18 | ) | ​ | ​ | 2 | ​ | ​ | 20 | ​ | ​ | ( | 17 | ) | ​ | ​ | 3 | ​ | ​ | $ | 132 | ​ | $ | ( | 126 | ) | ​ | $ | 6 | ​ | $ | 139 | ​ | $ | ( | 130 | ) | ​ | $ | 9 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Indefinite life intangible assets: | (1) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Trademarks / trade names | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 229 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 9 | Other intangible assets, net | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 235 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 18
+[TABLE_END]
+
+[TABLE_START]
+(1) | The change in the ending balances also reflects the effect of foreign currency fluctuations due primarily to movements of the euro in relation to the U.S. dollar.
+[TABLE_END]
+
+The annual review of intangible assets with indefinite lives performed during the first quarter of 2021 did not result in the recognition of impairment.
+
+Third Quarter 2021 Form 10-Q Page 10
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+In connection with the preliminary allocation of the purchase price of WSS, we recognized a $220 million indefinite life intangible asset for the WSS tradename.
+
+Amortization expense recorded is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Amortization expense | ​ | $ | — | ​ | $ | — | ​ | $ | 2 | ​ | $ | 2
+[TABLE_END]
+
+​
+
+Estimated future amortization expense for finite-life intangible assets is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ($ in millions) | ​ | Remainder of 2021 | ​ | $ | 1 | 2022 | ​ | ​ | 3 | 2023 | ​ | 1 | 2024 | ​ | ​ | 1
+[TABLE_END]
+
+​
+
+​
+
+9. Revolving Credit Facility
+
+On May 19, 2021 , we entered into an amendment to the 2020 Credit Agreement (“Amended Credit Agreement”). The amendment provides for, among other things, (i) reducing the interest rates and commitment fees applicable to the loans and commitments, respectively, as described below, and (ii) reducing the “floor” applicable. The amendment provides that the interest rate applicable to loans drawn under the credit facility will be equal to, at our option, either a base rate, determined by reference to the federal funds rate, plus a margin of 0.25 percent to 0.75 percent per annum, or a Eurodollar rate, determined by reference to LIBOR, plus a margin of 1.25 percent to 1.75 percent per annum, in each case, depending on availability under the Amended Credit Agreement. In addition, we will pay a commitment fee of 0.25 percent per annum on the unused portion of the commitments under the Amended Credit Agreement. On October 1, 2021, WSS became a party to, and bound by the terms of the Amended Credit Agreement and other applicable Loan Documents (as defined in the Amended Credit Agreement) as guarantor.
+
+10. Long-Term Debt
+
+On October 5, 2021, Foot Locker, Inc. completed the sale of $ 400 million aggregate principal amount of its 4 percent Senior Notes due 2029 (the “Notes”). We received net proceeds from the offering of $ 395 million, after deducting the initial purchasers’ discount. The proceeds will be used for general corporate purposes.
+
+The Notes were issued pursuant to an indenture, dated as of October 5, 2021 (the “Indenture”), by and among the Company, certain guarantors from time to time party thereto, and U.S. Bank National Association, as trustee. The Notes are the senior unsecured, unsubordinated obligations of the Company and are guaranteed, jointly and severally, by the Company’s current and, subject to certain exceptions, future subsidiaries that guarantee the Company’s secured revolving credit facility or certain other debt of the Company or the guarantors.
+
+​
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 11
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+The Notes will mature on October 1, 2029. Interest will accrue from October 5, 2021 and will be payable semi-annually in arrears on April 1 and October 1 of each year, commencing on April 1, 2022. We incurred debt issuance costs of $ 1 million, which reduces the carrying value of debt and will be amortized in interest expense through the maturity date.
+
+The Indenture includes various provisions involving limitations, early redemption scenarios, and potential change of control.  It also includes customary events of default, including (subject in certain cases to customary grace and cure periods) nonpayment of principal or interest; breach of other agreements in the Indenture; failure to pay certain other indebtedness; certain events of bankruptcy, insolvency, or reorganization; failure to pay certain final judgments; and failure of certain guarantees to be enforceable.
+
+11. Accumulated Other Comprehensive Loss
+
+Accumulated other comprehensive loss (“AOCL”), net of tax, is comprised of the following:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | October 30, | ​ | October 31, | ​ | January 30, | ​ | ($ in millions) | 2021 | 2020 | 2021 | ​ | Foreign currency translation adjustments | ​ | $ | ( | 81 | ) | ​ | $ | ( | 84 | ) | ​ | $ | ( | 64 | ) | ​ | Cash flow hedges | ​ | — | ​ | — | ​ | ​ | ( | 1 | ) | ​ | Unrecognized pension cost and postretirement benefit | ​ | ( | 262 | ) | ​ | ( | 281 | ) | ​ | ​ | ( | 266 | ) | ​ | ​ | ​ | $ | ( | 343 | ) | ​ | $ | ( | 365 | ) | ​ | $ | ( | 331 | ) | ​
+[TABLE_END]
+
+​
+
+The changes in AOCL for the thirty-nine weeks ended October 30, 2021 were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Foreign | ​ | ​ | ​ | ​ | Items Related | ​ | ​ | ​ | ​ | ​ | Currency | ​ | ​ | ​ | ​ | to Pension and | ​ | ​ | ​ | ​ | ​ | Translation | ​ | Cash Flow | ​ | Postretirement | ​ | ​ | ​ | ($ in millions) | Adjustments | Hedges | Benefits | Total | Balance as of January 30, 2021 | ​ | $ | ( | 64 | ) | ​ | $ | ( | 1 | ) | ​ | $ | ( | 266 | ) | ​ | $ | ( | 331 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | OCI before reclassification | ​ | ( | 17 | ) | ​ | ​ | 1 | ​ | ​ | ( | 2 | ) | ​ | ( | 18 | ) | Amortization of pension actuarial loss, net of tax | ​ | — | ​ | ​ | — | ​ | ​ | 6 | ​ | 6 | Other comprehensive income | ​ | ( | 17 | ) | ​ | 1 | ​ | 4 | ​ | ( | 12 | ) | Balance as of October 30, 2021 | ​ | $ | ( | 81 | ) | ​ | $ | — | ​ | $ | ( | 262 | ) | ​ | $ | ( | 343 | )
+[TABLE_END]
+
+​
+
+Reclassifications from AOCL for the thirty-nine weeks ended October 30, 2021 were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ($ in millions) | ​ | Amortization of actuarial loss: | ​ | Pension benefits | ​ | $ | 8 | Income tax benefit | ​ | ( | 2 | ) | Total, net of tax | ​ | $ | 6
+[TABLE_END]
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 12
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+12. Fair Value Measurements
+
+Our financial assets are recorded at fair value, using a three-level fair value hierarchy that prioritizes the inputs used to measure fair value. The three levels of inputs used to measure fair value are categorized as follows:
+
+[TABLE_START]
+Level 1 | – | Quoted prices for identical instruments in active markets.
+[TABLE_END]
+
+[TABLE_START]
+Level 2 – | Observable inputs other than quoted prices included within Level 1, including quoted prices for similar instruments in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations in which all significant inputs or significant value-drivers are observable in active markets.
+[TABLE_END]
+
+[TABLE_START]
+Level 3 – | Model-derived valuations in which one or more significant inputs or significant value-drivers are unobservable.
+[TABLE_END]
+
+During the second quarter of 2021, we invested $ 68 million to take a common stock minority stake in a public entity, Retailors, Ltd, which is traded on the Tel Aviv stock exchange. Our investment was at a discount to the initial public offering price. This investment is classified as a Level 1 instrument since the fair value is readily available in an active market.
+
+The fair value of the auction rate security, classified as available-for-sale, is determined by using quoted prices for similar instruments in active markets and accordingly is classified as a Level 2 instrument.
+
+Our derivative financial instruments are valued using market-based inputs to valuation models. These valuation models require a variety of inputs, including contractual terms, market prices, yield curves, and measures of volatility and, therefore, are classified as Level 2 instruments.
+
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ($ in millions) | ​ | As of October 30, 2021 | ​ | As of October 31, 2020 | ​ | ​ | ​ | ​ | Level 1 | Level 2 | Level 3 | Level 1 | Level 2 | Level 3 | Assets | ​ | ​ | ​ | ​ | ​ | ​ | Minority investment in common stock | ​ | ​ | 118 | ​ | ​ | — | ​ | ​ | — | ​ | ​ | — | ​ | ​ | — | ​ | ​ | — | Available-for-sale security | ​ | ​ | — | ​ | ​ | 7 | ​ | ​ | — | ​ | ​ | — | ​ | ​ | 7 | ​ | ​ | — | Total Assets | ​ | $ | 118 | ​ | $ | 7 | ​ | $ | — | ​ | $ | — | ​ | $ | 7 | ​ | $ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Liabilities | ​ | ​ | ​ | ​ | ​ | ​ | Foreign exchange forward contracts | ​ | — | ​ | 1 | ​ | — | ​ | — | ​ | — | ​ | — | Total Liabilities | ​ | $ | — | ​ | $ | 1 | ​ | $ | — | ​ | $ | — | ​ | $ | — | ​ | $ | —
+[TABLE_END]
+
+​
+
+There were no transfers into or out of Level 1, Level 2, or Level 3 assets and liabilities for any of the periods presented.
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 13
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+
+Assets and liabilities recognized or disclosed at fair value on the consolidated financial statements on a nonrecurring basis include items such as property, plant and equipment, operating lease right-of-use assets, goodwill, other intangible assets, and minority investments that are not accounted for under the equity method of accounting. These assets are measured using Level 3 inputs, if determined to be impaired.
+
+Minority investments measured using the fair value measurement alternative had a carrying value of $ 618 million and $ 326 million as of October 30, 2021 and October 31, 2020, respectively. During the second quarter of 2021, we recorded a $ 290 million increase in the fair value of our minority investment in GOAT. GOAT received additional funding at a higher valuation than the investment amount previously on our balance sheet. During the thirty-nine weeks ended October 30, 2021, we recorded non-cash charges of $ 32 million related to the write-down of two of our minority investments, resulting in $ 43 million of cumulative impairments.
+
+Long-Term Debt
+
+The fair value of long-term debt is determined by using model-derived valuations in which all significant inputs or significant value drivers are observable in active markets and, therefore, are classified as Level 2. The balance as of October 30, 2021 includes the $ 400 million Notes issued during the third quarter.
+
+The carrying value and estimated fair value of long-term debt were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ($ in millions) | October 30, 2021 | October 31, 2020 | Carrying value | (1) | ​ | $ | 492 | ​ | $ | 120 | Fair value | ​ | $ | 497 | ​ | $ | 129
+[TABLE_END]
+
+[TABLE_START]
+(1) | The carrying value of debt as of October 30, 2021 reflects | $ | 6 | million of issuer’s discount and costs related to the Senior Notes due 2029.
+[TABLE_END]
+
+The carrying values of cash and cash equivalents, and other current receivables and payables approximate their fair value.
+
+13. Earnings Per Share
+
+We account for earnings per share (“EPS”) using the treasury stock method. Basic EPS is computed by dividing net income for the period by the weighted-average number of common shares outstanding at the end of the period. Diluted earnings per share reflects the weighted-average number of common shares outstanding during the period used in the basic EPS computation plus dilutive common stock equivalents. The computation of diluted earnings per share does not assume conversion, exercise, or contingent issuance of securities that would have an anti-dilutive effect on EPS.
+
+Third Quarter 2021 Form 10-Q Page 14
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+The computation of basic and diluted EPS is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | (in millions, except per share data) | 2021 | 2020 | 2021 | 2020 | Net income | ​ | $ | 158 | ​ | $ | 265 | ​ | $ | 790 | ​ | $ | 200 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted-average common shares outstanding | ​ | 103.2 | ​ | 104.4 | ​ | 103.5 | ​ | 104.4 | Dilutive effect of potential common shares | ​ | 1.2 | ​ | 0.9 | ​ | 1.4 | ​ | 0.7 | Weighted-average common shares outstanding assuming dilution | ​ | 104.4 | ​ | 105.3 | ​ | 104.9 | ​ | 105.1 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Earnings per share - basic | ​ | $ | 1.53 | ​ | $ | 2.54 | ​ | $ | 7.63 | ​ | $ | 1.92 | Earnings per share - diluted | ​ | $ | 1.52 | ​ | $ | 2.52 | ​ | $ | 7.54 | ​ | $ | 1.91 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Anti-dilutive share-based awards excluded from diluted calculation | ​ | 1.8 | ​ | 2.5 | ​ | 1.8 | ​ | 2.7
+[TABLE_END]
+
+​
+
+Performance stock units related to our long-term incentive programs of 0.5 million and 0.5 million have been excluded from diluted weighted-average shares for the periods ended October 30, 2021 and October 31, 2020, respectively. The issuance of these shares are contingent on our performance metrics as compared to the pre-established performance goals, which have not been achieved.
+
+14. Pension
+
+The components of net periodic pension benefit expense are presented in the table below. Service cost is recognized as part of SG&A expense, while the other components are recognized as part of Other income, net.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | ​ | October 31, | ​ | ​ | October 30, | ​ | ​ | October 31, | ($ in millions) | ​ | 2021 | ​ | ​ | 2020 | ​ | ​ | 2021 | ​ | ​ | 2020 | Service cost | $ | 4 | ​ | $ | 3 | ​ | $ | 12 | ​ | $ | 10 | Interest cost | ​ | 4 | ​ | 5 | ​ | ​ | 13 | ​ | ​ | 16 | Expected return on plan assets | ​ | ( | 9 | ) | ​ | ( | 9 | ) | ​ | ​ | ( | 26 | ) | ​ | ​ | ( | 28 | ) | Amortization of net loss | ​ | 3 | ​ | 3 | ​ | ​ | 8 | ​ | ​ | 9 | Net benefit expense | $ | 2 | ​ | $ | 2 | ​ | $ | 7 | ​ | $ | 7
+[TABLE_END]
+
+​
+
+​
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 15
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+15. Share-Based Compensation
+
+Total compensation expense, included in SG&A, and the associated tax benefits recognized related to our share-based compensation plans, were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | ​ | 2021 | ​ | 2020 | ​ | 2021 | ​ | 2020 | Options and shares purchased under the stock purchase plan | ​ | $ | 1 | ​ | $ | 1 | ​ | $ | 5 | ​ | $ | 5 | Restricted stock units and performance stock units | ​ | 6 | ​ | 1 | ​ | 18 | ​ | 4 | Total share-based compensation expense | ​ | $ | 7 | ​ | $ | 2 | ​ | $ | 23 | ​ | $ | 9 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Tax benefit recognized | ​ | $ | — | ​ | $ | — | ​ | $ | 2 | ​ | $ | 1
+[TABLE_END]
+
+​
+
+Valuation Model and Assumptions
+
+We use the Black-Scholes option-pricing model to estimate the fair value of share-based awards. The Black-Scholes option-pricing model incorporates various and subjective assumptions, including expected term and expected volatility.
+
+The table below shows assumptions used to compute share-based compensation expense for awards granted during the thirty-nine weeks ended October 30, 2021 and October 31, 2020.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Stock Option Plans | ​ | ​ | Stock Purchase Plan | ​ | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ​ | ​ | 2021 | 2020 | 2021 | 2020 | Weighted-average risk free rate of interest | ​ | 0.9 | % | ​ | 0.5 | % | ​ | 0.1 | % | ​ | 1.8 | % | Expected volatility | ​ | 47 | % | ​ | 37 | % | ​ | 45 | % | ​ | 48 | % | Weighted-average expected award life (in years) | ​ | 5.5 | ​ | 4.9 | ​ | 1.0 | ​ | 1.0 | Dividend yield | ​ | 1.5 | % | ​ | 4.3 | % | ​ | 4.4 | % | ​ | 4.2 | % | Weighted-average fair value | ​ | $ | 20.22 | ​ | $ | 5.03 | ​ | $ | 8.78 | ​ | $ | 13.97 | ​
+[TABLE_END]
+
+​
+
+The information in the table below provides activity under our stock option plans for the thirty-nine weeks ended October 30, 2021.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted- | Weighted- | ​ | ​ | Number | ​ | Average | ​ | Average | ​ | ​ | of | ​ | Remaining | ​ | Exercise | ​ | ​ | Shares | ​ | Contractual Life | ​ | Price | ​ | ​ | (in thousands) | (in years) | ​ | (per share) | Options outstanding at the beginning of the year | 3,540 | ​ | ​ | ​ | $ | 47.17 | Granted | 183 | ​ | ​ | ​ | 53.82 | Exercised | ( | 309 | ) | ​ | ​ | ​ | 33.30 | Expired or cancelled | ( | 145 | ) | ​ | ​ | ​ | 53.21 | Options outstanding at October 30, 2021 | 3,269 | ​ | 5.2 | ​ | $ | 48.58 | Options exercisable at October 30, 2021 | 2,478 | ​ | 4.2 | ​ | $ | 53.70 | Options available for future grant at October 30, 2021 | ​ | 5,531 | ​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+Third Quarter 2021 Form 10-Q Page 16
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+​
+
+The total fair value of options vested during thirty-nine weeks ended October 30, 2021 and October 31, 2020 was $ 4 million and $ 6 million, respectively. The cash received from option exercises during the thirteen and thirty-nine weeks ended October 30, 2021 was not significant and $ 10 million, respectively. The related tax benefits realized from option exercises during the thirteen and thirty-nine weeks ended October 30, 2021 was not significant and $ 2 million, respectively. The cash received and related tax benefits realized from option exercises during the thirty-nine weeks ended October 31, 2020 were not significant.
+
+The total intrinsic value of options exercised (the difference between the market price of our common stock on the exercise date and the price paid by the optionee to exercise the option) is presented below:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Exercised | ​ | $ | — | ​ | $ | — | ​ | $ | 8 | ​ | $ | —
+[TABLE_END]
+
+​
+
+The aggregate intrinsic value for stock options outstanding, and outstanding and exercisable (the difference between our closing stock price on the last trading day of the period and the exercise price of the options, multiplied by the number of in-the-money stock options) is presented below:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirty-nine weeks ended | ($ in millions) | ​ | October 30, 2021 | ​ | October 31, 2020 | Outstanding | ​ | $ | 25 | ​ | $ | 18 | Outstanding and exercisable | ​ | $ | 11 | ​ | $ | 4
+[TABLE_END]
+
+​
+
+As of October 30, 2021, there was $ 3 million of total unrecognized compensation cost related to nonvested stock options which is expected to be recognized over a remaining weighted-average period of 1.4 years.
+
+The table below summarizes information about stock options outstanding and exercisable at October 30, 2021.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Options Outstanding | Options Exercisable | ​ | ​ | ​ | ​ | Weighted- | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Average | ​ | Weighted- | ​ | ​ | ​ | Weighted- | ​ | ​ | ​ | ​ | Remaining | ​ | Average | ​ | ​ | ​ | Average | Range of Exercise | ​ | Number | ​ | Contractual | ​ | Exercise | ​ | Number | ​ | Exercise | Prices | Outstanding | Life | Price | Exercisable | Price | ​ | (in thousands, except prices per share and contractual life) | $ | 21.60 | - | $ | 36.51 | 1,003 | ​ | 6.6 | ​ | $ | 23.85 | 469 | ​ | $ | 26.36 | $ | 44.78 | - | $ | 48.98 | 472 | ​ | 4.1 | ​ | 45.01 | 472 | ​ | 45.01 | $ | 53.61 | - | $ | 58.94 | 538 | ​ | 6.9 | ​ | 56.67 | 282 | ​ | 57.94 | $ | 62.02 | - | $ | 72.83 | ​ | 1,256 | ​ | 3.8 | ​ | 66.22 | 1,255 | ​ | 66.22 | ​ | 3,269 | 5.2 | ​ | $ | 48.58 | 2,478 | ​ | $ | 53.70
+[TABLE_END]
+
+​
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 17
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+Restricted Stock Units and Performance Stock Units
+
+Restricted stock units (“RSU”) are awarded to certain officers, key employees of the Company, and nonemployee directors. Additionally, performance stock units (“PSU”) are awarded to certain officers and key employees. Each RSU and PSU represents the right to receive one share of our common stock provided that the applicable performance and vesting conditions are satisfied.
+
+Generally, RSU awards fully vest after the passage of time, typically three years for employees and one year for nonemployee directors, provided there is continued service with the Company until the vesting date, subject to the terms of the award. PSU awards are earned only after the attainment of performance goals in connection with the relevant performance period and vest after an additional one-year period. No dividends are paid or accumulated on any RSU or PSU awards. Compensation expense is recognized using the market value at the date of grant and is amortized over the vesting period. RSU and PSU activity for the thirty-nine weeks ended October 30, 2021 is summarized as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted-Average | ​ | ​ | ​ | ​ | Number | Remaining | Weighted-Average | ​ | ​ | of | Contractual | Grant Date | ​ | ​ | Shares | Life | Fair Value | ​ | ​ | (in thousands) | ​ | (in years) | ​ | (per share) | Nonvested at beginning of year | ​ | 1,348 | ​ | ​ | ​ | $ | 38.48 | Granted | ​ | 426 | ​ | ​ | ​ | 54.16 | Vested | ​ | ( | 522 | ) | ​ | ​ | ​ | 43.60 | Performance adjustment | (1) | ​ | ​ | 240 | ​ | ​ | ​ | ​ | ​ | ​ | Forfeited | ​ | ( | 48 | ) | ​ | ​ | ​ | 34.83 | Nonvested at October 30, 2021 | ​ | 1,444 | ​ | 1.8 | ​ | $ | 43.66 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Aggregate value ($ in millions) | ​ | $ | 63 | ​ | ​ | ​
+[TABLE_END]
+
+[TABLE_START]
+(1) | This represents adjustments made to PSUs and reflect changes in estimates based upon our current performance against predefined financial targets.
+[TABLE_END]
+
+The total value of RSU and PSU awards that vested during the thirty-nine weeks ended October 30, 2021 and October 31, 2020 was $ 23 million and $ 6 million, respectively. As of October 30, 2021, there was $ 43 million of total unrecognized compensation cost related to nonvested awards.
+
+16. Legal Proceedings
+
+Legal proceedings pending against the Company or its consolidated subsidiaries consist of ordinary, routine litigation, including administrative proceedings, incidental to the business of the Company or businesses that have been sold or discontinued by the Company in past years. These legal proceedings include commercial, intellectual property, customer, environmental, and employment-related claims.
+
+We do not believe that the outcome of any such legal proceedings pending against the Company or its consolidated subsidiaries, as described above, would have a material adverse effect on our consolidated financial position, liquidity, or results of operations, taken as a whole, based upon current knowledge and taking into consideration current accruals. Litigation is inherently unpredictable. Judgments could be rendered or settlements made that could adversely affect the Company’s operating results or cash flows in a particular period.
+
+Third Quarter 2021 Form 10-Q Page 18
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+17. Subsequent Event
+
+Acquisition of atmos
+
+On August 2, 2021, we announced that we entered into a definitive agreement to acquire certain entities collectively referred to as atmos, headquartered in Japan. atmos is a digitally led, culturally-connected global brand featuring premium sneakers and apparel, an exclusive in-house label, collaborative relationships with leading vendors in the sneaker ecosystem, experiential stores, and a robust omni-channel platform. The purchase price is $ 360 million and additional contingent consideration of up to $ 111 million based on achieving certain revenue growth and EBITDA performance targets. The transaction will be funded with the Company’s available cash. atmos will maintain its name, operating as a new banner in our portfolio. The transaction closed on November 1, 2021.
+
+​
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 19
+
+[PAGE BREAK]
+
+Table of Contents
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Business Overview
+
+Foot Locker, Inc. leads the celebration of sneaker and youth culture around the globe through a portfolio of banners including Foot Locker, Lady Foot Locker, Kids Foot Locker, Champs Sports, Eastbay, WSS, Footaction, and Sidestep. Foot Locker, Inc. and its subsidiaries hereafter are referred to as the “Company,” “we,” “our,” or “us.” We operate primarily mall-based stores, as well as stores in high-traffic urban retail areas and high streets, in 27 countries including the United States, Canada, Europe, Australia, New Zealand, and Asia as of October 30, 2021. Our purpose is to inspire and empower youth culture around the world, by fueling a shared passion for self-expression and creating unrivaled experiences at the heart of the global sneaker community.
+
+During the third quarter, we completed the acquisition of WSS. WSS is an off-mall, athletic-inspired retailer focused on the large and rapidly growing Hispanic consumer demographic, operating a fleet in key markets across California, Texas, Arizona, and Nevada.
+
+We use our omni-channel capabilities to bridge the digital world and physical stores, including order-in-store, buy online and pickup-in-store, and buy online and ship-from-store, as well as e-commerce. We operate websites and mobile apps aligned with the names of our store banners (including: footlocker.com, kidsfootlocker.com, champssports.com, shopwss.com, footaction.com, footlocker.ca, footlocker.eu and related e-commerce sites in the various European countries that we operate, footlocker.com.au, footlocker.nz, sidestep-shoes.de, side-stepshoes.nl, footlocker.hk, footlocker.sg, footlocker.mo, footlocker.my, and footlockerkorea.kr). These sites offer some of the largest online product selections and provide a seamless link between e-commerce and physical stores. We also operate the websites for eastbay.com and eastbayteamsales.com.
+
+Store Count
+
+At October 30, 2021, we operated 2,956 stores as compared with 2,998 and 3,032 stores at January 30, 2021 and October 31, 2020, respectively. Store count as of October 30, 2021 includes 93 WSS stores.
+
+Franchise Operations
+
+A total of 136 franchised stores were operating at October 30, 2021, as compared with 127 and 126 stores at January 30, 2021 and October 31, 2020, respectively. Revenue from franchised stores was not significant for any of the periods presented. These stores are not included in the operating store count above.
+
+COVID-19 Update
+
+COVID-19 had a significant effect on overall economic conditions in the various geographic areas in which we have operations. We have made best efforts to comply with all precautionary measures as directed by health authorities and local, state, and national governments. Throughout 2020, the pandemic and the shelter in place orders negatively affected customer traffic into the stores that were operating, and certain stores required additional closures during the remainder of the year. We operated 97 percent of the possible operating days in the third quarter of 2021, as compared with 93 percent in the third quarter of 2020. For the year-to-date period of 2021, we operated 90 percent of the days as compared with 71 percent in the prior-year period.
+
+Additionally, in September 2021, President Biden announced that he has directed OSHA to develop an emergency temporary standard mandating either the full vaccination against COVID-19 or weekly testing of employees for employers with 100 or more employees. We continue to evaluate the potential effect of this executive order on our business. As a result of the federal vaccine mandate, we may experience constraints on our workforce and the workforce of our supply chain, which could require us to adapt our operations.
+
+​
+
+Third Quarter 2021 Form 10-Q Page 20
+
+[PAGE BREAK]
+
+Table of Contents
+
+Our distribution centers have been operating relatively unaffected during this time. In order to mitigate the effects of the temporary closures, we have been operating in-store fulfillment activities while stores were closed to customers. Given the dynamic nature of these circumstances, the duration of business disruption, supply chain issues, reduced customer traffic in our stores, and potential effects related to evolving safety protocols and requirements for proof of vaccination, the related financial effect cannot be reasonably estimated at this time but may materially affect our business for the remainder of 2021.
+
+Reconciliation of Non-GAAP Measures
+
+In addition to reporting our financial results in accordance with U.S. generally accepted accounting principles (“GAAP”), we report certain financial results that differ from what is reported under GAAP. We have presented certain financial measures identified as non-GAAP, such as sales changes excluding foreign currency fluctuations, adjusted income before income taxes, adjusted net income, and adjusted diluted earnings per share.
+
+We present certain amounts as excluding the effects of foreign currency fluctuations, which are also considered non-GAAP measures. Where amounts are expressed as excluding the effects of foreign currency fluctuations, such changes are determined by translating all amounts in both years using the prior-year average foreign exchange rates. Presenting amounts on a constant currency basis is useful to investors because it enables them to better understand the changes in our business that are not related to currency movements.
+
+These non-GAAP measures are presented because we believe they assist investors in comparing our performance across reporting periods on a consistent basis by excluding items that we do not believe are indicative of our core business or affect comparability. In addition, these non-GAAP measures are useful in assessing our progress in achieving our long-term financial objectives. We estimate the tax effect of all non-GAAP adjustments by applying a marginal tax rate to each of the respective items. The income tax items represent the discrete amount that affected the period. The non-GAAP financial information is provided in addition to, and not as an alternative to, our reported results prepared in accordance with GAAP. Presented below is a reconciliation of GAAP and non-GAAP.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions, except per share amounts) | 2021 | 2020 | 2021 | 2020 | Pre-tax income: | ​ | ​ | ​ | ​ | Income before income taxes | ​ | $ | 222 | ​ | $ | 369 | ​ | $ | 1,093 | ​ | $ | 334 | Pre-tax amounts excluded from GAAP: | ​ | ​ | ​ | ​ | ​ | Impairment and other charges | ​ | 57 | ​ | 4 | 97 | ​ | 58 | Other income, net | ​ | ​ | — | ​ | ​ | (190) | ​ | ​ | (303) | ​ | ​ | (190) | Adjusted income before income taxes (non-GAAP) | ​ | $ | 279 | ​ | $ | 183 | ​ | $ | 887 | ​ | $ | 202 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | After-tax income: | ​ | ​ | ​ | ​ | Net income | ​ | $ | 158 | ​ | $ | 265 | ​ | $ | 790 | ​ | 200 | After-tax adjustments excluded from GAAP: | ​ | ​ | ​ | ​ | ​ | Impairment and other charges, net of income tax benefit of $14, $-, $24, and $9 million, respectively | ​ | ​ | 43 | ​ | ​ | 4 | ​ | ​ | 73 | ​ | ​ | 49 | Other income, net - net of income tax expense of $-, $50, $79, and $50 million, respectively | ​ | ​ | — | ​ | ​ | (140) | ​ | ​ | (224) | ​ | ​ | (140) | Tax charge related to revaluation of certain intellectual property rights | ​ | — | ​ | (1) | — | ​ | 24 | Adjusted net income (non-GAAP) | ​ | $ | 201 | ​ | $ | 128 | ​ | $ | 639 | ​ | 133
+[TABLE_END]
+
+​
+
+Third Quarter 2021 Form 10-Q Page 21
+
+[PAGE BREAK]
+
+Table of Contents
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ​ | 2021 | 2020 | 2021 | 2020 | Earnings per share: | ​ | ​ | ​ | ​ | ​ | Diluted earnings per share | ​ | $ | 1.52 | ​ | $ | 2.52 | ​ | $ | 7.54 | ​ | 1.91 | Diluted EPS amounts excluded from GAAP: | ​ | ​ | ​ | ​ | ​ | ​ | Impairment and other charges | ​ | ​ | 0.41 | ​ | ​ | 0.03 | ​ | ​ | 0.69 | ​ | ​ | 0.45 | Other income, net | ​ | ​ | — | ​ | ​ | (1.33) | ​ | ​ | (2.13) | ​ | ​ | (1.33) | Tax charge related to revaluation of certain intellectual property rights | ​ | — | ​ | (0.01) | — | ​ | 0.23 | Adjusted diluted earnings per share (non-GAAP) | ​ | $ | 1.93 | ​ | $ | 1.21 | ​ | $ | 6.10 | ​ | 1.26
+[TABLE_END]
+
+During the thirteen weeks and thirty-nine weeks ended October 30, 2021, we recorded pre-tax charges of $57 million and $97 million, respectively, classified as Impairment and Other. See the Impairment and Other Charges section for further information.
+
+During the thirty-nine weeks ended October 30, 2021, we recorded non-cash gains of $303 million, or $224 million after-tax, classified in other income, net. For the thirteen and thirty-nine weeks ended October 31, 2020, we recorded non-cash gains of $190 million, or $140 million after-tax, related to our minority investment in GOAT. Due to the infrequent and nonrecurring nature of the gains related to GOAT and discount on the initial public offering of our Retailors Ltd investment, the income was removed to arrive to non-GAAP earnings. See the Other Income, net section for further information.
+
+Related to the non-GAAP adjustments for income taxes, during the first quarter 2020 we recorded a $27 million tax charge related to the revaluation of certain intellectual property rights, pursuant to a non-U.S. advance pricing agreement. During the second and third quarters of 2020, we performed quarterly valuations and due to the improved financial outlook, we reduced the charge by $2 million and $1 million, respectively.
+
+Segment Reporting
+
+We have determined that we have three operating segments, North America, EMEA, and Asia Pacific. Our North America operating segment includes the results of the following banners operating in the U.S. and Canada: Foot Locker, Kids Foot Locker, Lady Foot Locker, Champs Sports, WSS, and Footaction, including each of their related e-commerce businesses, as well as our Eastbay business that includes internet, catalog, and team sales. Our EMEA operating segment includes the results of the following banners operating in Europe: Foot Locker, Sidestep, and Kids Foot Locker, including each of their related e-commerce businesses. Our Asia Pacific operating segment includes the results of Foot Locker and Kids Foot Locker and the related e-commerce businesses operating in Australia, New Zealand, and Asia. We have further aggregated these operating segments into one reportable segment based upon their shared customer base and similar economic characteristics.
+
+Results of Operations
+
+We evaluate performance based on several factors, primarily the banner’s financial results, referred to as division profit. Division profit reflects income before income taxes, impairment and other charges, corporate expenses, non-operating income, and net interest (expense) income.
+
+​
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 22
+
+[PAGE BREAK]
+
+Table of Contents
+
+The table below summarizes our results.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ($ in millions) | 2021 | 2020 | ​ | 2021 | 2020 | Sales | ​ | $ | 2,189 | ​ | $ | 2,106 | ​ | $ | 6,617 | ​ | $ | 5,359 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Operating Results | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Division profit | ​ | ​ | 283 | ​ | ​ | 198 | ​ | ​ | 930 | ​ | ​ | 244 | Less: Impairment and other charges | (1) | ​ | ​ | 57 | ​ | ​ | 4 | ​ | ​ | 97 | ​ | ​ | 58 | Less: Corporate expense | (2) | ​ | ​ | 30 | ​ | ​ | 16 | ​ | ​ | 91 | ​ | ​ | 44 | Income from operations | ​ | ​ | 196 | ​ | ​ | 178 | ​ | ​ | 742 | ​ | ​ | 142 | Interest expense, net | ​ | ​ | (4) | ​ | ​ | (2) | ​ | ​ | (8) | ​ | ​ | (5) | Other income, net | (3) | ​ | ​ | 30 | ​ | ​ | 193 | ​ | ​ | 359 | ​ | ​ | 197 | Income before income taxes | ​ | $ | 222 | ​ | $ | 369 | ​ | $ | 1,093 | ​ | $ | 334
+[TABLE_END]
+
+[TABLE_START]
+(1) | See the | Impairment and Other Charges | section for further information.
+[TABLE_END]
+
+[TABLE_START]
+(2) | Corporate expense consists of unallocated selling, general and administrative expenses as well as depreciation and amortization related to the Company’s corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items.
+[TABLE_END]
+
+[TABLE_START]
+(3) | Other income includes non-operating items, franchise royalty income, changes in fair value of minority interests measured at fair value or using the fair value measurement alternative, changes in the market value of our available-for-sale security, our share of earnings or losses related to our equity method investments, and net benefit expense related to our pension and postretirement programs excluding the service cost component. See the | Other income, net | section for further information.
+[TABLE_END]
+
+Sales
+
+All references to comparable-store sales for a given period relate to sales of stores that were open at the period-end and had been open for more than one year. The computation of consolidated comparable sales also includes our direct-to-customers channel. Stores opened or closed during the period are not included in the comparable-store base; however, stores closed temporarily for relocation or remodeling are included. Stores that were temporarily closed due to the COVID-19 pandemic are also included in the computation of comparable-store sales. Computations exclude the effect of foreign currency fluctuations.
+
+Sales from acquired businesses that include inventory are included in the computation of comparable-store sales after 15 months of operations. Accordingly, sales of WSS have been excluded from the computation of comparable-store sales.
+
+The information shown below represents certain sales metrics by sales channel.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | October 31, | ​ | October 30, | October 31, | ($ in millions) | ​ | 2021 | 2020 | ​ | 2021 | 2020 | Stores | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Sales | ​ | $ | 1,756 | ​ | $ | 1,656 | ​ | $ | 5,193 | ​ | $ | 3,858 | ​ | $ Change | ​ | $ | 100 | ​ | ​ | ​ | ​ | $ | 1,335 | ​ | ​ | ​ | ​ | % Change | ​ | ​ | 6.0 | % | ​ | ​ | ​ | ​ | 34.6 | % | ​ | ​ | ​ | % of total sales | ​ | ​ | 80.2 | % | ​ | 78.6 | % | ​ | 78.5 | % | ​ | 72.0 | % | Comparable sales increase (decrease) | ​ | ​ | 4.2 | % | ​ | (0.1) | % | ​ | 32.7 | % | ​ | (21.5) | % | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Direct-to-customers | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Sales | ​ | $ | 433 | ​ | $ | 450 | ​ | $ | 1,424 | ​ | $ | 1,501 | ​ | $ Change | ​ | $ | (17) | ​ | ​ | ​ | ​ | $ | (77) | ​ | ​ | ​ | ​ | % Change | ​ | ​ | (3.8) | % | ​ | ​ | ​ | ​ | (5.1) | % | ​ | ​ | ​ | % of total sales | ​ | ​ | 19.8 | % | ​ | 21.4 | ​ | ​ | 21.5 | % | ​ | 28.0 | % | Comparable sales (decrease) increase | ​ | ​ | (4.6) | % | ​ | 49.7 | ​ | ​ | (7.1) | % | ​ | 72.5 | %
+[TABLE_END]
+
+Third Quarter 2021 Form 10-Q Page 23
+
+[PAGE BREAK]
+
+Table of Contents
+
+For the thirteen weeks ended October 30, 2021, total sales increased by $83 million, or 3.9 percent, to $2,189 million, as compared with the corresponding prior-year period. For the thirty-nine weeks ended October 30, 2021, total sales increased by $1,258 million, or 23.5 percent, to $6,617 million, as compared with the corresponding prior-year period. Excluding the effect of foreign currency fluctuations, total sales increased by $76 million, or 3.6 percent, for the thirteen weeks ended October 30, 2021 and increased by $1,161 million, or 21.7 percent, for the thirty-nine weeks ended October 30, 2021. Sales from our newly acquired WSS banner totaled $56 million during the third quarter of 2021.
+
+The period over period comparisons were significantly affected by the closures necessitated by the COVID-19 pandemic, most of the stores were closed during the first quarter of 2020 when our stores were only open for 48 percent of the total available operating days. While our operating days improved overall, there remained geographic differences. Our stores operating in Australia and New Zealand were most adversely affected during the third quarter of 2021, operating 56 percent of the available days. For the year-to-date period of 2021, EMEA and APAC operated approximately 75 percent of the days.
+
+While sales increased significantly compared with the prior-year periods, we also exceeded sales for the corresponding periods of 2019. Excluding the effect of foreign exchange rate fluctuations, as compared with the 2019, sales increased by 8.5 percent and by 12.5 percent for the quarter and year-to-date periods, respectively.
+
+Total comparable sales represented an increase of 2.2 percent for the quarter and an increase of 21.3 percent for the year-to-date period. Our stores channel generated significant increases for both the quarter and year-to-date periods, which was a result of the temporary closure of our stores across all of our banners around the world during the first half of 2020, partially offset by a decline in our direct-to-customer channel as shopping navigated back to physical locations. While our digital penetration declined as compared with 2020, our penetration is higher than our historical levels. We continue to leverage our technology platforms to improve the digital experience. Our significant improvement also reflected increased consumer demand for exciting and new product offerings and the effect of government stimulus.
+
+For the combined channels, sales excluding foreign currency fluctuations, the operating segments of North America, EMEA, and Asia Pacific decreased by 0.4 percent, increased by 19.4 percent, and increased by 11.0 percent, respectively, in the third quarter of 2021 as compared with the corresponding prior-year period. For the year-to-date period, all operating segments increased. North America increased by 21.5 percent, EMEA increased by 20.0 percent, and Asia Pacific increased by 35.8 percent, as compared with the corresponding prior-year period, which was negatively affected by the temporary store closures necessitated by the pandemic. Our North American operating segment’s sales for the quarter were negatively affected by Footaction, as we are winding down that business. Sales growth in North America for the year-to-date period of 2021 was led by Foot Locker, Champs Sports, and Kids Foot Locker. Within EMEA, sales for both the quarter and year-to-date period from the Foot Locker banner increased, partially offset by a decline in sales due to the Runners Point shutdown. Sidestep’s sales increased for both the quarter and year-to-date periods as pressure from the COVID-19 closures was less significant and aided by growth in e-commerce sales. Asia Pacific generated significant increases in the quarter and year-to-date periods from both strong performance in Australia and New Zealand, coupled with growth in Asia, based on expansion in that region, and primarily related to the growth in e-commerce sales.
+
+From a product perspective for the combined channels, the increase for the quarter was primarily related to increased sales of apparel and accessories, while the sales increase for the year-to-date periods was across all families of business - footwear, apparel, and accessories. The decline in sales of footwear for the third quarter represented an increase in sales of women’s and children’s footwear, offset by a decline in sales of men’s basketball footwear styles. Apparel sales for both the quarter and year-to-date periods benefited from increases in sales across all wearer segments, led by sales of men’s and kids’ apparel. The continued athleisure and fitness trend, coupled with exciting product offerings, drove the significant increase in sales as compared with last year.
+
+Third Quarter 2021 Form 10-Q Page 24
+
+[PAGE BREAK]
+
+Table of Contents
+
+Gross Margin
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | ​ | October 30, | ​ | October 31, | ​ | ​ | October 30, | ​ | October 31, | ​ | ​ | 2021 | 2020 | 2021 | 2020 | Gross margin rate | 34.7 | % | 30.9 | % | 34.9 | % | 27.2 | % | Basis point increase in the gross margin rate | 380 | ​ | 770 | ​ | Components of the change- | ​ | ​ | ​ | Merchandise margin rate improvement | 470 | ​ | 580 | ​ | (Higher) / lower occupancy and buyers’ compensation expense rate | (90) | ​ | 190 | ​
+[TABLE_END]
+
+Gross margin is calculated as sales minus cost of sales. Cost of sales includes: the cost of merchandise, freight, distribution costs including related depreciation expense, shipping and handling, occupancy and buyers’ compensation. Occupancy costs include rent (including fixed common area maintenance charges and other fixed non-lease components), real estate taxes, general maintenance, and utilities.
+
+The gross margin rate increased for both the thirteen weeks and thirty-nine weeks ended October 30, 2021, as compared with the corresponding prior-year periods, reflecting a higher merchandise margin rate since we were significantly less promotional than a year ago.
+
+Comparing the gross margin rate to the thirteen weeks ended November 2, 2019, gross margin improved by 260 basis points, reflecting an 80-basis point improvement in the merchandise margin rate and a 180-basis point improvement on occupancy and buyers’ compensation rate. Comparing the gross margin rate to the thirty-nine weeks ended November 2, 2019, gross margin improved by 300 basis points, reflecting a 110-basis point improvement in the merchandise margin rate and a 190-basis point improvement on occupancy and buyers’ compensation rate.
+
+The occupancy rate was affected from COVID-19 related rent abatements in all of the periods presented. Due to completed lease negotiations, we were able to record $3 million and $14 million of rent savings due to rent abatements during the thirteen and thirty-nine weeks ended October 30, 2021, respectively, as compared to rent abatements of $32 million and $38 million for the corresponding prior-year periods. We record rent abatements in rent expense when the negotiations are completed and the leases are modified.
+
+Selling, General and Administrative Expenses (SG&A)
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | 2021 | 2020 | SG&A | ​ | $ | 458 | ​ | $ | 424 | ​ | ​ | $ | 1,326 | ​ | $ | 1,127 | ​ | $ Change | ​ | $ | 34 | ​ | ​ | ​ | ​ | ​ | $ | 199 | ​ | ​ | ​ | ​ | % Change | ​ | 8.0 | % | ​ | ​ | ​ | 17.7 | % | ​ | ​ | ​ | SG&A as a percentage of sales | ​ | 20.9 | % | 20.1 | % | ​ | 20.0 | % | 21.0 | %
+[TABLE_END]
+
+SG&A increased by $34 million and $199 million for the thirteen and thirty-nine weeks ended October 30, 2021, respectively, as compared with the corresponding prior-year periods. Excluding the effect of foreign currency fluctuations, SG&A increased by $34 million and $176 million for the thirteen and thirty-nine weeks ended October 30, 2021, respectively, as compared with the corresponding prior-year periods. WSS, which was acquired in mid-September 2021, represented $13 million in SG&A.
+
+SG&A, as a percentage of sales, was affected by the higher sales in the current year and the effect of prior-year COVID-19 related matters. SG&A for the thirteen weeks ended October 30, 2021 and October 31, 2020 included payroll subsidies from local governments of $1 million and $5 million, respectively. On a year-to-date basis, the subsidies were $15 million this year as compared with $62 million last year.
+
+Third Quarter 2021 Form 10-Q Page 25
+
+[PAGE BREAK]
+
+Table of Contents
+
+The higher prior year amounts related to the fact that we continued to pay our employees throughout most of the first quarter of 2020 despite the temporary store closures. The thirteen and thirty-nine weeks ended October 30, 2021 included $1 million and $5 million, respectively, for personal protective equipment expense, a decrease of $3 million and $5 million, respectively, as compared with the corresponding prior-year periods.
+
+Incentive compensation expense increased by $4 million and $16 million for the thirteen weeks and thirty-nine weeks ended October 30, 2021, as compared with the corresponding prior-year periods. For the current year, we are outperforming the targeted results.
+
+Excluding the above-mentioned items and the effect of foreign currency fluctuations, SG&A increased primarily representing variable expenses associated with higher sales.
+
+Depreciation and Amortization
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Depreciation and amortization | ​ | $ | 49 | ​ | $ | 44 | ​ | ​ | $ | 142 | ​ | $ | 132 | ​ | $ Change | ​ | $ | 5 | ​ | ​ | ​ | ​ | ​ | $ | 10 | ​ | ​ | ​ | ​ | % Change | ​ | 11.4 | % | ​ | ​ | ​ | ​ | 7.6 | % | ​ | ​
+[TABLE_END]
+
+Depreciation and amortization expense increased by $5 million and $10 million for the thirteen weeks and thirty-nine weeks ended October 30, 2021, respectively, as compared with the corresponding prior-year periods. Excluding the effect of foreign currency fluctuations, depreciation and amortization increased by $8 million for year-to-date period, as compared with the corresponding prior-year period and was not significant for the quarter. The increase was primarily related to the acceleration of depreciation and amortization associated with the Footaction closures and the addition of WSS.
+
+Impairment and Other Charges
+
+Impairment of long-lived assets and right-of-use assets was $13 million and $52 million for the thirteen and thirty-nine weeks ended October 30, 2021, respectively, and $15 million for the thirty-nine weeks ended October 31, 2020. During the second quarter of 2021, we conducted an impairment review of Footaction stores as a result of the Company’s decision to convert part of the stores to other existing banner concepts and close the remaining stores. The Company evaluated the long-lived assets, including the right-of-use assets and recorded non-cash charges to write down store fixtures, leasehold improvements, and right-of-use assets for approximately 60 locations, and accelerated tenancy charges for leases we expect to terminate prior to the end of the lease term. In connection with this we recorded charges totaling $39 million and $13 million for the second and third quarters, respectively. The prior year charges of $15 million related to certain Runners Point and Sidestep stores and other underperforming stores in Europe.
+
+​
+
+During the third quarter of 2021, due to continued losses and updated and estimates of value for one of the Company’s minority investments, we recorded a non-cash write down of one of our minority investments. The year-to-date period also includes a charge of $2 million related to another of our minority investments.
+
+​
+
+Additionally, in connection with the acquisitions, we recorded acquisition and integration costs of $14 million, which primarily represented investment banking fees.
+
+For the thirty-nine weeks ended October 31, 2020, we recorded $19 million of costs and losses related to social unrest, and $19 million, of charges related to the shutdown of the Runners Point business.
+
+​
+
+Third Quarter 2021 Form 10-Q Page 26
+
+[PAGE BREAK]
+
+Table of Contents
+
+Corporate Expense
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | 2021 | 2020 | Corporate expense | ​ | $ | 30 | ​ | $ | 16 | ​ | ​ | $ | 91 | ​ | $ | 44 | ​ | $ Change | ​ | $ | 14 | ​ | ​ | ​ | ​ | ​ | $ | 47 | ​ | ​ | ​ | ​
+[TABLE_END]
+
+Corporate expense consists of unallocated general and administrative expenses as well as depreciation and amortization related to our corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items. Depreciation and amortization included in corporate expense was $9 million and $6 million for the thirteen weeks ended October 30, 2021 and October 31, 2020, respectively, and $25 million and $17 million for the thirty-nine weeks ended October 30, 2021 and October 31, 2020, respectively.
+
+The allocation of corporate expense to the operating divisions is adjusted annually based upon an internal study; accordingly, the allocation increased by $4 million and $14 million for the thirteen and thirty-nine weeks ended October 30, 2021, respectively, thus reducing corporate expense. Excluding the corporate allocation change, corporate expense increased by $18 million and $61 million for the thirteen and thirty-nine weeks ended October 30, 2021, respectively, as compared with the prior-year periods. The increases for both periods were primarily due to higher information technology and support expenses and higher incentive compensation expense. Additionally, higher professional fees contributed to the increase for the thirty-nine weeks ended October 30, 2021.
+
+Operating Results
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | October 30, | October 31, | ​ | October 30, | October 31, | ($ in millions) | ​ | 2021 | ​ | 2020 | ​ | ​ | 2021 | ​ | 2020 | Division profit | ​ | $ | 283 | ​ | $ | 198 | ​ | ​ | $ | 930 | ​ | $ | 244 | ​ | Division profit margin | ​ | 12.9 | % | 6.0 | % | ​ | 14.1 | % | 1.4 | %
+[TABLE_END]
+
+Division profit margin as a percentage of sales increased to 12.9 percent and 14.1 percent of sales the thirteen and thirty-nine weeks ended October 30, 2021, with both sales channels generating significant improvements in gross margin. Division profit reflected the stores channel generating leverage on expenses, while the direct-to-customers channel deleveraged as sales navigated back to the stores channel. Operating results for WSS were not significant. The results for prior year were negatively affected by the pandemic.
+
+Interest Expense, Net
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | ​ | 2021 | 2020 | 2021 | 2020 | Interest expense | ​ | $ | (4) | ​ | $ | (3) | ​ | $ | (10) | ​ | $ | (10) | ​ | Interest income | ​ | — | ​ | 1 | ​ | 2 | ​ | 5 | ​ | Interest expense, net | ​ | $ | (4) | ​ | $ | (2) | ​ | $ | (8) | ​ | $ | (5) | ​
+[TABLE_END]
+
+We recorded $4 million and $8 million of net interest expense for the thirteen and thirty-nine weeks ended October 30, 2021, respectively, as compared with net interest expense of $2 million and $5 million for the corresponding prior-year periods. Interest expense increased primarily due to the issuance of the 4 percent senior notes during the quarter. Additionally, interest income decreased during the thirty-nine weeks ended October 30, 2021 primarily as a result of lower average interest rates on our cash and cash equivalents.
+
+​
+
+Third Quarter 2021 Form 10-Q Page 27
+
+[PAGE BREAK]
+
+Table of Contents
+
+Other Income, Net
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | ​ | October 30, | ​ | October 31, | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | ​ | 2021 | 2020 | ​ | ​ | 2021 | ​ | 2020 | ​ | Other income, net | ​ | $ | 30 | ​ | $ | 193 | ​ | ​ | $ | 359 | ​ | $ | 197 | ​
+[TABLE_END]
+
+Other income includes non-operating items, including franchise royalty income, changes in fair value of minority investments measured at fair value or using the fair value measurement alternative, changes in the market value of our available-for-sale security, our share of earnings or losses related to our equity method investments, and net benefit (expense) related to our pension and postretirement programs excluding the service cost component.
+
+The amount for the thirty-nine weeks ended October 30, 2021 reflected a $290 million increase in the fair value of our minority investment in GOAT, which is measured using the fair value measurement alternative. This compares to $190 million recorded in the third quarter of last year. GOAT received additional funding at higher valuations than the investment amount previously on our balance sheet. Additionally, during the second quarter, the Company invested $68 million to acquire a common stock minority stake in a public entity, which is re-measured to fair value each quarter. We recognized income of $50 million for this investment representing a discount in the initial purchase price of $9 million and appreciation in the value of stock, $15 million recorded in the second quarter and $26 million recorded in the third quarter. Other income for the thirty-nine weeks ended October 30, 2021 also includes $4 million related to our insurance recovery from the 2020 social unrest, which is the amount by which the recovery exceeded the book value of losses previously recorded.
+
+Income Taxes
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | Thirty-nine weeks ended | ​ | October 30, | October 31, | October 30, | October 31, | ($ in millions) | ​ | 2021 | ​ | 2020 | ​ | 2021 | ​ | 2020 | Provision for income taxes | ​ | $ | 64 | ​ | $ | 104 | ​ | $ | 303 | ​ | $ | 134 | ​ | Effective tax rate | ​ | 28.8 | % | 28.2 | % | 27.7 | % | 40.1 | %
+[TABLE_END]
+
+Our current year interim provision for income taxes was measured using an estimated annual effective tax rate, which represented a blend of federal, state, and foreign taxes and included the effect of certain nondeductible items as well as changes in our mix of domestic and foreign earnings or losses, adjusted for discrete items that occur within the periods presented.
+
+We regularly assess the adequacy of our provisions for income tax contingencies in accordance with applicable authoritative guidance on accounting for income taxes. As a result, we may adjust the reserves for unrecognized tax benefits considering new facts and developments, such as changes to interpretations of relevant tax law, assessments from taxing authorities, settlements with taxing authorities, and lapses of statutes of limitation. For the thirteen weeks ended October 30, 2021 and October 31, 2020, we recognized benefits of $1 million and $2 million, respectively, due to expirations of a foreign statute of limitations.
+
+During the thirty-nine weeks ended October 30, 2021, we recorded $2 million related to excess tax benefits from share-based compensation.
+
+The tax rate for the thirty-nine weeks ended October 31, 2020 was negatively affected by a tax charge related to the revaluation of certain intellectual property rights pursuant to a non-U.S. advance pricing agreement. During the first quarter 2020 we recorded a $27 million tax charge. During the second and third quarters of 2020, we performed quarterly valuations and due to the improved financial outlook, we reduced the charge by $2 million and $1 million, respectively. Partially offsetting the intellectual property rights charge, we recognized a $2 million tax benefit for the reversal of a withholding tax accrual that was no longer required in the year-to-date period of 2020.
+
+Third Quarter 2021 Form 10-Q Page 28
+
+[PAGE BREAK]
+
+Table of Contents
+
+Excluding the above-mentioned discrete items, the effective tax rates for the current year periods declined, as compared with the corresponding prior-year periods, primarily due to the change in the mix of domestic and foreign earnings and losses. Further, our higher domestic income reduced the effect of non-deductible items.
+
+We currently expect our full-year tax rate to approximate 28.5 percent excluding the effect of any nonrecurring items that may occur. The actual tax rate will vary depending on the level and mix of income earned in the various jurisdictions.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+Our primary source of liquidity has been cash flow from operations, while the principal uses of cash have been to fund inventory and other working capital requirements; finance capital expenditures related to store openings, store remodelings, internet and mobile sites, information systems, and other support facilities; make retirement plan contributions, quarterly dividend payments, and interest payments; and fund other cash requirements to support the development of our short-term and long-term operating strategies, including strategic investments. We generally finance real estate with operating leases. We believe our cash, cash equivalents, future cash flow from operations, and amounts available under our credit agreement will be adequate to fund these requirements.
+
+The Company may also repurchase its common stock or seek to retire or purchase outstanding debt through open market purchases, privately negotiated transactions, or otherwise. Share repurchases and retirement of debt, if any, will depend on prevailing market conditions, liquidity requirements, contractual restrictions, strategic considerations, and other factors. The amounts involved may be material. As of October 30, 2021, approximately $660 million remained available under our current $1.2 billion share repurchase program.
+
+On October 5, 2021, Foot Locker, Inc. completed the sale of $400 million Senior Notes due 2029. We received net proceeds from the offering of $395 million, after deducting the initial purchasers’ discount. The proceeds will be used for general corporate purposes, including repaying the $98 million principal outstanding of our 8.5 percent debentures due January 2022, and replenishing our merchandise inventories.
+
+Any material adverse change in customer demand, fashion trends, competitive market forces, or customer acceptance of our merchandise mix, retail locations and websites, uncertainties related to the effect of competitive products and pricing, our reliance on a few key suppliers for a significant portion of our merchandise purchases and risks associated with global product sourcing, economic conditions worldwide, the effects of currency fluctuations, continued uncertainties caused by the COVID-19 pandemic, as well as other factors listed under the headings “Disclosure Regarding Forward-Looking Statements,” and “Risk Factors” could affect our ability to continue to fund our needs from business operations.
+
+Operating Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | Net cash provided by operating activities | ​ | $ | 498 | ​ | $ | 672 | ​ | $ Change | ​ | $ | (174) | ​ | ​ | ​ | ​
+[TABLE_END]
+
+Operating activities reflects net income adjusted for non-cash items and working capital changes. Adjustments to net income for non-cash items include gains, impairment charges, other charges, depreciation and amortization, deferred income taxes, and share-based compensation expense.
+
+The decrease in cash provided by operating activities reflected higher merchandise purchases and payments of accounts payable and accrued and other liabilities, partially offset by higher net income, as compared with the same period last year. The increased merchandise purchases were required because we ended the prior year with low levels of inventory due to supply chain disruptions and to support our strong current sales.
+
+Third Quarter 2021 Form 10-Q Page 29
+
+[PAGE BREAK]
+
+Table of Contents
+
+As of October 30, 2021, we have withheld approximately $19 million of lease and lease-related payments as we continue to negotiate rent deferrals or abatements with our landlords for the period that our stores were closed due to the COVID-19 pandemic.
+
+During the fourth quarter of 2020, we were notified by our property insurance carrier that it had approved, and in 2021 we collected, a $10 million partial settlement on our claim for losses sustained in connection with the social unrest of 2020. During the second quarter of 2021, we received an additional $11 million from our property insurance carrier for the remainder of the claim. The $21 million received during 2021 was classified in the statement of cash flows on the basis of the related insurance coverage. Accordingly, $18 million was related to inventory and other operating costs and was therefore classified in operating activities. The balance of $3 million was related to losses sustained on our property and equipment and was classified in investing activities. We are continuing to work with our insurers to determine the extent to which additional incurred losses under our property insurance policy will be covered; however, we do not expect that future recoveries will be significant.
+
+Investing Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | Net cash used in investing activities | ​ | $ | (983) | ​ | $ | (124) | ​ | $ Change | ​ | $ | (859) | ​ | ​ | ​ | ​
+[TABLE_END]
+
+For the thirty-nine weeks ended October 30, 2021, net cash used in investing activities increased significantly primarily due our acquisition of WSS. During the third quarter, we completed the acquisition of WSS for $737 million, net of cash acquired.
+
+Capital expenditures increased by $21 million to $137 million, as compared with the corresponding prior-year period. Our full-year capital spending is expected to be $240 million. The revised forecast includes $160 million related to the remodeling or relocation of approximately 200 existing stores and the opening of approximately 145 new stores, as well as $80 million for the development of information systems, websites, and infrastructure, including supply chain initiatives. The capital expenditures forecast includes the anticipated costs related to the conversion of certain Footaction stores to our other banners, although the timing of these expenditures is being evaluated.
+
+Additionally, we invested $115 million in other companies primarily comprised of an additional $33 million investment in GOAT, a $68 million investment in a public entity (Retailors Ltd), and $6 million invested in various limited partner venture capital funds managed by Black fund managers, who are committed to advancing diverse-led businesses as part of our Leading in Education and Economic Development (LEED) initiative.
+
+In connection with the shutdown of the Runners Point banner completed last year, during the first quarter of 2021, we sold the former headquarters, resulting in proceeds of $3 million.
+
+As noted above, related to our insurance claim from the social unrest in 2020, we received proceeds of $3 million related to property and equipment loss.
+
+Third Quarter 2021 Form 10-Q Page 30
+
+[PAGE BREAK]
+
+Table of Contents
+
+Financing Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | Net cash provided by (used in) financing activities | ​ | $ | 154 | ​ | $ | (65) | ​ | $ Change | ​ | $ | 219 | ​ | ​ | ​ | ​
+[TABLE_END]
+
+Cash provided by financing activities consisted primarily of the sale of $400 million aggregate principal amount of our 4 percent Senior Notes due 2029, for which we received $395 million in proceeds, net of the initial purchasers’ discount.
+
+Cash used in financing activities were driven by our return to shareholders initiatives, including our share repurchase program and cash dividends, as follows:
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirty-nine weeks ended | ​ | ​ | October 30, | ​ | October 31, | ​ | ($ in millions) | 2021 | 2020 | Share repurchases | ​ | $ | 170 | ​ | $ | 10 | ​ | Dividends paid on common stock | ​ | ​ | 72 | ​ | ​ | 58 | ​ | Total returned to shareholders | ​ | $ | 242 | ​ | $ | 68 | ​
+[TABLE_END]
+
+During the thirty-nine weeks ended October 30, 2021, we repurchased 3,495,544 shares of common stock for $170 million under our share repurchase program, whereas in the prior year we spent $10 million to repurchase shares. We also declared and paid $72 million in dividends representing quarterly rates of $0.20 per share for the first two quarters of 2021 and an increase to $0.30 per share for the third quarter. As part of our cash preservation activities related to the COVID-19 pandemic, in the prior-year period we paid $58 million of dividends.
+
+We paid $11 million to satisfy tax withholding obligations relating to the vesting of share-based equity awards during the thirty-nine weeks ended October 30, 2021 . O ffsetting this amount were proceeds received in connection with employee stock programs of $17 million.
+
+In the first quarter of 2020, we borrowed $330 million of our then-existing revolving credit facility, which was repaid in full during the second quarter of 2020.
+
+Critical Accounting Policies and Estimates
+
+There have been no significant changes to our critical accounting policies and estimates from the information provided in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” included in the 2020 Form 10-K, except as noted below.
+
+Business Combinations
+
+We account for acquisitions of other businesses by recording the net assets of the acquired businesses at fair value and making estimates and assumptions to determine the fair value of these acquired assets and liabilities. We will allocate the purchase price of the acquired business based, in part, upon internal estimates of cash flows and considering the report of a third-party valuation expert retained to assist us. Changes to the assumptions used to estimate the fair value could affect the recorded amounts of the assets acquired and the resultant goodwill.
+
+Third Quarter 2021 Form 10-Q Page 31
+
+[PAGE BREAK]
+
+Table of Contents
+
+Recent Accounting Pronouncements
+
+Descriptions of the recently issued and adopted accounting principles are included in Item 1. “Financial Statements” in Note 1, Summary of Significant Accounting Policies , to the Condensed Consolidated Financial Statements.
+
+Item 4. Controls and Procedures
+
+During the quarter, the Company’s management performed an evaluation, under the supervision and with the participation of the Company’s Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), of the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)). Based on that evaluation, the Company’s CEO and CFO concluded that the Company’s disclosure controls and procedures were effective to ensure that information relating to the Company that is required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC rules and forms, and is accumulated and communicated to management, including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure.
+
+We are currently migrating our e-commerce order management system. Substantially all e-commerce apps were live on the new system as of October 30, 2021. In connection with this implementation and resulting business process changes, we may make changes to the design and operation of our internal control over financial reporting.
+
+During the quarter ended October 30, 2021, there were no changes in the Company’s internal control over financial reporting, other than the implementation of the new e-commerce order management system (as defined in Rules 13a-15(f) of the Exchange Act), that materially affected or are reasonably likely to affect the Company’s internal control over financial reporting.
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+Information regarding the Company’s legal proceedings is contained in the Legal Proceedings note under Item 1. “Financial Statements” in Part I.
+
+Item 1A. Risk Factors
+
+In addition to the other information discussed in this report, the factors described in Part I, Item 1A. “Risk Factors” in our 2020 Annual Report on Form 10-K filed with the SEC on March 25, 2021 should be considered as they could materially affect our business, financial condition, or future results.
+
+There have not been any significant changes with respect to the risks described in our 2020 Form 10-K, other than the items noted below.
+
+Our business could be materially harmed if we fail to adequately integrate the operations of the businesses we have acquired, or may acquire.
+
+During the third quarter of 2021, we acquired Eurostar, Inc., a Delaware corporation, operating as WSS, a U.S.-based athletic footwear and apparel retailer. The acquisition of WSS involves a number of risks, which could significantly and adversely affect our business, financial condition, and results of operations, including failure of WSS to achieve the results that we expect; diversion of management’s attention from existing operational matters; difficulties integrating the operations and personnel; and failure to retain key personnel.
+
+​
+
+Third Quarter 2021 Form 10-Q Page 32
+
+[PAGE BREAK]
+
+Table of Contents
+
+Our recent debt offering may cause an adverse effect on our business.
+
+During the third quarter of 2021, we completed the sale of $400 million of Senior Notes due 2029. Our inability to generate sufficient cash flow to satisfy our debt obligations or to refinance our debt obligations could adversely affect our business, financial condition, results of operations, capital expenditures, and other corporate requirements, requiring us to direct a substantial portion of our future cash flow toward payments on our indebtedness, which would reduce the amount of cash flow available to fund working capital, capital expenditures, and other corporate requirements, limiting our ability to respond to business opportunities and subjecting us to financial and other restrictive covenants, the failure of which to satisfy could result in a default of our indebtedness.
+
+The U.S. government’s pending rules and regulations concerning mandatory COVID-19 vaccination of U.S.-based employees of companies that have 100 or more employees could materially and adversely affect our results of operations, financial condition, and cash flows.
+
+On September 9, 2021, President Biden announced that he has directed the Department of Labor’s Occupational Safety and Health Administration (“OSHA”) to develop an Emergency Temporary Standard (“ETS”) mandating either the full vaccination against COVID-19 or weekly testing and mask-wearing for unvaccinated employees of employees for employers with 100 or more employees. OSHA published its final rule on November 5, 2021, which generally requires, among other things, that employees be vaccinated or start testing by January 4, 2022, with an earlier (December 5, 2021) enforcement date regarding the rule’s mask mandate, among other requirements for employers. Within 24 hours of the publication of the final rule, the U.S. Court of Appeals for the Fifth Circuit granted an emergency motion to stay enforcement of the vaccine requirement and required the administration to respond by November 8, 2021. In its response, the administration asked the Court to lift the stay. Final resolution of the matter is pending. It is currently not possible to predict with certainty the effect this will have on our workforce. Employees who are not subject to this requirement and who are not fully vaccinated may be subject to the ETS that will require them to get a COVID-19 test at least once a week. Additional vaccine mandates may be announced in jurisdictions in which our businesses operate. Our implementation of these requirements may result in attrition, including attrition of critically skilled labor, and difficulty securing future labor needs, which could materially and adversely affect our results of operations, financial condition, and cash flows.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+The table below provides information with respect to shares of the Company’s common stock for the thirteen weeks ended October 30, 2021.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Total Number of | ​ | ​ | Dollar Value of | ​ | ​ | Total | ​ | Average | ​ | Shares Purchased as | ​ | ​ | Shares that may | ​ | ​ | Number | ​ | Price | ​ | Part of Publicly | ​ | ​ | yet be Purchased | ​ | ​ | of Shares | ​ | Paid Per | ​ | Announced | ​ | ​ | Under the | Date Purchased | Purchased | (1) | Share | (1) | ​ | Program | (2) | ​ | Program | (2) | August 1 to August 28, 2021 | — | ​ | $ | — | — | ​ | $ | 789,195,238 | August 29 to October 2, 2021 | 758,800 | ​ | 46.52 | 750,000 | ​ | 754,330,113 | October 3 to October 30, 2021 | 2,000,799 | ​ | 47.16 | 2,000,000 | ​ | 660,013,953 | ​ | 2,759,599 | ​ | $ | 46.98 | 2,750,000 | ​
+[TABLE_END]
+
+[TABLE_START]
+(1) | These columns include shares acquired in satisfaction of the tax withholding obligations of holders of restricted stock unit awards, which vested during the quarter. The calculation of the average price paid per share includes all fees, commissions, and other costs associated with the repurchase of such shares.
+[TABLE_END]
+
+[TABLE_START]
+(2) | The current $1.2 billion share repurchase program extends through January 2022.
+[TABLE_END]
+
+​
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 33
+
+[PAGE BREAK]
+
+Table of Contents
+
+Item 6. Exhibits
+
+[TABLE_START]
+​ | ​ | ​ | Exhibit No. | Description | 4.1 | ​ | Indenture, dated as of October 5, 2021, by and among Foot Locker, Inc., certain guarantors from time to time party thereto and U.S. Bank National Association, as Trustee (incorporated by reference to Exhibit 4.1 to the Form 8-K filed by Foot Locker, Inc. on October 5, 2021). | 4.2 | ​ | Form of 4 percent Senior Notes due 2029 (incorporated by reference to Exhibit 4.1 to the Form 8-K filed by Foot Locker, Inc. on October 5, 2021). | 15* | ​ | Accountants’ Acknowledgement. | 31.1* | ​ | Certification of Chief Executive Officer Pursuant to Rule 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | 31.2* | ​ | Certification of Chief Financial Officer Pursuant to Rule 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | 32** | ​ | Certification of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. | 99* | ​ | Report of Independent Registered Public Accounting Firm. | 101.INS* | ​ | Inline XBRL Instance Document. | 101.SCH* | ​ | Inline XBRL Taxonomy Extension Schema. | 101.CAL* | ​ | Inline XBRL Taxonomy Extension Calculation Linkbase. | 101.DEF* | ​ | Inline XBRL Taxonomy Extension Definition Linkbase. | 101.LAB* | ​ | Inline XBRL Taxonomy Extension Label Linkbase. | 101.PRE* | ​ | Inline XBRL Taxonomy Extension Presentation Linkbase. | 104* | ​ | Cover Page Interactive Data File (embedded within the Inline XBRL datafile).
+[TABLE_END]
+
+​
+
+*    Filed herewith.
+
+**   Furnished herewith.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+​
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 34
+
+[PAGE BREAK]
+
+Table of Contents
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+[TABLE_START]
+​ | ​ | Date: December 8, 2021 | FOOT LOCKER, INC. | ​ | ​ | ​ | ​ | ​ | /s/ Andrew E. Page | ​ | ANDREW E. PAGE | ​ | Executive Vice President and Chief Financial Officer
+[TABLE_END]
+
+​
+
+​
+
+Third Quarter 2021 Form 10-Q Page 35
+
+[PAGE BREAK]

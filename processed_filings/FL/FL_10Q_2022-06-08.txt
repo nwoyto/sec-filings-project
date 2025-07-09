@@ -1,0 +1,1265 @@
+Table of Contents
+
+s
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+[TABLE_START]
+​ | ​ | ☒ | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[TABLE_END]
+
+​
+
+For the quarterly period ended: April 30, 2022
+
+OR
+
+[TABLE_START]
+​ | ​ | ☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[TABLE_END]
+
+​
+
+For the transition period from __________ to __________
+
+Commission File Number: 1-10299
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE_START]
+​ | ​ | New York | 13-3513936 | (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.)
+[TABLE_END]
+
+​
+
+330 West 34 th Street , New York , New York 10001
+
+(Address of principal executive offices, Zip Code)
+
+( 212 - 720-3700 )
+
+(Registrant’s telephone number, including area code)
+
+[TABLE_START]
+​ | ​ | ​ | Title of each class | Trading Symbol(s) | Name of each exchange on which registered | Common Stock | , par value $0.01 | ​ | FL | New York Stock Exchange | ​
+[TABLE_END]
+
+​
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ◻
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ◻
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | Large accelerated filer | ☒ | Accelerated filer | ◻ | Non-accelerated filer | ◻ | Smaller reporting company | ◻ | Emerging growth company | ◻ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ◻
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ◻ No ☒
+
+Number of shares of Common Stock outstanding as of May 27, 2022: 94,510,269
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+TABLE OF CONTENTS
+
+[TABLE_START]
+​ | ​ | ​ | Page | PART I | FINANCIAL INFORMATION | 1 | ​ | Item 1. | Financial Statements | (Unaudited) | 1 | ​ | ​ | Condensed Consolidated Balance Sheets | (Unaudited) | 1 | ​ | ​ | Condensed Consolidated Statements of Operations | (Unaudited) | 2 | ​ | ​ | Condensed Consolidated Statements of Comprehensive Income | (Unaudited) | 3 | ​ | ​ | Condensed Consolidated Statements of Changes in Shareholders’ Equity | (Unaudited) | 4 | ​ | ​ | Condensed Consolidated Statements of Cash Flows | (Unaudited) | 5 | ​ | ​ | Notes to the Unaudited | Condensed | Consolidated Financial Statements | (Unaudited) | 6 | ​ | Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 19 | ​ | Item 4. | Controls and Procedures | 28 | ​ | ​ | ​ | ​ | PART II | OTHER INFORMATION | 28 | ​ | Item 1. | Legal Proceedings | 28 | ​ | Item 1A. | Risk Factors | 28 | ​ | Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 29 | ​ | Item 6. | Exhibits | 30 | ​ | ​ | ​ | ​ | SIGNATURE | 31
+[TABLE_END]
+
+​
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+​
+
+This Quarterly Report on Form 10-Q includes “forward-looking” statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by the fact that they do not relate strictly to historical or current facts. They often include words such as “believes,” “expects,” “anticipates,” “estimates,” “intends,” “plans,” “seeks,” “continues,” “feels,” “forecasts,” or words of similar meaning, or future or conditional verbs, such as “will,” “should,” “could,” “may,” “aims,” “intends,” or “projects.” Statements may be forward looking even in the absence of these particular words.
+
+Examples of forward-looking statements include, but are not limited to, statements regarding our financial position, business strategy, and other plans and objectives for our future operations, and generation of free cash flow. These forward-looking statements are based on our current expectations and beliefs concerning future developments and their potential effect on us. The forward-looking statements contained in this Annual Report are largely based on our expectations for the future, which reflect certain estimates and assumptions made by our management. These estimates and assumptions reflect our best judgment based on currently known market conditions, operating trends, and other factors. Although we believe such estimates and assumptions to be reasonable, they are inherently uncertain and involve a number of risks and uncertainties that are beyond our control. As such, management’s assumptions about future events may prove to be inaccurate.
+
+We do not intend to publicly update or revise any forward-looking statements as a result of new information, future events, changes in circumstances, or otherwise. These cautionary statements qualify all forward-looking statements attributable to us, or persons acting on our behalf. Management cautions you that the forward-looking statements contained herein are not guarantees of future performance, and we cannot assure you that such statements will be realized or that the events and circumstances they describe will occur. Factors that could cause actual results to differ materially from those anticipated or implied in the forward-looking statements herein include, but are not limited to a change in the relationship with any of our key suppliers, including the unavailability of premium products at competitive prices, a change in negotiated volume discounts, cooperative advertising, markdown allowances, or the ability to cancel orders and return excess or unneeded merchandise; our ability to fund our planned capital investments; volatility in the financial markets or other global economic factors; difficulties in appropriately allocating capital and resources among our strategic opportunities; our ability to realize the expected benefits from recent or future acquisitions; business opportunities and expansion; investments; expenses; dividends; share repurchases; liquidity; cash flow from operations; use of cash and cash requirements; borrowing capacity and use of proceeds; repatriation of cash to the United States; supply chain issues, including delays in merchandise receipts and increasing cost pressure caused by higher oceanic shipping and freight costs; labor shortages; expectations regarding increased wages; inflation; consumer spending levels; the effect of governmental assistance programs; social unrest; the direct and indirect effects of all variants of the coronavirus pandemic (COVID-19) on our business, including any adverse effects of COVID-19 vaccine mandates or other safety protocols; expectations regarding increasing global taxes; the effect of government regulation, including changes in law; the effect of the adverse outcome of any material litigation against us or judicial decisions that affect us or our industry generally; the effects of weather; climate change; increased competition; geopolitical events; the financial effect of accounting regulations and critical accounting policies; credit risk relating to the risk of loss as a result of non-performance by our counterparties; and any other factors set forth in the section entitled “Risk Factors” of our most recent Annual Report on Form 10-K.
+
+All written and oral forward-looking statements attributable to us are expressly qualified in their entirety by this cautionary statement. A forward-looking statement is neither a prediction nor a guarantee of future events or circumstances, and those future events or circumstances may not occur. You should not place undue reliance on forward-looking statements, which speak to our views only as of the date of this filing. Additional risks and uncertainties that we do not presently know about or that we currently consider to be insignificant may also affect our business operations and financial performance. The Company does not undertake to update any particular forward-looking statement included in this document. See “Risk Factors” included in the Annual Report for a discussion of certain risks relating to our business and any investment in our securities. We are including this cautionary note to make applicable, and take advantage of, the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 for forward-looking statements.
+
+Please refer to “Item 1A. Risk Factors” of our most recent Annual Report on Form 10-K filed with the U.S. Securities and Exchange Commission. Given these risks and uncertainties, you should not rely on forward-looking statements as predictions of actual results. Any or all of the forward-looking statements contained in this report, or any other public statement made by us, including by our management, may turn out to be incorrect. We are including this cautionary note to make applicable and take advantage of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 for forward-looking statements. We expressly disclaim any obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise.
+
+​
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(Unaudited)
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | January 29, | ($ in millions, except share amounts) | 2022 | 2021 | 2022* | ASSETS | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Current assets: | ​ | ​ | ​ | Cash and cash equivalents | ​ | $ | 551 | ​ | $ | 1,963 | ​ | $ | 804 | Merchandise inventories | ​ | 1,401 | ​ | 1,021 | ​ | 1,266 | Other current assets | ​ | 281 | ​ | 283 | ​ | 293 | ​ | ​ | 2,233 | ​ | 3,267 | ​ | 2,363 | Property and equipment, net | ​ | 899 | ​ | 769 | ​ | 917 | Operating lease right-of-use assets | ​ | ​ | 2,566 | ​ | ​ | 2,700 | ​ | ​ | 2,616 | Deferred taxes | ​ | 79 | ​ | 101 | ​ | 86 | Goodwill | ​ | 783 | ​ | 159 | ​ | 797 | Other intangible assets, net | ​ | 441 | ​ | 16 | ​ | 454 | Minority investments | ​ | ​ | 759 | ​ | ​ | 342 | ​ | ​ | 781 | Other assets | ​ | 118 | ​ | 88 | ​ | 121 | ​ | ​ | $ | 7,878 | ​ | $ | 7,442 | ​ | $ | 8,135 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | LIABILITIES AND SHAREHOLDERS’ EQUITY | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Current liabilities: | ​ | ​ | ​ | ​ | Accounts payable | ​ | $ | 565 | ​ | $ | 658 | ​ | $ | 596 | Accrued and other liabilities | ​ | 428 | ​ | 572 | ​ | 561 | Current portion of debt and obligations under finance leases | ​ | ​ | 6 | ​ | ​ | 101 | ​ | ​ | 6 | Current portion of lease obligations | ​ | ​ | 557 | ​ | ​ | 582 | ​ | ​ | 572 | ​ | ​ | 1,556 | ​ | 1,913 | ​ | 1,735 | Long-term debt and obligations under finance leases | ​ | 450 | ​ | 8 | ​ | 451 | Long-term lease obligations | ​ | ​ | 2,323 | ​ | ​ | 2,470 | ​ | ​ | 2,363 | Other liabilities | ​ | 334 | ​ | 121 | ​ | 343 | Total liabilities | ​ | 4,663 | ​ | 4,512 | ​ | 4,892 | Commitments and contingencies | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Shareholders’ equity: | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Common stock and paid-in capital: | 99,233,112 | ; | 104,286,151 | ; and | 99,070,796 | shares issued, respectively | ​ | ​ | 779 | ​ | ​ | 791 | ​ | ​ | 770 | Retained earnings | ​ | ​ | 2,995 | ​ | ​ | 2,507 | ​ | ​ | 2,900 | Accumulated other comprehensive loss | ​ | ​ | ( | 384 | ) | ​ | ​ | ( | 326 | ) | ​ | ​ | ( | 343 | ) | Less: Treasury stock at cost: | 4,731,931 | ; | 886,661 | ; and | 2,050,000 | shares, respectively | ​ | ​ | ( | 178 | ) | ​ | ​ | ( | 47 | ) | ​ | ​ | ( | 88 | ) | Noncontrolling interest | ​ | ​ | 3 | ​ | ​ | 5 | ​ | ​ | 4 | Total shareholders' equity | ​ | ​ | 3,215 | ​ | ​ | 2,930 | ​ | ​ | 3,243 | ​ | ​ | $ | 7,878 | ​ | $ | 7,442 | ​ | $ | 8,135
+[TABLE_END]
+
+[TABLE_START]
+* | The balance sheet at January 29, 2022 has been derived from the previously reported audited consolidated financial statements at that date, but does not include all of the information and footnotes required by U.S. generally accepted accounting principles for complete financial statements. For further information, refer to the consolidated financial statements and footnotes thereto included in Foot Locker, Inc.’s Annual Report on Form 10-K for the year ended January 29, 2022.
+[TABLE_END]
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+First Quarter 2022 Form 10-Q Page 1
+
+[PAGE BREAK]
+
+Table of Contents
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions, except per share amounts) | 2022 | 2021 | Sales | ​ | $ | 2,175 | ​ | $ | 2,153 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cost of sales | ​ | 1,435 | ​ | 1,404 | Selling, general and administrative expenses | ​ | 463 | ​ | 418 | Depreciation and amortization | ​ | 54 | ​ | 45 | Impairment and other charges | ​ | 6 | ​ | 4 | Income from operations | ​ | 217 | ​ | 282 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Interest expense, net | ​ | ( | 5 | ) | ​ | ( | 2 | ) | Other (expense) / income, net | ​ | ( | 22 | ) | ​ | 4 | Income before income taxes | ​ | 190 | ​ | 284 | Income tax expense | ​ | 58 | ​ | 82 | Net income | ​ | ​ | 132 | ​ | ​ | 202 | Net loss attributable to noncontrolling interests | ​ | ​ | 1 | ​ | ​ | — | Net income attributable to Foot Locker, Inc. | ​ | $ | 133 | ​ | $ | 202 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Basic earnings per share | ​ | $ | 1.38 | ​ | $ | 1.95 | Weighted-average shares outstanding | ​ | 96.1 | ​ | 103.6 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Diluted earnings per share | ​ | $ | 1.37 | ​ | $ | 1.93 | Weighted-average shares outstanding, assuming dilution | ​ | 97.2 | ​ | 105.0
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+First Quarter 2022 Form 10-Q Page 2
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Net income attributable to Foot Locker, Inc. | ​ | $ | 133 | ​ | $ | 202 | Other comprehensive income (loss), net of income tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Foreign currency translation adjustment: | ​ | ​ | Translation adjustment arising during the period, net of income tax (benefit)/expense of | $( | 1 | ) | , and | $ | 1 | , respectively | ​ | ( | 44 | ) | ​ | 4 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cash flow hedges: | ​ | ​ | Change in fair value of derivatives, net of income tax expense of $-, and $-, respectively | ​ | 1 | ​ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Pension and postretirement adjustments: | ​ | ​ | Amortization of net actuarial gain/loss and prior service cost included in net periodic benefit costs, net of income tax expense of | $ | 1 | and | $ | 1 | , respectively | ​ | 2 | ​ | ​ | 1 | Comprehensive income | ​ | $ | 92 | ​ | $ | 207
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+First Quarter 2022 Form 10-Q Page 3
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Additional Paid-In | ​ | ​ | ​ | ​ | ​ | ​ | Accumulated | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Capital & | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Other | ​ | ​ | ​ | Total | Thirteen weeks ended | ​ | Common Stock | ​ | Treasury Stock | ​ | Retained | ​ | Comprehensive | ​ | Noncontrolling | ​ | Shareholders' | (shares in thousands, amounts in millions) | ​ | Shares | ​ | Amount | ​ | Shares | ​ | Amount | ​ | Earnings | ​ | Loss | ​ | interests | ​ | Equity | Balance at January 29, 2022 | 99,071 | ​ | $ | 770 | ​ | ( | 2,050 | ) | ​ | $ | ( | 88 | ) | ​ | $ | 2,900 | ​ | $ | ( | 343 | ) | ​ | $ | 4 | ​ | $ | 3,243 | Restricted stock issued | 88 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 74 | ​ | ​ | 2 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 2 | Share-based compensation expense | ​ | ​ | ​ | 7 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 7 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 32 | ) | ​ | ​ | ( | 1 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 1 | ) | Share repurchases | ​ | ​ | ​ | ​ | ​ | ( | 2,650 | ) | ​ | ​ | ( | 89 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 89 | ) | Net income | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 133 | ​ | ​ | ​ | ​ | ​ | ( | 1 | ) | ​ | ​ | 132 | Cash dividends declared on common stock ($ | 0.40 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 38 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 38 | ) | Translation adjustment, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 44 | ) | ​ | ​ | ​ | ​ | ​ | ( | 44 | ) | Change in cash flow hedges, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 1 | ​ | ​ | ​ | ​ | ​ | 1 | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 2 | ​ | ​ | ​ | ​ | ​ | 2 | Balance at April 30, 2022 | 99,233 | ​ | $ | 779 | ( | 4,732 | ) | ​ | $ | ( | 178 | ) | ​ | $ | 2,995 | ​ | $ | ( | 384 | ) | ​ | $ | 3 | ​ | $ | 3,215
+[TABLE_END]
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Additional Paid-In | ​ | ​ | ​ | ​ | ​ | ​ | Accumulated | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Capital & | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Other | ​ | ​ | ​ | Total | Thirteen weeks ended | ​ | Common Stock | ​ | Treasury Stock | ​ | Retained | ​ | Comprehensive | ​ | Noncontrolling | ​ | Shareholders' | (shares in thousands, amounts in millions) | ​ | Shares | ​ | Amount | ​ | Shares | ​ | Amount | ​ | Earnings | ​ | Loss | ​ | interests | ​ | Equity | Balance at January 30, 2021 | 103,693 | ​ | $ | 779 | ​ | ( | 74 | ) | ​ | $ | ( | 3 | ) | ​ | $ | 2,326 | ​ | $ | ( | 331 | ) | ​ | $ | 5 | ​ | $ | 2,776 | Restricted stock issued | 468 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 125 | ​ | ​ | 4 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 4 | Share-based compensation expense | ​ | ​ | ​ | 8 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 8 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 192 | ) | ​ | ​ | ( | 10 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 10 | ) | Share repurchases | ​ | ​ | ​ | ​ | ​ | ( | 621 | ) | ​ | ​ | ( | 34 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 34 | ) | Net income | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 202 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 202 | Cash dividends declared on common stock ($ | 0.20 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 21 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 21 | ) | Translation adjustment, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 4 | ​ | ​ | ​ | ​ | ​ | 4 | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 1 | ​ | ​ | ​ | ​ | ​ | 1 | Balance at May 1, 2021 | 104,286 | ​ | $ | 791 | ​ | ( | 887 | ) | ​ | $ | ( | 47 | ) | ​ | $ | 2,507 | ​ | $ | ( | 326 | ) | ​ | $ | 5 | ​ | $ | 2,930
+[TABLE_END]
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+First Quarter 2022 Form 10-Q Page 4
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | From operating activities: | ​ | ​ | Net income | ​ | $ | 132 | ​ | $ | 202 | Adjustments to reconcile net income to net cash provided by operating activities: | ​ | ​ | ​ | ​ | Non-cash impairment and other charges | ​ | 3 | ​ | 2 | Fair value adjustments to minority investments | ​ | ​ | 25 | ​ | ​ | — | Depreciation and amortization | ​ | 54 | ​ | 45 | Deferred income taxes | ​ | 3 | ​ | 7 | Share-based compensation expense | ​ | 7 | ​ | 8 | Change in assets and liabilities: | ​ | ​ | ​ | ​ | Merchandise inventories | ​ | ( | 150 | ) | ​ | ( | 94 | ) | Accounts payable | ​ | ( | 25 | ) | ​ | 255 | Accrued and other liabilities | ​ | ( | 80 | ) | ​ | ( | 25 | ) | Insurance recovery received for inventory loss | ​ | — | ​ | 8 | Other, net | ​ | 10 | ​ | ( | 10 | ) | Net cash (used in) provided by operating activities | ​ | ( | 21 | ) | ​ | 398 | From investing activities: | ​ | ​ | Capital expenditures | ​ | ( | 95 | ) | ​ | ( | 51 | ) | Purchase of business, net of cash acquired | ​ | ( | 7 | ) | ​ | — | Minority investments | ​ | ( | 3 | ) | ​ | ( | 8 | ) | Proceeds from sale of property | ​ | ​ | — | ​ | ​ | 3 | Insurance proceeds related to loss on property and equipment | ​ | — | ​ | 2 | Net cash used in investing activities | ​ | ( | 105 | ) | ​ | ( | 54 | ) | From financing activities: | ​ | ​ | Purchase of treasury shares | ​ | ​ | ( | 89 | ) | ​ | ( | 34 | ) | Dividends paid on common stock | ​ | ​ | ( | 38 | ) | ​ | ( | 21 | ) | Payment of obligations under finance leases | ​ | ​ | ( | 2 | ) | ​ | ​ | — | Proceeds from exercise of stock options | ​ | ​ | 2 | ​ | 4 | Shares of common stock repurchased to satisfy tax withholding obligations | ​ | ​ | ( | 1 | ) | ​ | ( | 10 | ) | Net cash used in financing activities | ​ | ( | 128 | ) | ​ | ( | 61 | ) | Effect of exchange rate fluctuations on cash, cash equivalents, and restricted cash | ​ | ( | 1 | ) | ​ | — | Net change in cash, cash equivalents, and restricted cash | ​ | ( | 255 | ) | ​ | 283 | Cash, cash equivalents, and restricted cash at beginning of year | ​ | 850 | ​ | 1,718 | Cash, cash equivalents, and restricted cash at end of period | ​ | $ | 595 | ​ | $ | 2,001 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cash paid during the year: | ​ | ​ | Interest | ​ | $ | 8 | ​ | $ | 1 | Income taxes | ​ | $ | 18 | ​ | $ | 32 | Cash paid for amounts included in measurement of operating lease liabilities | ​ | $ | 174 | ​ | $ | 179 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Non-cash investing activities: | ​ | ​ | ​ | ​ | ​ | ​ | Right-of-use assets obtained in exchange for operating lease obligations | ​ | $ | 138 | ​ | $ | 114
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements .
+
+​
+
+First Quarter 2022 Form 10-Q Page 5
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+1. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accompanying condensed consolidated financial statements contained in this report are unaudited. In the opinion of management, the condensed consolidated financial statements include all normal, recurring adjustments necessary for a fair presentation of the results for the interim periods presented. As used in these Notes to the Unaudited Condensed Consolidated Financial Statements, the terms “Foot Locker,” “Company,” “we,” “our,” and “us” refer to Foot Locker, Inc. and its consolidated subsidiaries.
+
+The preparation of financial statements in accordance with U.S. generally accepted accounting principles requires us to make estimates and assumptions that affect the amounts reported in the accompanying Unaudited Condensed Consolidated Financial Statements and these Notes and related disclosures. Actual results may differ from those estimates. The results of operations for any interim period are not necessarily indicative of the results expected for the year.
+
+The results of operations for the period ended April 30, 2022 are not necessarily indicative of the results to be expected for the full fiscal year due to the continued uncertainty of general economic conditions that may affect us for the remainder of 2022. Specifically, the ongoing COVID-19 pandemic and its continuing effect on our operations and traffic to our stores, as well as port delays, our distribution capabilities, and distribution capabilities of our suppliers.
+
+The accompanying unaudited condensed consolidated financial statements should be read in conjunction with the Notes to Consolidated Financial Statements contained in our 2021 Form 10-K.
+
+There were no significant changes to the policies disclosed in Note 1, Summary of Significant Accounting Policies of our 2021 Form 10-K.
+
+Recent Accounting Pronouncements
+
+Recently issued accounting pronouncements did not, or are not believed by management to, have a material effect on our present or future consolidated financial statements.
+
+2. Acquisitions
+
+In 2021, we acquired WSS and atmos, two businesses that will allow us to further differentiate our product offerings, as well as our customer base, and diversify our retail store and omnichannel portfolio.
+
+WSS
+
+During the thirteen weeks ended April 30, 2022, we paid an additional $ 4 million upon the finalization of the value of net assets acquired, with a corresponding increase to goodwill as compared with the amounts presented in the most recent annual report. The aggregate purchase price for the acquisition has increased to $ 811 million ($ 741 million, net of cash acquired).
+
+​
+
+First Quarter 2022 Form 10-Q Page 6
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+2. Acquisitions (continued)
+
+The following table represents the final allocation of the purchase price for WSS.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ($ in millions) | ​ | Assets acquired: | ​ | Cash and cash equivalents | ​ | $ | 70 | Merchandise inventories | ​ | 82 | Other current assets | ​ | 10 | Property and equipment, net | ​ | 133 | Operating lease right-of-use assets | ​ | ​ | 143 | Tradenames | ​ | 296 | Customer relationships | ​ | ​ | 13 | Other assets | ​ | 4 | Liabilities assumed: | ​ | Accounts payable | ​ | $ | ( | 58 | ) | Current portion of obligations under finance leases | ​ | ​ | ( | 3 | ) | Current portion of lease obligations | ​ | ​ | ( | 19 | ) | Long-term portion of obligations under finance leases | ​ | ​ | ( | 50 | ) | Long-term lease obligations | ​ | ​ | ( | 127 | ) | Deferred taxes | ​ | ​ | ( | 84 | ) | Other liabilities | ​ | ( | 4 | ) | ​ | ​ | ​ | ​ | Goodwill | ​ | ​ | 405 | Total purchase price | ​ | $ | 811
+[TABLE_END]
+
+​
+
+atmos
+
+During the thirteen weeks ended April 30, 2022, we paid an additional $ 3 million in connection with the finalization of certain post-closing conditions. The aggregate purchase price for the acquisition has increased to $ 363 million, subject to adjustment for the finalization of the value of net assets acquired and other post-closing matters. The acquisition was funded with available cash. The preliminary purchase price includes contingent consideration initially measured at $ 35 million, which can reach up to $ 111 million based on achieving certain revenue growth and EBITDA performance targets. The fair value of the contingent consideration has not changed from the initial measurement. The preliminary purchase price does not yet reflect the finalization of the net working capital provisions and other post-closing adjustments. At closing, we placed $ 30 million in escrow, and an additional $ 11 million will be payable if certain post-closing conditions are satisfied. We made a payment of $ 5 million during the second quarter of 2022 and expect to finalize the other amounts by the end of this fiscal year.
+
+The following table represents the preliminary allocation of the purchase price for atmos and includes fair value adjustments to certain assets and liabilities since our most recent annual report. Goodwill remained unchanged at $ 242 million from the amount reported at year end, however changes included the additional purchase price, revised downward valuation of the tradenames and the addition of the customer list intangible. The adjustments did not have a significant effect on the consolidated results of operations. We determined that the atmos tradenames will have an indefinite life and will not be amortized.
+
+We are assessing the tax deductibility of the goodwill related to the acquisition.
+
+​
+
+First Quarter 2022 Form 10-Q Page 7
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+2. Acquisitions (continued)
+
+The following table represents the preliminary allocation of the purchase price for atmos.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ($ in millions) | ​ | Assets acquired: | ​ | Cash and cash equivalents | ​ | $ | 6 | Merchandise inventories | ​ | 22 | Other current assets | ​ | 12 | Property and equipment, net | ​ | 7 | Operating lease right-of-use assets | ​ | ​ | 44 | Tradenames | ​ | 130 | Customer relationships | ​ | ​ | 9 | Other assets | ​ | 6 | Liabilities assumed: | ​ | ​ | Accounts payable | ​ | $ | ( | 10 | ) | Current portion of lease obligations | ​ | ​ | ( | 10 | ) | Other current liabilities | ​ | ​ | ( | 8 | ) | Long-term lease obligations | ​ | ​ | ( | 35 | ) | Deferred taxes | ​ | ​ | ( | 44 | ) | Other liabilities | ​ | ( | 8 | ) | ​ | ​ | ​ | ​ | Goodwill | (1) | ​ | ​ | 242 | Total purchase price | (2) | ​ | $ | 363
+[TABLE_END]
+
+​
+
+[TABLE_START]
+(1) | Goodwill represented on this table is at the exchange rate in effect as of the date of acquisition.
+[TABLE_END]
+
+[TABLE_START]
+(2) | Total purchase price consists of | $ | 328 | million in cash and | $ | 35 | million of contingent consideration | .
+[TABLE_END]
+
+​
+
+​
+
+3. Revenue
+
+The table below presents sales disaggregated based upon sales channel. Sales are attributable to the channel in which the sales transaction is initiated.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Sales by Channel | ​ | ​ | ​ | ​ | ​ | Stores | $ | 1,776 | ​ | $ | 1,620 | Direct-to-customers | 399 | ​ | 533 | Total sales | $ | 2,175 | ​ | $ | 2,153
+[TABLE_END]
+
+​
+
+Sales disaggregated based upon geographic area are presented in the table below. Sales are attributable to the geographic area in which the sales transaction is fulfilled.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Sales by Geography | ​ | ​ | ​ | ​ | ​ | United States | $ | 1,632 | ​ | $ | 1,713 | International | 543 | ​ | 440 | Total sales | $ | 2,175 | ​ | $ | 2,153
+[TABLE_END]
+
+​
+
+First Quarter 2022 Form 10-Q Page 8
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+3. Revenue (continued)
+
+Contract Liabilities
+
+We sell gift cards, which do not have expiration dates. Revenue from gift card sales is recorded when the gift cards are redeemed by customers. Breakage income is recognized as revenue in proportion to the pattern of rights exercised by the customer . The table below presents the activity of our gift card liability balance.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | ​ | 2022 | ​ | 2021 | Gift card liability at beginning of year | ​ | $ | 46 | ​ | $ | 41 | Redemptions | ​ | ​ | ( | 65 | ) | ​ | ​ | ( | 56 | ) | Breakage recognized in sales | ​ | ​ | ( | 4 | ) | ​ | ​ | ( | 4 | ) | Activations | ​ | ​ | 60 | ​ | ​ | 62 | Gift card liability | ​ | $ | 37 | ​ | $ | 43
+[TABLE_END]
+
+We elected not to disclose the information about remaining performance obligations since the amount of gift cards redeemed after 12 months is not significant.
+
+4. Segment Information
+
+We have integrated all available shopping channels including stores, websites, apps, social channels, and catalogs. Store sales are primarily fulfilled from the store’s inventory, but may also be shipped from any of our distribution centers or from a different store location if an item is not available at the original store. Direct-to-customer orders are generally shipped to our customers through our distribution centers but may also be shipped from any store or a combination of our distribution centers and stores depending on availability.
+
+We evaluate performance based on several factors, primarily the banner’s financial results, referred to as division profit. Division profit reflects income before income taxes, impairment and other charges, corporate expense, non-operating income, and net interest expense.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Sales | ​ | $ | 2,175 | ​ | $ | 2,153 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Operating Results | ​ | ​ | Division profit | ​ | ​ | 260 | ​ | ​ | 315 | Less: Impairment and other charges | (1) | ​ | 6 | ​ | 4 | Less: Corporate expense | (2) | ​ | 37 | ​ | 29 | Income from operations | ​ | 217 | ​ | 282 | Interest expense, net | ​ | ( | 5 | ) | ​ | ( | 2 | ) | Other (expense) / income, net | (3) | ​ | ( | 22 | ) | ​ | 4 | Income before income taxes | ​ | $ | 190 | ​ | $ | 284
+[TABLE_END]
+
+[TABLE_START]
+(1) | We recorded pre-tax charges of | $ | 6 | million and | $ | 4 | million during the first quarter of 2022 and 2021, respectively, as detailed in Note 5, | Impairment and Other Charges | .
+[TABLE_END]
+
+[TABLE_START]
+(2) | Corporate expense consists of unallocated selling, general and administrative expenses, as well as depreciation and amortization related to our corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items.
+[TABLE_END]
+
+[TABLE_START]
+(3) | Other (expense) income, net for the thirteen weeks ended April 30, 2022 primarily consisted of a | $ | 25 | million loss on the change in fair value of our investment in Retailors, Ltd., a publicly-listed entity, which was partially offset by other income.
+[TABLE_END]
+
+​
+
+First Quarter 2022 Form 10-Q Page 9
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+5. Impairment and Other Charges
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Impairment of long-lived assets and right-of-use assets | ​ | $ | 3 | ​ | $ | — | Acquisition and integration costs | ​ | ​ | 2 | ​ | ​ | — | Other | ​ | ​ | 1 | ​ | ​ | — | Impairment of investments | ​ | ​ | — | ​ | ​ | 2 | Reorganization costs | ​ | ​ | — | ​ | ​ | 2 | Total impairment and other charges | ​ | $ | 6 | ​ | $ | 4
+[TABLE_END]
+
+​
+
+During the first quarter of 2022, we recorded impairment charges of $ 3 million related to long-lived assets and right-of-use assets as well as accelerated tenancy charges, $ 2 million of acquisition and integration costs related to WSS and atmos, and $ 1 million of other expenses.
+
+In the first quarter of 2021, we recorded an impairment charge of $ 2 million related to the underperformance of one of our minority investments. Additionally, in connection with the reorganization of certain support functions, we recorded severance charges of $ 2 million.
+
+6. Cash, Cash Equivalents, and Restricted Cash
+
+The table below provides a reconciliation of cash and cash equivalents, as reported on our Condensed Consolidated Balance Sheets, to cash, cash equivalents, and restricted cash, as reported on our Condensed Consolidated Statements of Cash Flows.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Cash and cash equivalents | ​ | $ | 551 | ​ | $ | 1,963 | Restricted cash included in other current assets | ​ | ​ | 8 | ​ | ​ | 8 | Restricted cash included in other non-current assets | ​ | ​ | 36 | ​ | ​ | 30 | Cash, cash equivalents, and restricted cash | ​ | $ | 595 | ​ | $ | 2,001
+[TABLE_END]
+
+​
+
+Amounts included in restricted cash primarily relate to amounts held in escrow in connection with various leasing arrangements in Europe and deposits held in insurance trusts to satisfy the requirement to collateralize part of the self-insured workers’ compensation and liability claims.
+
+7. Goodwill
+
+See footnote 2, Acquisitions , for additional information on our recent acquisitions. We review goodwill for impairment annually during the first quarter of each fiscal year, or more frequently if impairment indicators arise. The review of impairment consists of either using a qualitative approach to determine whether it is more likely than not that the fair value of the assets is less than their respective carrying values or a one-step quantitative impairment test.
+
+The results of the first quarter analysis did not result in an impairment since the fair value of each reporting unit exceeded its carrying value.
+
+First Quarter 2022 Form 10-Q Page 10
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+8. Other Intangible Assets, net
+
+The components of finite-lived intangible assets and intangible assets not subject to amortization are as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | April 30, 2022 | ​ | ​ | May 1, 2021 | ​ | ​ | Gross | ​ | Accum. | ​ | Net | ​ | Gross | ​ | Accum. | ​ | Net | ($ in millions) | ​ | value | ​ | amort. | ​ | value | ​ | value | ​ | amort. | ​ | value | Amortized intangible assets: | (1) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Lease acquisition costs | ​ | $ | 101 | ​ | $ | ( | 98 | ) | ​ | $ | 3 | ​ | $ | 119 | ​ | $ | ( | 115 | ) | ​ | $ | 4 | Trademarks/tradenames | (2) | ​ | ​ | 18 | ​ | ​ | ( | 18 | ) | ​ | ​ | — | ​ | ​ | 20 | ​ | ​ | ( | 17 | ) | ​ | ​ | 3 | Customer lists | ​ | ​ | 20 | ​ | ​ | ( | 4 | ) | ​ | ​ | 16 | ​ | ​ | — | ​ | ​ | — | ​ | ​ | — | ​ | ​ | $ | 139 | ​ | $ | ( | 120 | ) | ​ | $ | 19 | ​ | $ | 139 | ​ | $ | ( | 132 | ) | ​ | $ | 7 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Indefinite life intangible assets: | (1) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Trademarks/tradenames | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 422 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 9 | Other intangible assets, net | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 441 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 16
+[TABLE_END]
+
+[TABLE_START]
+(1) | The change in the ending balances also reflects the effect of foreign currency fluctuations due primarily to movements of the euro in relation to the U.S. dollar.
+[TABLE_END]
+
+[TABLE_START]
+(2) | During the fourth quarter of 2021, we recorded a non-cash impairment charge related to the Footaction tradename.
+[TABLE_END]
+
+In connection with the acquisitions of WSS and atmos, we recognized indefinite life intangible assets of $ 296 million for WSS related tradenames and $ 130 million for atmos related tradenames. Additionally, we recognized customer list intangible assets of $ 13 million for WSS and $ 9 million for atmos, both of which will be amortized over 3 years . The intangibles related to atmos were originally recorded at the exchange rate in effect as of the date of acquisition and are presented in the above table at current period exchange rates. Amortizing intangible assets primarily represent the WSS and atmos customer lists, lease acquisition costs, which are amounts that are required to secure prime lease locations and other lease rights, primarily in Europe.
+
+Amortization expense recorded is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Amortization expense | ​ | $ | 3 | ​ | $ | 1
+[TABLE_END]
+
+​
+
+Estimated future amortization expense for finite-life intangible assets is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ($ in millions) | ​ | Remainder of 2022 | ​ | $ | 6 | 2023 | ​ | ​ | 7 | 2024 | ​ | 5 | 2025 | ​ | ​ | 1
+[TABLE_END]
+
+​
+
+​
+
+​
+
+First Quarter 2022 Form 10-Q Page 11
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+9. Accumulated Other Comprehensive Loss
+
+Accumulated other comprehensive loss (“AOCL”), net of tax, is comprised of the following:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | January 29, | ($ in millions) | 2022 | 2021 | 2022 | Foreign currency translation adjustments | ​ | $ | ( | 151 | ) | ​ | $ | ( | 60 | ) | ​ | $ | ( | 107 | ) | Cash flow hedges | ​ | 1 | ​ | ( | 1 | ) | ​ | ​ | — | Unrecognized pension cost and postretirement benefit | ​ | ( | 234 | ) | ​ | ( | 265 | ) | ​ | ​ | ( | 236 | ) | ​ | ​ | $ | ( | 384 | ) | ​ | $ | ( | 326 | ) | ​ | $ | ( | 343 | )
+[TABLE_END]
+
+​
+
+The changes in AOCL for the thirteen weeks ended April 30, 2022 were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Foreign | ​ | ​ | ​ | ​ | Items Related | ​ | ​ | ​ | ​ | ​ | Currency | ​ | ​ | ​ | ​ | to Pension and | ​ | ​ | ​ | ​ | ​ | Translation | ​ | Cash Flow | ​ | Postretirement | ​ | ​ | ​ | ($ in millions) | Adjustments | Hedges | Benefits | Total | Balance as of January 29, 2022 | ​ | $ | ( | 107 | ) | ​ | ​ | — | ​ | $ | ( | 236 | ) | ​ | $ | ( | 343 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | OCI before reclassification | ​ | ( | 44 | ) | ​ | ​ | 1 | ​ | ​ | 1 | ​ | ( | 42 | ) | Amortization of pension actuarial loss, net of tax | ​ | — | ​ | ​ | — | ​ | ​ | 1 | ​ | 1 | Pension remeasurement, net of tax | ​ | — | ​ | ​ | — | ​ | ​ | — | ​ | ​ | — | Other comprehensive income | ​ | ( | 44 | ) | ​ | 1 | ​ | 2 | ​ | ( | 41 | ) | Balance as of April 30, 2022 | ​ | $ | ( | 151 | ) | ​ | $ | 1 | ​ | $ | ( | 234 | ) | ​ | $ | ( | 384 | )
+[TABLE_END]
+
+​
+
+Reclassifications from AOCL for the thirteen weeks ended April 30, 2022 were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ($ in millions) | ​ | Amortization of actuarial loss: | ​ | Pension benefits | ​ | $ | 2 | Income tax benefit | ​ | ( | 1 | ) | Total, net of tax | ​ | $ | 1
+[TABLE_END]
+
+​
+
+​
+
+10. Fair Value Measurements
+
+Our financial assets are recorded at fair value, using a three-level fair value hierarchy that prioritizes the inputs used to measure fair value. The three levels of inputs used to measure fair value are categorized as follows:
+
+[TABLE_START]
+Level 1 | – | Quoted prices for identical instruments in active markets.
+[TABLE_END]
+
+[TABLE_START]
+Level 2 – | Observable inputs other than quoted prices included within Level 1, including quoted prices for similar instruments in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations in which all significant inputs or significant value-drivers are observable in active markets.
+[TABLE_END]
+
+[TABLE_START]
+Level 3 – | Model-derived valuations in which one or more significant inputs or significant value-drivers are unobservable.
+[TABLE_END]
+
+First Quarter 2022 Form 10-Q Page 12
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+10. Fair Value Measurements (continued)
+
+In 2021, we invested $ 68 million to take a common stock minority stake in a public entity, Retailors, Ltd, which is traded on the Tel Aviv stock exchange. This investment is classified as a Level 1 instrument since the fair value is readily available in an active market.
+
+The fair value of the auction rate security, classified as available-for-sale, is determined by using quoted prices for similar instruments in active markets and accordingly is classified as a Level 2 instrument.
+
+The fair value of the contingent consideration liability associated with the atmos acquisition is estimated using an option pricing model simulation that determines an average projected payment value across numerous iterations.
+
+Our derivative financial instruments are valued using market-based inputs to valuation models. These valuation models require a variety of inputs, including contractual terms, market prices, yield curves, and measures of volatility and, therefore, are classified as Level 2 instruments.
+
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ($ in millions) | ​ | As of April 30, 2022 | ​ | As of May 1, 2021 | ​ | Level 1 | Level 2 | Level 3 | Level 1 | Level 2 | Level 3 | Assets | ​ | ​ | ​ | ​ | ​ | ​ | Minority investment in common stock | ​ | $ | 120 | ​ | $ | — | ​ | $ | — | ​ | $ | — | ​ | $ | — | ​ | $ | — | Available-for-sale security | ​ | ​ | — | ​ | ​ | 6 | ​ | ​ | — | ​ | ​ | — | ​ | ​ | 7 | ​ | ​ | — | Foreign exchange forward contracts | ​ | — | ​ | 2 | ​ | — | ​ | — | ​ | 2 | ​ | — | Total assets | ​ | $ | 120 | ​ | $ | 8 | ​ | $ | — | ​ | $ | — | ​ | $ | 9 | ​ | $ | — | Liabilities | ​ | ​ | ​ | ​ | ​ | ​ | Contingent consideration | ​ | — | ​ | — | ​ | 35 | ​ | — | ​ | — | ​ | — | Foreign exchange forward contracts | ​ | — | ​ | — | ​ | — | ​ | — | ​ | 4 | ​ | — | Total liabilities | ​ | $ | — | ​ | $ | — | ​ | $ | 35 | ​ | $ | — | ​ | $ | 4 | ​ | $ | —
+[TABLE_END]
+
+​
+
+There were no transfers into or out of Level 1, Level 2, or Level 3 assets and liabilities for any of the periods presented.
+
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+
+Assets and liabilities recognized or disclosed at fair value on the consolidated financial statements on a nonrecurring basis include items such as property, plant and equipment, operating lease right-of-use assets, goodwill, other intangible assets, and minority investments that are not accounted for under the equity method of accounting. These assets are measured using Level 3 inputs, if determined to be impaired.
+
+Minority investments measured using the fair value measurement alternative had a carrying value of $ 579 million and $ 323 million as of April 30, 2022 and May 1, 2021, respectively.
+
+​
+
+First Quarter 2022 Form 10-Q Page 13
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+10. Fair Value Measurements (continued)
+
+Long-Term Debt
+
+The fair value of long-term debt is determined by using model-derived valuations in which all significant inputs or significant value drivers are observable in active markets and, therefore, are classified as Level 2. The balance as of April 30, 2022 includes the $ 400 million 4 % Notes.
+
+The carrying value and estimated fair value of long-term debt were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ($ in millions) | April 30, 2022 | May 1, 2021 | Carrying value | (1) | ​ | $ | 394 | ​ | $ | 99 | Fair value | ​ | $ | 332 | ​ | $ | 104
+[TABLE_END]
+
+[TABLE_START]
+(1) | The carrying value of debt as of April 30, 2022 reflects | $ | 6 | million of issuer’s discount and costs related to the 4% Notes.
+[TABLE_END]
+
+The carrying values of cash and cash equivalents, and other current receivables and payables approximate their fair value.
+
+11. Earnings Per Share
+
+We account for earnings per share (“EPS”) using the treasury stock method. Basic EPS is computed by dividing net income for the period by the weighted-average number of common shares outstanding at the end of the period. Diluted earnings per share reflects the weighted-average number of common shares outstanding during the period used in the basic EPS computation plus dilutive common stock equivalents. The computation of diluted earnings per share does not assume conversion, exercise, or contingent issuance of securities that would have an anti-dilutive effect on EPS.
+
+The computation of basic and diluted EPS is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | (in millions, except per share data) | 2022 | 2021 | Net income attributable to Foot Locker, Inc. | ​ | $ | 133 | ​ | $ | 202 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted-average common shares outstanding | ​ | 96.1 | ​ | 103.6 | Dilutive effect of potential common shares | ​ | 1.1 | ​ | 1.4 | Weighted-average common shares outstanding assuming dilution | ​ | 97.2 | ​ | 105.0 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Earnings per share - basic | ​ | $ | 1.38 | ​ | $ | 1.95 | Earnings per share - diluted | ​ | $ | 1.37 | ​ | $ | 1.93 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Anti-dilutive share-based awards excluded from diluted calculation | ​ | 2.5 | ​ | 1.7
+[TABLE_END]
+
+​
+
+Performance stock units related to our long-term incentive programs of 0.9 million and 0.4 million have been excluded from diluted weighted-average shares for the periods ended April 30, 2022 and May 1, 2021, respectively. The issuance of these shares are contingent on our performance metrics as compared to the pre-established performance goals, which have not been achieved.
+
+First Quarter 2022 Form 10-Q Page 14
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+12. Pension
+
+The components of net periodic pension benefit expense are presented in the table below. Service cost is recognized as part of SG&A expense, while the other components are recognized as part of Other income, net.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | April 30, | ​ | ​ | May 1, | ($ in millions) | ​ | ​ | 2022 | ​ | ​ | 2021 | Service cost | ​ | $ | 4 | ​ | $ | 4 | Interest cost | ​ | ​ | 5 | ​ | 4 | Expected return on plan assets | ​ | ​ | ( | 8 | ) | ​ | ( | 9 | ) | Amortization of net loss | ​ | ​ | 2 | ​ | 3 | Net benefit expense | ​ | $ | 3 | ​ | $ | 2
+[TABLE_END]
+
+​
+
+​
+
+​
+
+​
+
+13. Share-Based Compensation
+
+Total compensation expense, included in SG&A, and the associated tax benefits recognized related to our share-based compensation plans, were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | ​ | 2022 | ​ | 2021 | Options and employee stock purchase plan | ​ | $ | 1 | ​ | $ | 2 | Restricted stock units and performance stock units | ​ | 6 | ​ | 6 | Total share-based compensation expense | ​ | $ | 7 | ​ | $ | 8 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Tax benefit recognized | ​ | $ | 1 | ​ | $ | 1
+[TABLE_END]
+
+​
+
+Valuation Model and Assumptions
+
+We use the Black-Scholes option-pricing model to estimate the fair value of share-based awards. The Black-Scholes option-pricing model incorporates various and subjective assumptions, including expected term and expected volatility.
+
+The table below shows assumptions used to compute share-based compensation expense for awards granted during the thirteen weeks ended April 30, 2022 and May 1, 2021.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Stock Option Plans | ​ | ​ | Stock Purchase Plan | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | April 30, | ​ | May 1, | ​ | ​ | 2022 | 2021 | 2022 | 2021 | Weighted-average risk free rate of interest | ​ | 2.3 | % | ​ | 0.9 | % | ​ | 0.1 | % | ​ | 0.2 | % | Expected volatility | ​ | 50 | % | ​ | 47 | % | ​ | 40 | % | ​ | 48 | % | Weighted-average expected award life (in years) | ​ | 5.5 | ​ | 5.5 | ​ | 1.0 | ​ | 1.0 | Dividend yield | ​ | 3.9 | % | ​ | 1.5 | % | ​ | 1.8 | % | ​ | 5.6 | % | Weighted-average fair value | ​ | $ | 10.42 | ​ | $ | 20.22 | ​ | $ | 29.46 | ​ | $ | 6.35 | ​
+[TABLE_END]
+
+​
+
+First Quarter 2022 Form 10-Q Page 15
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+13. Share-Based Compensation (continued)
+
+The information in the table below provides activity under our stock option plans for the thirteen weeks ended April 30, 2022.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted- | Weighted- | ​ | ​ | Number | ​ | Average | ​ | Average | ​ | ​ | of | ​ | Remaining | ​ | Exercise | ​ | ​ | Shares | ​ | Contractual Life | ​ | Price | ​ | ​ | (in thousands) | ​ | (in years) | ​ | (per share) | Options outstanding at the beginning of the year | 3,211 | ​ | ​ | ​ | $ | 48.84 | Granted | 506 | ​ | ​ | ​ | 30.97 | Exercised | ( | 74 | ) | ​ | ​ | ​ | 28.75 | Expired or cancelled | ( | 115 | ) | ​ | ​ | ​ | 54.60 | Options outstanding at April 30, 2022 | 3,528 | ​ | 5.5 | ​ | $ | 46.51 | Options exercisable at April 30, 2022 | 2,665 | ​ | 4.3 | ​ | $ | 51.41 | Options available for future grant at April 30, 2022 | ​ | 2,296 | ​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+The total fair value of options vested during thirteen weeks ended April 30, 2022 and May 1, 2021 was $ 4 million for both periods. The cash received and related tax benefits realized from option exercises during the thirteen weeks ended April 30, 2022 were $ 2 million and not significant, respectively.
+
+The total intrinsic value of options exercised (the difference between the market price of our common stock on the exercise date and the price paid by the optionee to exercise the option) is presented below:
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Exercised | ​ | $ | — | ​ | $ | 3
+[TABLE_END]
+
+​
+
+The aggregate intrinsic value for stock options outstanding, and outstanding and exercisable (the difference between our closing stock price on the last trading day of the period and the exercise price of the options, multiplied by the number of in-the-money stock options) is presented below:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ($ in millions) | ​ | 2022 | ​ | 2021 | Outstanding | ​ | $ | 6 | ​ | $ | 48 | Outstanding and exercisable | ​ | $ | 4 | ​ | $ | 27
+[TABLE_END]
+
+​
+
+As of April 30, 2022, there was $ 7 million of total unrecognized compensation cost related to nonvested stock options which is expected to be recognized over a remaining weighted-average period of 1.8 years.
+
+First Quarter 2022 Form 10-Q Page 16
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+13. Share-Based Compensation (continued)
+
+The table below summarizes information about stock options outstanding and exercisable at April 30, 2022.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Options Outstanding | Options Exercisable | ​ | ​ | ​ | ​ | Weighted- | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Average | ​ | Weighted- | ​ | ​ | ​ | Weighted- | ​ | ​ | ​ | ​ | Remaining | ​ | Average | ​ | ​ | ​ | Average | Range of Exercise | ​ | Number | ​ | Contractual | ​ | Exercise | ​ | Number | ​ | Exercise | Prices | Outstanding | Life | Price | Exercisable | Price | ​ | (in thousands, except prices per share and contractual life) | $ | 21.60 | - | $ | 36.51 | 1,372 | ​ | 7.7 | ​ | $ | 26.18 | 624 | ​ | $ | 24.04 | $ | 44.78 | - | $ | 48.98 | 453 | ​ | 3.6 | ​ | 45.02 | 452 | ​ | 45.02 | $ | 53.61 | - | $ | 58.94 | 510 | ​ | 6.3 | ​ | 56.66 | 396 | ​ | 57.48 | $ | 62.02 | - | $ | 72.83 | ​ | 1,193 | ​ | 3.3 | ​ | 66.13 | 1,193 | ​ | 66.13 | ​ | 3,528 | 5.5 | ​ | $ | 46.51 | 2,665 | ​ | $ | 51.41
+[TABLE_END]
+
+​
+
+Restricted Stock Units and Performance Stock Units
+
+Restricted stock units (“RSU”) are awarded to certain officers, key employees of the Company, and nonemployee directors. Additionally, performance stock units (“PSU”) are awarded to officers and certain key employees in connection with our long-term incentive program. Each RSU and PSU represents the right to receive one share of our common stock provided that the applicable performance and vesting conditions are satisfied.
+
+Generally, RSU awards fully vest after the passage of time, typically three years for employees and one year for nonemployee directors, provided there is continued service with the Company until the vesting date, subject to the terms of the award. PSU awards are earned only after the attainment of performance goals in connection with the relevant performance period and vest after an additional one-year period. No dividends are paid or accumulated on any RSU or PSU awards.
+
+​
+
+Compensation expense is recognized using the market value at the date of grant and is amortized over the vesting period. RSU and PSU activity for the thirteen weeks ended April 30, 2022 is summarized as follows:
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted-Average | ​ | ​ | ​ | ​ | Number | Remaining | Weighted-Average | ​ | ​ | of | Contractual | Grant Date | ​ | ​ | Shares | Life | Fair Value | ​ | ​ | (in thousands) | ​ | (in years) | ​ | (per share) | Nonvested at beginning of year | ​ | 1,391 | ​ | ​ | ​ | $ | 43.95 | Granted | ​ | 979 | ​ | ​ | ​ | 30.17 | Vested | ​ | ( | 88 | ) | ​ | ​ | ​ | 58.39 | Performance adjustment | (1) | ​ | ​ | ( | 22 | ) | ​ | ​ | ​ | ​ | ​ | ​ | Forfeited | ​ | ( | 21 | ) | ​ | ​ | ​ | 35.15 | Nonvested at April 30, 2022 | ​ | 2,239 | ​ | 2.0 | ​ | $ | 36.85 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Aggregate value ($ in millions) | ​ | $ | 83 | ​ | ​ | ​
+[TABLE_END]
+
+[TABLE_START]
+(1) | This represents adjustments made to PSUs reflecting changes in estimates based upon our current performance against predefined financial targets.
+[TABLE_END]
+
+​
+
+First Quarter 2022 Form 10-Q Page 17
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+13. Share-Based Compensation (continued)
+
+The total value of RSU and PSU awards that vested during the thirteen weeks ended April 30, 2022 and May 1, 2021 was $ 5 million and $ 21 million, respectively. As of April 30, 2022, there was $ 54 million of total unrecognized compensation cost related to nonvested awards.
+
+14. Legal Proceedings
+
+Legal proceedings pending against the Company or its consolidated subsidiaries consist of ordinary, routine litigation, including administrative proceedings, incidental to the business of the Company or businesses that have been sold or discontinued by the Company in past years. These legal proceedings include commercial, intellectual property, customer, environmental, and employment-related claims.
+
+We do not believe that the outcome of any such legal proceedings pending against the Company or its consolidated subsidiaries, as described above, would have a material adverse effect on our consolidated financial position, liquidity, or results of operations, taken as a whole, based upon current knowledge and taking into consideration current accruals. Litigation is inherently unpredictable. Judgments could be rendered or settlements made that could adversely affect the Company’s operating results or cash flows in a particular period.
+
+​
+
+​
+
+First Quarter 2022 Form 10-Q Page 18
+
+[PAGE BREAK]
+
+Table of Contents
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Business Overview
+
+Foot Locker, Inc. leads the celebration of sneaker and youth culture around the globe through a portfolio of brands including Foot Locker, Lady Foot Locker, Kids Foot Locker, Champs Sports, Eastbay, atmos, WSS, Footaction, and Sidestep. As of April 30, 2022, we operated 2,815 primarily mall-based stores, as well as stores in high-traffic urban retail areas and high streets, in 28 countries across the United States, Canada, Europe, Australia, New Zealand, and Asia, as well as websites and mobile apps. Our purpose is to inspire and empower youth culture around the world, by fueling a shared passion for self-expression and creating unrivaled experiences at the heart of the global sneaker community.
+
+We use our omni-channel capabilities to bridge the digital world and physical stores, including order-in-store, buy online and pickup-in-store, and buy online and ship-from-store, as well as e-commerce. We operate websites and mobile apps aligned with the brand names of our store banners including footlocker.com, kidsfootlocker.com, champssports.com, atmosusa.com, shopwss.com and related e-commerce sites in the various international countries that we operate. These sites offer some of the largest online product selections and provide a seamless link between e-commerce and physical stores. We also operate the websites for eastbay.com and eastbayteamsales.com.
+
+Store Count
+
+At April 30, 2022, we operated 2,815 stores as compared with 2,858 and 2,952 stores at January 29, 2022 and May 1, 2021, respectively.
+
+Franchise Operations
+
+A total of 148 franchised stores were operating at April 30, 2022, as compared with 142 and 131 stores at January 29, 2022 and May 1, 2021, respectively. Revenue from franchised stores was not significant for any of the periods presented. These stores are not included in the operating store count above.
+
+COVID-19 Update
+
+COVID-19 had a significant effect on overall economic conditions in the various geographic areas in which we have operations. We have made best efforts to comply with all precautionary measures as directed by health authorities and local, state, and national governments. We continue to monitor outbreaks of COVID-19 which cause store closures, reduced operating hours, capacity limitations, and social distancing that may be required to help ensure the health and safety of our team members and our customers. COVID-19 has had, and may continue to have, an effect on ports and trade, as well as global travel.
+
+Given the dynamic nature of these circumstances, the duration of business disruption, and reduced customer traffic, the related financial affect cannot be reasonably estimated at this time but may materially affect our business for the foreseeable future.
+
+Reconciliation of Non-GAAP Measures
+
+In addition to reporting our financial results in accordance with U.S. generally accepted accounting principles (“GAAP”), we report certain financial results that differ from what is reported under GAAP. We have presented certain financial measures identified as non-GAAP, such as sales changes excluding foreign currency fluctuations, adjusted income before income taxes, adjusted net income, and adjusted diluted earnings per share.
+
+​
+
+First Quarter 2022 Form 10-Q Page 19
+
+[PAGE BREAK]
+
+Table of Contents
+
+We present certain amounts as excluding the effects of foreign currency fluctuations, which are also considered non-GAAP measures. Where amounts are expressed as excluding the effects of foreign currency fluctuations, such changes are determined by translating all amounts in both years using the prior-year average foreign exchange rates. Presenting amounts on a constant currency basis is useful to investors because it enables them to better understand the changes in our business that are not related to currency movements.
+
+These non-GAAP measures are presented because we believe they assist investors in comparing our performance across reporting periods on a consistent basis by excluding items that we do not believe are indicative of our core business or affect comparability. In addition, these non-GAAP measures are useful in assessing our progress in achieving our long-term financial objectives. We estimate the tax effect of all non-GAAP adjustments by applying a marginal tax rate to each of the respective items. The income tax items represent the discrete amount that affected the period. The non-GAAP financial information is provided in addition to, and not as an alternative to, our reported results prepared in accordance with GAAP.
+
+Effective with the first quarter of 2022, the calculation for non-GAAP earnings will exclude gains and losses from all minority investments, including the adjustments related to the investment in Retailors, Ltd. We believe this is a more representative measure of our recurring earnings, assists in the comparability of results, and is consistent with how management reviews performance. The non-GAAP results for 2021 will be recast, as applicable, to conform to the current year’s presentation. As we report quarterly results through 2022, we will provide updated non-GAAP reconciliations for the corresponding prior year’s quarter under this revised definition. First quarter 2021’s results were not affected by this change.
+
+Presented below is a reconciliation of GAAP and non-GAAP.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions, except per share amounts) | 2022 | 2021 | Pre-tax income: | ​ | ​ | Income before income taxes | ​ | $ | 190 | ​ | $ | 284 | ​ | Pre-tax amounts excluded from GAAP: | ​ | ​ | ​ | ​ | Impairment and other charges | ​ | 6 | ​ | 4 | Other expense | ​ | ​ | 24 | ​ | ​ | — | ​ | Adjusted income before income taxes (non-GAAP) | ​ | $ | 220 | ​ | $ | 288 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | After-tax income: | ​ | ​ | ​ | Net income attributable to Foot Locker, Inc. | ​ | $ | 133 | ​ | $ | 202 | ​ | After-tax adjustments excluded from GAAP: | ​ | ​ | ​ | ​ | Impairment and other charges, net of income tax benefit of $2 and $1, respectively | ​ | ​ | 4 | ​ | ​ | 3 | ​ | Other expense, net of income tax benefit of $6 and $-, respectively | ​ | ​ | 18 | ​ | ​ | — | ​ | Adjusted net income (non-GAAP) | ​ | $ | 155 | ​ | $ | 205 | ​
+[TABLE_END]
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | ​ | 2022 | 2021 | Earnings per share: | ​ | ​ | ​ | ​ | Diluted earnings per share | ​ | $ | 1.37 | ​ | $ | 1.93 | ​ | Diluted EPS amounts excluded from GAAP: | ​ | ​ | ​ | ​ | ​ | Impairment and other charges | ​ | ​ | 0.05 | ​ | ​ | 0.03 | ​ | Other expense | ​ | ​ | 0.18 | ​ | ​ | — | ​ | Adjusted diluted earnings per share (non-GAAP) | ​ | $ | 1.60 | ​ | $ | 1.96 | ​
+[TABLE_END]
+
+​
+
+First Quarter 2022 Form 10-Q Page 20
+
+[PAGE BREAK]
+
+Table of Contents
+
+During the thirteen weeks ended April 30, 2022, we recorded pre-tax charges of $6 million and $4 million, respectively, classified as Impairment and Other. See the Impairment and Other Charges section for further information.
+
+Other expense for the thirteen weeks ended April 30, 2022, primarily consisted of a $25 million loss on the change in fair value of our investment in Retailors, Ltd., a publicly-listed entity, which was partially offset by $1 million of dividend income and other various equity method investments.
+
+Segment Reporting
+
+We have determined that we have three operating segments, North America, EMEA, and Asia Pacific. Our North America operating segment includes the results of the following banners operating in the U.S. and Canada: Foot Locker, Kids Foot Locker, Lady Foot Locker, Champs Sports, WSS, and Footaction, including each of their related e-commerce businesses, as well as our Eastbay business that includes internet, catalog, and team sales. Our EMEA operating segment includes the results of the following banners operating in Europe: Foot Locker, Sidestep, and Kids Foot Locker, including each of their related e-commerce businesses. Our Asia Pacific operating segment includes the results of Foot Locker and Kids Foot Locker and the related e-commerce businesses operating in Australia, New Zealand, and Asia, as well as atmos, which operates primarily in Asia. We have further aggregated these operating segments into one reportable segment based upon their shared customer base and similar economic characteristics.
+
+Results of Operations
+
+We evaluate performance based on several factors, primarily the banner’s financial results, referred to as division profit. Division profit reflects income before income taxes, impairment and other charges, corporate expenses, non-operating income, and net interest expense.
+
+The table below summarizes our results.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | April 30, | ​ | May 1, | ($ in millions) | 2022 | 2021 | Sales | ​ | $ | 2,175 | ​ | $ | 2,153 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Operating Results | ​ | ​ | ​ | ​ | ​ | ​ | Division profit | ​ | ​ | 260 | ​ | ​ | 315 | Less: Impairment and other charges | (1) | ​ | ​ | 6 | ​ | ​ | 4 | Less: Corporate expense | (2) | ​ | ​ | 37 | ​ | ​ | 29 | Income from operations | ​ | ​ | 217 | ​ | ​ | 282 | Interest expense, net | ​ | ​ | (5) | ​ | ​ | (2) | Other (expense) income, net | (3) | ​ | ​ | (22) | ​ | ​ | 4 | Income before income taxes | ​ | $ | 190 | ​ | $ | 284
+[TABLE_END]
+
+[TABLE_START]
+(1) | See the | Impairment and Other Charges | section for further information.
+[TABLE_END]
+
+[TABLE_START]
+(2) | Corporate expense consists of unallocated selling, general and administrative expenses as well as depreciation and amortization related to the Company’s corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items.
+[TABLE_END]
+
+[TABLE_START]
+(3) | Other income includes non-operating items, franchise royalty income, changes in fair value of minority interests measured at fair value or using the fair value measurement alternative, changes in the market value of our available-for-sale security, our share of earnings or losses related to our equity method investments, and net benefit expense related to our pension and postretirement programs excluding the service cost component. See the | Other (expense)/income, net | section for further information.
+[TABLE_END]
+
+​
+
+​
+
+First Quarter 2022 Form 10-Q Page 21
+
+[PAGE BREAK]
+
+Table of Contents
+
+Sales
+
+All references to comparable-store sales for a given period relate to sales of stores that were open at the period-end and had been open for more than one year. The computation of consolidated comparable sales also includes our direct-to-customers channel. Stores opened or closed during the period are not included in the comparable-store base; however, stores closed temporarily for relocation or remodeling are included. Stores that were temporarily closed due to the COVID-19 pandemic are also included in the computation of comparable-store sales. Computations exclude the effect of foreign currency fluctuations.
+
+Sales from acquired businesses that include inventory are included in the computation of comparable-store sales after 15 months of operations. Accordingly, sales of WSS and atmos have been excluded from the computation of comparable-store sales.
+
+The information shown below represents certain sales metrics by sales channel.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | May 1, | ​ | ($ in millions) | 2022 | 2021 | ​ | Stores | ​ | ​ | ​ | ​ | ​ | ​ | Sales | $ | 1,776 | ​ | $ | 1,620 | ​ | $ Change | $ | 156 | ​ | ​ | ​ | ​ | % Change | ​ | 9.6 | % | ​ | ​ | ​ | % of total sales | ​ | 81.7 | % | ​ | 75.2 | % | Comparable sales increase | ​ | 7.9 | % | ​ | 97.4 | % | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Direct-to-customers | ​ | ​ | ​ | ​ | ​ | ​ | Sales | $ | 399 | ​ | $ | 533 | ​ | $ Change | $ | (134) | ​ | ​ | ​ | ​ | % Change | ​ | (25.1) | % | ​ | ​ | ​ | % of total sales | ​ | 18.3 | % | ​ | 24.8 | % | Comparable sales (decrease)/increase | ​ | (29.0) | % | ​ | 43.0 | %
+[TABLE_END]
+
+​
+
+The information shown below represents certain combined stores and direct-to-customers sales metrics for the thirteen weeks ended April 30, 2022 as compared with the corresponding prior-year period.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Sales at constant currencies, excluding acquisitions | ​ | ​ | Comparable Sales | ​ | North America | ​ | (16.9) | % | ​ | (11.8) | % | EMEA | ​ | 60.9 | % | ​ | 56.3 | % | Asia Pacific | ​ | 14.5 | % | ​ | 10.0 | % | ​ | ​ | (6.0) | % | ​ | (1.9) | %
+[TABLE_END]
+
+For the thirteen weeks ended April 30, 2022, total sales increased by $22 million, or 1.0%, to $2,175 million, as compared with the corresponding prior-year period. Excluding the effect of foreign currency fluctuations, total sales increased by $63 million, or 3.0%, for the thirteen weeks ended April 30, 2022. Sales from our acquired WSS and atmos banners were $138 million and $49 million, respectively, during the first quarter of 2022.
+
+The period over period comparisons were affected by the closures necessitated by the COVID-19 pandemic, as our stores were open for approximately 80% of the total available operating days during the first quarter of 2021 as compared with approximately 98% this year. Total comparable sales represented a decrease of 1.9% for the quarter.
+
+First Quarter 2022 Form 10-Q Page 22
+
+[PAGE BREAK]
+
+Table of Contents
+
+Our direct-to-customer channel saw significant decreases as shoppers navigated back to physical locations, partially offset by an increase in our stores channel as a result of the temporary store closures during 2021.
+
+As summarized on the prior page, our North American operating segment’s sales for the quarter were negatively affected primarily by the significant fiscal stimulus which contributed to last year’s growth. North American sales were also negatively affected by the wind down of the Footaction business, last year we operated 231 stores as compared with 22 this quarter. Within EMEA, sales from the Foot Locker and Sidestep banners increased primarily in line with the increase in operating days, resulting from COVID-19 related store closures in the prior year. Asia Pacific generated increases from both strong performance in Australia and New Zealand, coupled with growth in Asia, based on expansion in that region, and primarily related to the growth in e-commerce sales.
+
+From a product perspective for the combined channels, sales decline in the quarter was primarily related to decreased sales of footwear, slightly offset by increased sales of apparel and accessories. The decline in sales of footwear primarily represented a decline in sales of men’s and kids’ basketball footwear styles, partially offset by an increase in sales of women’s footwear. Apparel sales benefited from increases in sales across all wearer segments, led by sales of men’s and women’s apparel.
+
+Gross Margin
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | ​ | 2022 | 2021 | Gross margin rate | 34.0 | % | 34.8 | % | Basis point decrease in the gross margin rate | (80) | ​ | Components of the change: | ​ | ​ | Merchandise margin rate decline | (80) | ​ | Occupancy and buyers’ compensation expense rate | - | ​
+[TABLE_END]
+
+Gross margin is calculated as sales minus cost of sales. Cost of sales includes: the cost of merchandise, freight, distribution costs including related depreciation expense, shipping and handling, occupancy and buyers’ compensation. Occupancy costs include rent (including fixed common area maintenance charges and other fixed non-lease components), real estate taxes, general maintenance, and utilities.
+
+The gross margin rate decreased to 34.0% for the thirteen weeks ended April 30, 2022, as compared with the corresponding prior-year period, reflecting an 80-basis point decrease in the merchandise margin rate, while occupancy and buyers’ compensation rate remained unchanged. The decline in merchandise margin rate reflects higher supply chain costs and slightly higher markdowns versus historically-low levels last year.
+
+Selling, General and Administrative Expenses (SG&A)
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | SG&A | ​ | $ | 463 | ​ | $ | 418 | ​ | $ Change | ​ | $ | 45 | ​ | ​ | ​ | ​ | % Change | ​ | 10.8 | % | ​ | ​ | SG&A as a percentage of sales | ​ | 21.3 | % | 19.4 | %
+[TABLE_END]
+
+SG&A increased by $45 million, or $55 million excluding the effect of foreign currency fluctuations, for the thirteen weeks ended April 30, 2022, as compared with the corresponding prior-year period. Our newly acquired businesses contributed $34 million to the overall increase. As a percentage of sales, SG&A increased by 190 basis points for the thirteen weeks ended April 30, 2022, driven by higher labor costs, information technology and support expenses this quarter, as well as the effect of COVID-19 related matters in the prior year.
+
+First Quarter 2022 Form 10-Q Page 23
+
+[PAGE BREAK]
+
+Table of Contents
+
+SG&A for the thirteen weeks ended April 30, 2022 included nominal payroll subsidies from local governments, compared to $10 million for the corresponding prior-year period.
+
+Depreciation and Amortization
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | Depreciation and amortization | ​ | $ | 54 | ​ | $ | 45 | ​ | $ Change | ​ | $ | 9 | ​ | ​ | ​ | ​ | % Change | ​ | 20.0 | % | ​ | ​ | ​
+[TABLE_END]
+
+Depreciation and amortization expense increased by $9 million for the thirteen weeks ended April 30, 2022, as compared with the corresponding prior-year period. The increase was primarily related to the acquisitions of WSS and atmos.
+
+Impairment and Other Charges
+
+During the first quarter of 2022, we recorded impairment charges of $3 million related to long-lived assets and right-of-use assets as well as accelerated tenancy charges, $2 million of acquisition and integration costs related to WSS and atmos acquisitions, and $1 million of other expenses. This compared with impairment charges of $2 million related to the underperformance of our minority investment and reorganization charges of $2 million for the prior-year period.
+
+Corporate Expense
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | Corporate expense | ​ | $ | 37 | ​ | $ | 29 | ​ | $ Change | ​ | $ | 8 | ​ | ​ | ​ | ​
+[TABLE_END]
+
+Corporate expense consists of unallocated general and administrative expenses as well as depreciation and amortization related to our corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items. Depreciation and amortization included in corporate expense was $9 million and $7 million for the thirteen weeks ended April 30, 2022 and May 1, 2021, respectively.
+
+Corporate expense increased by $8 million for the thirteen weeks ended April 30, 2022, as compared with the prior-year period. The increase was primarily due to higher information technology and support expenses.
+
+Operating Results
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | May 1, | ($ in millions) | ​ | 2022 | ​ | 2021 | ​ | Division profit | ​ | $ | 260 | ​ | $ | 315 | ​ | Division profit margin | ​ | 12.0 | % | 14.6 | %
+[TABLE_END]
+
+Division profit margin as a percentage of sales decreased to 12.0% of sales for the thirteen weeks ended April 30, 2022, with both sales channels experiencing declines in gross margin. Division profit reflected the stores and direct-to-customers channels deleveraging expenses. WSS and atmos generated division profit of $14 million and $8 million, respectively.
+
+First Quarter 2022 Form 10-Q Page 24
+
+[PAGE BREAK]
+
+Table of Contents
+
+Interest Expense, Net
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | Interest expense | ​ | $ | (6) | ​ | $ | (3) | ​ | Interest income | ​ | 1 | ​ | 1 | ​ | Interest (expense) income, net | ​ | $ | (5) | ​ | $ | (2) | ​
+[TABLE_END]
+
+We recorded $5 million of net interest expense for the thirteen weeks ended April 30, 2022, as compared with net interest expense of $2 million for the corresponding prior-year period. Interest expense increased primarily due to the issuance of the 4% Notes.
+
+Other (Expense) / Income, Net
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | ​ | 2022 | ​ | 2021 | ​ | Other (expense) / income, net | ​ | $ | (22) | ​ | $ | 4 | ​
+[TABLE_END]
+
+Other (expense) / income includes non-operating items, including franchise royalty income, changes in fair value of minority investments measured at fair value or using the fair value measurement alternative, changes in the market value of our available-for-sale security, our share of earnings or losses related to our equity method investments, and net benefit (expense) related to our pension and postretirement programs excluding the service cost component.
+
+The change in other (expense) / income primarily represented a decrease in the fair value of our Retailors, Ltd. investment, resulting in a non-cash loss of $25 million, partially offset by franchise income of $3 million.
+
+Income Taxes
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | April 30, | May 1, | ​ | ($ in millions) | 2022 | ​ | 2021 | ​ | Provision for income taxes | $ | 58 | ​ | $ | 82 | ​ | Effective tax rate | 30.3 | % | 28.8 | %
+[TABLE_END]
+
+Our current year interim provision for income taxes was measured using an estimated annual effective tax rate, which represented a blend of federal, state, and foreign taxes and included the effect of certain nondeductible items as well as changes in our mix of domestic and foreign earnings or losses, adjusted for discrete items that occurred within the periods presented.
+
+We regularly assess the adequacy of our provisions for income tax contingencies in accordance with applicable authoritative guidance on accounting for income taxes. As a result, we may adjust the reserves for unrecognized tax benefits considering new facts and developments, such as changes to interpretations of relevant tax law, assessments from taxing authorities, settlements with taxing authorities, and lapses of statutes of limitation. The changes in tax reserves were not significant for any of the periods presented.
+
+During the thirteen weeks ended April 30, 2022, we recorded $1 million related to excess tax deficiencies from share-based compensation, as compared with a benefit of $1 million in the corresponding prior-year period.
+
+Excluding the above-mentioned discrete items, the effective tax rates for the current year period increased, as compared with the corresponding prior-year period, primarily due to the change in the mix of domestic and foreign earnings and losses.
+
+First Quarter 2022 Form 10-Q Page 25
+
+[PAGE BREAK]
+
+Table of Contents
+
+We currently expect our full-year tax rate to approximate 29% to 30% excluding the effect of any nonrecurring items that may occur. The actual tax rate will vary due to numerous factors, such as level and geographic mix of income and losses, acquisitions, investments, intercompany transactions, foreign currency exchange rates, our stock price, changes in our deferred tax assets and liabilities and their valuation, changes in the laws, regulations, administrative practices, principles, and interpretations related to tax, including changes to the global tax framework and other laws and accounting rules in various jurisdictions.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+Our primary source of liquidity has been cash flow from operations, while the principal uses of cash have been to fund inventory and other working capital requirements; finance capital expenditures related to store openings, store remodelings, internet and mobile sites, information systems, and other support facilities; make retirement plan contributions, quarterly dividend payments, and interest payments; and fund other cash requirements to support the development of our short-term and long-term operating strategies, including strategic investments. We generally finance real estate with operating leases. We believe our cash, cash equivalents, future cash flow from operations, and amounts available under our credit agreement will be adequate to fund these requirements.
+
+The Company may also repurchase its common stock or seek to retire or purchase outstanding debt through open market purchases, privately negotiated transactions, or otherwise. Share repurchases and retirement of debt, if any, will depend on prevailing market conditions, liquidity requirements, contractual restrictions, strategic considerations, and other factors. The amounts involved may be material. As of April 30, 2022, approximately $1,143 million remained available under our current $1.2 billion share repurchase program, which was approved in February 2022. The new program does not have an expiration date.
+
+Any material adverse change in customer demand, fashion trends, competitive market forces, or customer acceptance of our merchandise mix, retail locations and websites, uncertainties related to the effect of competitive products and pricing, our reliance on a few key suppliers for a significant portion of our merchandise purchases and risks associated with global product sourcing, economic conditions worldwide, the effects of currency fluctuations, continued uncertainties caused by the COVID-19 pandemic, as well as other factors listed under the headings “Disclosure Regarding Forward-Looking Statements,” and “Risk Factors” could affect our ability to continue to fund our needs from business operations.
+
+Operating Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | Net cash (used in) / provided by operating activities | ​ | $ | (21) | ​ | $ | 398 | ​ | $ Change | ​ | $ | (419) | ​ | ​ | ​ | ​
+[TABLE_END]
+
+Operating activities reflects net income adjusted for non-cash items and working capital changes. Adjustments to net income for non-cash items include gains, losses, impairment charges, other charges, depreciation and amortization, deferred income taxes, and share-based compensation expense.
+
+The decrease in cash from operating activities reflected higher merchandise purchases and payments of accounts payable and accrued and other liabilities, as well as lower net income, as compared with the same period last year. Higher merchandise purchases were necessary as our year-end inventory levels were affected by the COVID-19 pandemic and the associated supply chain challenges.
+
+First Quarter 2022 Form 10-Q Page 26
+
+[PAGE BREAK]
+
+Table of Contents
+
+As of April 30, 2022, we have withheld approximately $12 million of lease and lease-related payments as we continue to negotiate rent deferrals or abatements with our landlords for the period that our stores were closed due to the COVID-19 pandemic.
+
+Investing Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | Net cash used in investing activities | ​ | $ | (105) | ​ | $ | (54) | ​ | $ Change | ​ | $ | (51) | ​ | ​ | ​ | ​
+[TABLE_END]
+
+For the thirteen weeks ended April 30, 2022, capital expenditures increased by $44 million to $95 million, as compared with the corresponding prior-year period. Our full-year capital spending is expected to be $275 million. The forecast includes $190 million related to the remodeling or relocation of approximately 100 existing stores and the opening of approximately 110 new stores, as well as $85 million for the development of information systems, websites, and infrastructure, including supply chain initiatives.
+
+During the thirteen weeks ended April 30, 2022, we paid an additional $7 million for the WSS and atmos acquisitions upon the resolution of certain post-closing conditions.
+
+Additionally, we invested $3 million in minority investments, including various limited partner venture capital funds managed by Black fund managers, who are committed to advancing diverse-led businesses as part of our Leading in Education and Economic Development (LEED) initiative. In the prior-year period, we invested $8 million in minority investments.
+
+We sold the former Runners Point headquarters in the first quarter of 2021, generating proceeds of $3 million. Also last year, we received insurance proceeds of $2 million related to property and equipment claims from the social unrest losses in 2020.
+
+Financing Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | Net cash used in financing activities | ​ | $ | (128) | ​ | $ | (61) | ​ | $ Change | ​ | $ | (67) | ​ | ​ | ​ | ​
+[TABLE_END]
+
+Cash used in financing activities was driven by our return to shareholders initiatives, including our share repurchase program and cash dividends, as follows:
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | April 30, | ​ | May 1, | ​ | ($ in millions) | 2022 | 2021 | Share repurchases | ​ | $ | 89 | ​ | $ | 34 | ​ | Dividends paid on common stock | ​ | ​ | 38 | ​ | ​ | 21 | ​ | Total returned to shareholders | ​ | $ | 127 | ​ | $ | 55 | ​
+[TABLE_END]
+
+During the thirteen weeks ended April 30, 2022, we repurchased 2,650,000 shares of common stock for $89 million under our share repurchase programs, whereas in the prior year we spent $34 million to repurchase shares. We also declared and paid $38 million in dividends representing a quarterly rate of $0.40 per share in 2022, as compared with a quarterly rate of $0.20 per share in the prior-year period.
+
+​
+
+First Quarter 2022 Form 10-Q Page 27
+
+[PAGE BREAK]
+
+Table of Contents
+
+We paid $1 million to satisfy tax withholding obligations relating to the vesting of share-based equity awards during the thirteen weeks ended April 30, 2022, as compared with $10 million in 2021 . O ffsetting this amount were proceeds received in connection with employee stock programs of $2 million in the current year, as compared with $4 million in the prior-year period.
+
+Additionally, we paid $2 million of principal on our finance lease obligations, mainly related to certain WSS stores.
+
+Critical Accounting Policies and Estimates
+
+There have been no significant changes to our critical accounting policies and estimates from the information provided in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” included in the 2021 Form 10-K.
+
+Recent Accounting Pronouncements
+
+Descriptions of the recently issued and adopted accounting principles are included in Item 1. “Financial Statements” in Note 1, Summary of Significant Accounting Policies , to the Condensed Consolidated Financial Statements.
+
+Item 4. Controls and Procedures
+
+During the quarter, the Company’s management performed an evaluation, under the supervision and with the participation of the Company’s Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), of the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)). Based on that evaluation, the Company’s CEO and CFO concluded that the Company’s disclosure controls and procedures were effective to ensure that information relating to the Company that is required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC rules and forms, and is accumulated and communicated to management, including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure.
+
+During the quarter ended April 30, 2022, there were no changes, other than process changes that may be necessary related to the newly acquired businesses, in the Company’s internal control over financial reporting (as defined in Rules 13a-15(f) of the Exchange Act), that materially affected or are reasonably likely to affect the Company’s internal control over financial reporting.
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+Information regarding the Company’s legal proceedings is contained in the Legal Proceedings note under Item 1. “Financial Statements” in Part I.
+
+Item 1A. Risk Factors
+
+In addition to the other information discussed in this report, the factors described in Part I, Item 1A. “Risk Factors” in our 2021 Annual Report on Form 10-K filed with the SEC on March 24, 2022 should be considered as they could materially affect our business, financial condition, or future results.
+
+There have not been any significant changes with respect to the risks described in our 2021 Form 10-K.
+
+First Quarter 2022 Form 10-Q Page 28
+
+[PAGE BREAK]
+
+Table of Contents
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+The table below provides information with respect to shares of the Company’s common stock for the thirteen weeks ended April 30, 2022.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Total Number of | ​ | ​ | Dollar Value of | ​ | ​ | Total | ​ | Average | ​ | Shares Purchased as | ​ | ​ | Shares that may | ​ | ​ | Number | ​ | Price | ​ | Part of Publicly | ​ | ​ | yet be Purchased | ​ | ​ | of Shares | ​ | Paid Per | ​ | Announced | ​ | ​ | Under the | Date Purchased | Purchased | (1) | Share | (1) | ​ | Program | (2) | ​ | Program | (2) | January 30 to February 26, 2022 | 765,298 | ​ | $ | 42.62 | 765,200 | ​ | $ | 1,200,000,000 | February 27 to April 2, 2022 | 264,297 | ​ | 30.99 | 234,600 | ​ | 1,192,716,090 | April 3 to April 30, 2022 | 1,652,336 | ​ | 29.93 | 1,650,200 | ​ | 1,143,322,902 | ​ | 2,681,931 | ​ | $ | 33.66 | 2,650,000 | ​
+[TABLE_END]
+
+[TABLE_START]
+(1) | These columns include shares acquired in satisfaction of the tax withholding obligations of holders of restricted stock unit awards, which vested during the quarter. Share repurchases during February and March were pursuant to Rule 10b5-1 under the Securities and Exchange Act of 1934. The calculation of the average price paid per share includes all fees, commissions, and other costs associated with the repurchase of such shares.
+[TABLE_END]
+
+[TABLE_START]
+(2) | Under the Company’s previous share repurchase program, we repurchased 765,200 shares for $33 million. On February 24, 2022, the Board of Directors approved a new $1.2 billion share repurchase program. The new program does not have an expiration date.
+[TABLE_END]
+
+​
+
+​
+
+​
+
+First Quarter 2022 Form 10-Q Page 29
+
+[PAGE BREAK]
+
+Table of Contents
+
+Item 6. Exhibits
+
+[TABLE_START]
+​ | ​ | ​ | Exhibit No. | Description | 15* | ​ | Accountants’ Acknowledgement. | 31.1* | ​ | Certification of Chief Executive Officer Pursuant to Rule 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | 31.2* | ​ | Certification of Chief Financial Officer Pursuant to Rule 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | 32** | ​ | Certification of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. | 99* | ​ | Report of Independent Registered Public Accounting Firm. | 101.INS* | ​ | Inline XBRL Instance Document. | 101.SCH* | ​ | Inline XBRL Taxonomy Extension Schema. | 101.CAL* | ​ | Inline XBRL Taxonomy Extension Calculation Linkbase. | 101.DEF* | ​ | Inline XBRL Taxonomy Extension Definition Linkbase. | 101.LAB* | ​ | Inline XBRL Taxonomy Extension Label Linkbase. | 101.PRE* | ​ | Inline XBRL Taxonomy Extension Presentation Linkbase. | 104* | ​ | Cover Page Interactive Data File (embedded within the Inline XBRL datafile).
+[TABLE_END]
+
+​
+
+*    Filed herewith.
+
+**   Furnished herewith.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+​
+
+​
+
+​
+
+First Quarter 2022 Form 10-Q Page 30
+
+[PAGE BREAK]
+
+Table of Contents
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+[TABLE_START]
+​ | ​ | Date: June 8, 2022 | FOOT LOCKER, INC. | ​ | ​ | ​ | ​ | ​ | /s/ Andrew E. Page | ​ | ANDREW E. PAGE | ​ | Executive Vice President and Chief Financial Officer
+[TABLE_END]
+
+​
+
+​
+
+First Quarter 2022 Form 10-Q Page 31
+
+[PAGE BREAK]

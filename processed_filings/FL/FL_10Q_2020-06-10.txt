@@ -1,0 +1,1239 @@
+Table of Contents
+
+s
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+[TABLE_START]
+​ | ​ | ☑ | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[TABLE_END]
+
+​
+
+For the quarterly period ended: May 2, 2020
+
+OR
+
+[TABLE_START]
+​ | ​ | ☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[TABLE_END]
+
+​
+
+For the transition period from __________ to __________
+
+Commission File Number: 1-10299
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE_START]
+​ | ​ | New York | 13-3513936 | (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.)
+[TABLE_END]
+
+​
+
+330 West 34 th Street , New York , New York 10001
+
+(Address of principal executive offices, Zip Code)
+
+( 212 - 720-3700 )
+
+(Registrant’s telephone number, including area code)
+
+[TABLE_START]
+​ | ​ | ​ | Title of each class | Trading Symbol(s) | Name of each exchange on which registered | Common Stock | , par value $0.01 | FL | New York Stock Exchange
+[TABLE_END]
+
+​
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes þ No ◻
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes þ No ◻
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | Large accelerated filer | þ | Accelerated filer | ◻ | Non-accelerated filer | ◻ | Smaller reporting company | ◻ | Emerging growth company | ◻ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ◻
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ◻ No þ
+
+Number of shares of Common Stock outstanding as of June 5, 2020: 104,233,930
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+TABLE OF CONTENTS
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | Page | PART I | FINANCIAL INFORMATION | 1 | ​ | Item 1. | Financial Statements | 1 | ​ | ​ | Condensed Consolidated Balance Sheets | 1 | ​ | ​ | Condensed Consolidated Statements of Operations | 2 | ​ | ​ | Condensed Consolidated Statements of Comprehensive (Loss) Income | 3 | ​ | ​ | Condensed Consolidated Statements of Changes in Shareholders’ Equity | 4 | ​ | ​ | Condensed Consolidated Statements of Cash Flows | 5 | ​ | ​ | Notes to Unaudited Condensed Consolidated Financial Statements | 6 | ​ | Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 18 | ​ | Item 4. | Controls and Procedures | 28 | ​ | ​ | ​ | ​ | PART II | OTHER INFORMATION | 29 | ​ | Item 1. | Legal Proceedings | 29 | ​ | Item 1A. | Risk Factors | 29 | ​ | Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 29 | ​ | Item 6. | Exhibits | 30 | ​ | ​ | ​ | ​ | SIGNATURE | 31
+[TABLE_END]
+
+​
+
+​
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+​
+
+This Quarterly Report on Form 10-Q includes “forward-looking” statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by the fact that they do not relate strictly to historical or current facts. They often include words such as “believes,” “expects,” “anticipates,” “estimates,” “intends,” “plans,” “seeks,” “continues,” “feels,” “forecasts,” or words of similar meaning, or future or conditional verbs, such as “will,” “should,” “could,” “may,” “aims,” “intends,” or “projects.” These statements include statements relating to trends in or expectations relating to the expected effects of our initiatives, strategies and plans, as well as trends in or expectations regarding our financial results and long-term growth model and drivers, tax rates, business opportunities and expansion, strategic acquisitions or investments, expenses, dividends, share repurchases, and our mitigation strategies, liquidity, cash flow from operations, use of cash and cash requirements, investments, borrowing capacity and use of proceeds, repatriation of cash to the U.S., and the effects of the coronavirus pandemic (COVID-19) and recent social unrest on our financial results. A forward-looking statement is neither a prediction nor a guarantee of future events or circumstances, and those future events or circumstances may not occur. You should not place undue reliance on forward-looking statements, which speak to our views only as of the date of this filing. These forward-looking statements are all based on currently available operating, financial, and competitive information and are subject to various risks and uncertainties, many of which are unforeseeable and beyond our control, such as the developing situation, and uncertainty caused, related to the COVID-19 pandemic. Additional risks and uncertainties that we do not presently know about or that we currently consider to be insignificant may also affect our business operations and financial performance.
+
+​
+
+Please refer to “Item 1A. Risk Factors” of our most recent Annual Report on Form 10-K filed with the Securities and Exchange Commission and “Item 1A Risk Factors” included in this filing. Given these risks and uncertainties, you should not rely on forward-looking statements as a prediction of actual results. Any or all of the forward-looking statements contained in this report or any other public statement made by us, including by our management, may turn out to be incorrect. We are including this cautionary note to make applicable and take advantage of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 for forward-looking statements. We expressly disclaim any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+​
+
+[PAGE BREAK]
+
+Table of Contents
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+​
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | February 1, | ​ | ​ | 2020 | 2019 | 2020 | ​ | ​ | ​ | (Unaudited) | ​ | ​ | (Unaudited) | ​ | ​ | * | ​ | ​ | ​ | ($ in millions) | ASSETS | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Current assets: | ​ | ​ | ​ | Cash and cash equivalents | ​ | $ | 1,012 | ​ | $ | 1,126 | ​ | $ | 907 | ​ | Merchandise inventories | ​ | 1,458 | ​ | 1,211 | ​ | 1,208 | ​ | Other current assets | ​ | 268 | ​ | 255 | ​ | 271 | ​ | ​ | ​ | 2,738 | ​ | 2,592 | ​ | 2,386 | ​ | Property and equipment, net | ​ | 787 | ​ | 810 | ​ | 824 | ​ | Operating lease right-of-use assets | ​ | ​ | 2,807 | ​ | ​ | 3,025 | ​ | ​ | 2,899 | ​ | Deferred taxes | ​ | 63 | ​ | 89 | ​ | 81 | ​ | Goodwill | ​ | 156 | ​ | 156 | ​ | 156 | ​ | Other intangible assets, net | ​ | 19 | ​ | 22 | ​ | 20 | ​ | Other assets | ​ | 226 | ​ | 234 | ​ | 223 | ​ | ​ | ​ | $ | 6,796 | ​ | $ | 6,928 | ​ | $ | 6,589 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | LIABILITIES AND SHAREHOLDERS’ EQUITY | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Current liabilities: | ​ | ​ | ​ | ​ | Revolving credit facility | ​ | $ | 330 | ​ | $ | — | ​ | $ | — | ​ | Accounts payable | ​ | ​ | 468 | ​ | ​ | 451 | ​ | ​ | 333 | ​ | Accrued and other liabilities | ​ | 264 | ​ | 340 | ​ | 343 | ​ | Current portion of lease obligations | ​ | ​ | 581 | ​ | ​ | 499 | ​ | ​ | 518 | ​ | ​ | ​ | 1,643 | ​ | 1,290 | ​ | 1,194 | ​ | Long-term debt | ​ | 121 | ​ | 123 | ​ | 122 | ​ | Long-term lease obligations | ​ | ​ | 2,591 | ​ | ​ | 2,804 | ​ | ​ | 2,678 | ​ | Other liabilities | ​ | 127 | ​ | 109 | ​ | 122 | ​ | Total liabilities | ​ | 4,482 | ​ | 4,326 | ​ | 4,116 | ​ | Shareholders’ equity | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Common stock and paid-in capital: | 104,245,181 | ; | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 113,161,373 | ; and | 104,187,310 | shares outstanding, respectively | ​ | ​ | 767 | ​ | ​ | 820 | ​ | ​ | 764 | ​ | Retained earnings | ​ | ​ | 1,951 | ​ | ​ | 2,207 | ​ | ​ | 2,103 | ​ | Accumulated other comprehensive loss | ​ | ​ | ( | 404 | ) | ​ | ​ | ( | 384 | ) | ​ | ​ | ( | 394 | ) | ​ | Less: Treasury stock at cost: | 22,879 | ; | 774,355 | ; | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | and | -- | shares, respectively | ​ | ​ | — | ​ | ​ | ( | 41 | ) | ​ | ​ | — | ​ | Total shareholders' equity | ​ | ​ | 2,314 | ​ | ​ | 2,602 | ​ | ​ | 2,473 | ​ | ​ | ​ | $ | 6,796 | ​ | $ | 6,928 | ​ | $ | 6,589 | ​
+[TABLE_END]
+
+​
+
+[TABLE_START]
+* | The balance sheet at February 1, 2020 has been derived from the previously reported audited consolidated financial statements at that date, but does not include all of the information and footnotes required by U.S. generally accepted accounting principles for complete financial statements. For further information, refer to the consolidated financial statements and footnotes thereto included in Foot Locker, Inc.’s Annual Report on Form 10-K for the year ended February 1, 2020.
+[TABLE_END]
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+First Quarter 2020 Form 10-Q Page 1
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | ​ | 2020 | 2019 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Sales | ​ | $ | 1,176 | ​ | $ | 2,078 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cost of sales | ​ | 905 | ​ | 1,389 | ​ | Selling, general and administrative expenses | ​ | 316 | ​ | 416 | ​ | Depreciation and amortization | ​ | 44 | ​ | 44 | ​ | Impairment and other charges | ​ | 16 | ​ | 1 | ​ | (Loss) income from operations | ​ | ( | 105 | ) | ​ | 228 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Interest (expense) income, net | ​ | ( | 1 | ) | ​ | 4 | ​ | Other income, net | ​ | 1 | ​ | 2 | ​ | (Loss) income before income taxes | ​ | ( | 105 | ) | ​ | 234 | ​ | Income tax expense | ​ | 5 | ​ | 62 | ​ | Net (loss) income | ​ | $ | ( | 110 | ) | ​ | $ | 172 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Basic (loss) earnings per share | ​ | $ | ( | 1.06 | ) | ​ | $ | 1.53 | ​ | Weighted-average shares outstanding | ​ | 104.3 | ​ | 112.4 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Diluted (loss) earnings per share | ​ | $ | ( | 1.06 | ) | ​ | $ | 1.52 | ​ | Weighted-average shares outstanding, assuming dilution | ​ | 104.3 | ​ | 113.1 | ​
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+First Quarter 2020 Form 10-Q Page 2
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE (LOSS) INCOME
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | ​ | 2020 | 2019 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Net (loss) income | ​ | $ | ( | 110 | ) | ​ | $ | 172 | ​ | Other comprehensive (loss) income, net of income tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Foreign currency translation adjustment: | ​ | ​ | ​ | Translation adjustment arising during the period, net of income tax of | $- | and | $- | , respectively | ​ | ( | 16 | ) | ​ | ( | 15 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cash flow hedges: | ​ | ​ | ​ | Change in fair value of derivatives, net of income tax benefit of | $ | 1 | and | $- | , respectively | ​ | 3 | ​ | ( | 2 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Pension and postretirement adjustments: | ​ | ​ | ​ | ​ | Amortization of net actuarial gain/loss and prior service cost included in net periodic benefit costs, net of income tax expense of | $ | 1 | and | $ | 1 | , respectively | ​ | 3 | ​ | ​ | 3 | ​ | Comprehensive (loss) income | ​ | $ | ( | 120 | ) | ​ | $ | 158 | ​
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+First Quarter 2020 Form 10-Q Page 3
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+
+(Unaudited)
+
+​
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Additional Paid-In | ​ | ​ | ​ | ​ | ​ | Accumulated | ​ | ​ | ​ | ​ | Capital & | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Other | ​ | Total | ​ | ​ | Common Stock | ​ | Treasury Stock | ​ | Retained | ​ | Comprehensive | ​ | Shareholders' | (shares in thousands, amounts in millions) | ​ | Shares | ​ | Amount | ​ | Shares | ​ | Amount | ​ | Earnings | ​ | Loss | ​ | Equity | Balance at February 1, 2020 | 104,188 | ​ | $ | 764 | — | ​ | $ | — | ​ | $ | 2,103 | ​ | $ | ( | 394 | ) | ​ | $ | 2,473 | Restricted stock issued | 54 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 3 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Share-based compensation expense | ​ | ​ | ​ | 3 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 3 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 23 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Net loss | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 110 | ) | ​ | ​ | ​ | ​ | ​ | ( | 110 | ) | Cash dividends declared on common stock ($ | 0.40 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 42 | ) | ​ | ​ | ​ | ​ | ​ | ( | 42 | ) | Translation adjustment, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 16 | ) | ​ | ​ | ( | 16 | ) | Change in cash flow hedges, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 3 | ​ | ​ | 3 | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 3 | ​ | ​ | 3 | Balance at May 2, 2020 | 104,245 | ​ | $ | 767 | ( | 23 | ) | ​ | $ | — | ​ | $ | 1,951 | ​ | $ | ( | 404 | ) | ​ | $ | 2,314
+[TABLE_END]
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Additional Paid-In | ​ | ​ | ​ | ​ | ​ | Accumulated | ​ | ​ | ​ | ​ | Capital & | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Other | ​ | Total | ​ | ​ | Common Stock | ​ | Treasury Stock | ​ | Retained | ​ | Comprehensive | ​ | Shareholders' | (shares in thousands, amounts in millions) | ​ | Shares | ​ | Amount | ​ | Shares | ​ | Amount | ​ | Earnings | ​ | Loss | ​ | Equity | Balance at February 2, 2019 | 112,933 | ​ | $ | 809 | ( | 711 | ) | ​ | $ | ( | 37 | ) | ​ | $ | 2,104 | ​ | $ | ( | 370 | ) | ​ | $ | 2,506 | Restricted stock issued | 72 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | — | Issued under director and stock plans | 156 | ​ | ​ | 4 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 4 | Share-based compensation expense | ​ | ​ | ​ | 7 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 7 | Shares of common stock used to satisfy tax withholding obligations | ​ | ​ | ​ | ​ | ​ | ( | 31 | ) | ​ | ​ | ( | 2 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 2 | ) | Share repurchases | ​ | ​ | ​ | ​ | ​ | ( | 32 | ) | ​ | ​ | ( | 2 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 2 | ) | Net income | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 172 | ​ | ​ | ​ | ​ | ​ | 172 | Cash dividends declared on common stock ($ | 0.38 | per share) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 43 | ) | ​ | ​ | ​ | ​ | ​ | ( | 43 | ) | Translation adjustment, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 15 | ) | ​ | ​ | ( | 15 | ) | Change in cash flow hedges, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 2 | ) | ​ | ​ | ( | 2 | ) | Pension and postretirement adjustments, net of tax | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | 3 | ​ | ​ | 3 | Cumulative effect of the adoption of Topic 842 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ( | 26 | ) | ​ | ​ | ​ | ​ | ​ | ( | 26 | ) | Balance at May 4, 2019 | 113,161 | ​ | $ | 820 | ( | 774 | ) | ​ | $ | ( | 41 | ) | ​ | $ | 2,207 | ​ | $ | ( | 384 | ) | ​ | $ | 2,602
+[TABLE_END]
+
+​
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+First Quarter 2020 Form 10-Q Page 4
+
+[PAGE BREAK]
+
+Table of Contents
+
+​
+
+​
+
+​
+
+​
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | From operating activities: | ​ | ​ | Net (loss) income | ​ | $ | ( | 110 | ) | ​ | $ | 172 | Adjustments to reconcile net (loss) income to net cash provided by operating activities: | ​ | ​ | ​ | Impairment charges | ​ | 15 | ​ | — | Depreciation and amortization | ​ | 44 | ​ | 44 | Deferred income taxes | ​ | 24 | ​ | 2 | Share-based compensation expense | ​ | 3 | ​ | 7 | Qualified pension plan contributions | ​ | — | ​ | ( | 55 | ) | Change in assets and liabilities: | ​ | ​ | ​ | ​ | Merchandise inventories | ​ | ( | 257 | ) | ​ | 50 | Accounts payable | ​ | 138 | ​ | 67 | Accrued and other liabilities | ​ | ( | 44 | ) | ​ | ( | 22 | ) | Other, net | ​ | 71 | ​ | 53 | Net cash (used in) provided by operating activities | ​ | ( | 116 | ) | ​ | 318 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | From investing activities: | ​ | ​ | Capital expenditures | ​ | ( | 52 | ) | ​ | ( | 45 | ) | Minority investments | ​ | ( | 6 | ) | ​ | ( | 45 | ) | Net cash used in investing activities | ​ | ( | 58 | ) | ​ | ( | 90 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | From financing activities: | ​ | ​ | Proceeds from the revolving credit facility | ​ | ​ | 330 | ​ | ​ | — | Purchase of treasury shares | ​ | — | ​ | ( | 2 | ) | Dividends paid on common stock | ​ | ( | 42 | ) | ​ | ( | 43 | ) | Proceeds from exercise of stock options | ​ | — | ​ | 4 | Shares of common stock repurchased to satisfy tax withholding obligations | ​ | — | ​ | ( | 2 | ) | Net cash provided by (used in) financing activities | ​ | 288 | ​ | ( | 43 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Effect of exchange rate fluctuations on cash, cash equivalents, and restricted cash | ​ | ( | 9 | ) | ​ | ( | 5 | ) | Net change in cash, cash equivalents, and restricted cash | ​ | 105 | ​ | 180 | Cash, cash equivalents, and restricted cash at beginning of year | ​ | 942 | ​ | 981 | Cash, cash equivalents, and restricted cash at end of period | ​ | $ | 1,047 | ​ | $ | 1,161 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Cash paid during the year: | ​ | ​ | Interest | ​ | $ | 1 | ​ | $ | — | Income taxes | ​ | $ | 4 | ​ | $ | 40
+[TABLE_END]
+
+​
+
+See Accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 5
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+1. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accompanying condensed consolidated financial statements contained in this report are unaudited. In the opinion of management, the condensed consolidated financial statements include all normal, recurring adjustments necessary for a fair presentation of the results for the interim periods presented. As used in these Notes to Condensed Consolidated Financial Statements (Unaudited) the terms “Foot Locker,” “Company,” “we,” “our,” and “us” refer to Foot Locker, Inc. and its consolidated subsidiaries.
+
+The preparation of financial statements in accordance with generally accepted accounting principles requires us to make estimates and assumptions that affect the amounts reported in the accompanying Unaudited Condensed Consolidated Financial Statements and these Notes and related disclosures. Actual results may differ from those estimates. The results of operations for any interim period are not necessarily indicative of the results expected for the year. The results of operations for the period ended May 2, 2020 are not necessarily indicative of the results to be expected for the full fiscal year due to the continued uncertainty of general economic conditions that may affect us for the remainder of 2020. Specifically, we are uncertain of the extent to which the coronavirus (“COVID-19”) pandemic will affect our sales, traffic to our stores, including our distribution capabilities and those of our suppliers.
+
+The accompanying unaudited condensed consolidated financial statements should be read in conjunction with the Notes to Consolidated Financial Statements contained in Foot Locker, Inc.’s Form 10-K for the year ended February 1, 2020, as filed with the U.S. Securities and Exchange Commission (the “SEC”) on March 27, 2020.
+
+Other than the changes to the Goodwill policies as a result of the recently adopted accounting standards discussed below, there were no significant changes to the policies disclosed in Note 1, Summary of Significant Accounting Policies of our Annual Report on Form 10-K for the year ended February 1, 2020.
+
+Recent Accounting Pronouncements
+
+On February 2, 2020, we adopted FASB guidance on the accounting for implementation costs of a cloud computing arrangement that is considered to be a service contract, that requires companies to follow the guidance for internal-use software to determine which costs to capitalize in a cloud computing arrangement that is a service contract. Under this guidance, such implementation costs will be capitalized in “Other assets” on the Condensed Consolidated Balance Sheet, with the related amortization presented in “Selling, general and administrative expenses” on the Condensed Consolidated Statement of Operations. This guidance was applied prospectively to implementation costs incurred after February 2, 2020. The adoption of this guidance did not have a significant effect on our condensed consolidated financial statements.
+
+On February 2, 2020, we adopted FASB’s updated guidance on the accounting for performing goodwill impairment tests. This update eliminates the requirement to perform a hypothetical purchase price allocation to measure goodwill impairment. In testing goodwill for impairment, an entity may elect to utilize a qualitative assessment to evaluate whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. If the qualitative assessment indicates that goodwill impairment is more likely than not, an entity should perform its goodwill impairment test by comparing the fair value of a reporting unit to its carrying amount and recognize an impairment charge for the amount by which the carrying amount exceeds the reporting unit's fair value, not to exceed the total amount of goodwill allocated to the reporting unit. Refer to our updated accounting policy in Note 6, Goodwill.
+
+Other recently issued accounting pronouncements did not, or are not believed by management to, have a material effect on our present or future consolidated financial statements.
+
+​
+
+First Quarter 2020 Form 10-Q Page 6
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+2. Revenue
+
+The following table presents sales disaggregated based upon sales channel.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Sales by Channel | ​ | ​ | ​ | ​ | ​ | ​ | Stores | ​ | $ | 814 | ​ | $ | 1,758 | Direct-to-customers | ​ | 362 | ​ | 320 | Total sales | ​ | $ | 1,176 | ​ | $ | 2,078
+[TABLE_END]
+
+​
+
+Sales disaggregated based upon geographic area is presented in the table below. Sales are attributable to the geographic area in which the sales transaction is fulfilled.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Sales by Geography | ​ | ​ | ​ | ​ | ​ | ​ | United States | ​ | $ | 911 | ​ | $ | 1,552 | International | ​ | 265 | ​ | 526 | Total sales | ​ | $ | 1,176 | ​ | $ | 2,078
+[TABLE_END]
+
+​
+
+Contract Liabilities
+
+We sell gift cards which do not have expiration dates. Revenue from gift card sales is recorded when the gift cards are redeemed by customers. Breakage income is recognized as revenue in proportion to the pattern of rights exercised by the customer . The table below presents the activity of our gift card liability balance:
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | ​ | 2020 | ​ | 2019 | ​ | ​ | ($ in millions) | Gift card liability at beginning of year | ​ | $ | 35 | ​ | $ | 35 | Redemptions | ​ | ​ | ( | 15 | ) | ​ | ​ | ( | 25 | ) | Breakage recognized in sales | ​ | ​ | ( | 1 | ) | ​ | ​ | ( | 2 | ) | Activations | ​ | ​ | 14 | ​ | ​ | 22 | Foreign currency fluctuations | ​ | ​ | ( | 1 | ) | ​ | ​ | — | Gift card liability | ​ | $ | 32 | ​ | $ | 30
+[TABLE_END]
+
+​
+
+We elected not to disclose the information about remaining performance obligations since the amount of gift cards redeemed after 12 months is not significant.
+
+3. Segment Information
+
+We have integrated all available shopping channels including stores, websites, apps, social channels, and catalogs. Store sales are primarily fulfilled from the store’s inventory but may also be shipped from any of our distribution centers or from a different store location if an item is not available at the original store. Direct-to-customer orders are primarily shipped to our customers through our distribution centers but may also be shipped from any store or a combination of our distribution centers and stores depending on the availability of particular items.
+
+​
+
+First Quarter 2020 Form 10-Q Page 7
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+We evaluate performance based on several factors, of which the primary financial measure is the banner’s financial results referred to as division (loss) profit. Division (loss) profit reflects (loss) income before income taxes, impairment and other charges, corporate expense, non-operating income, and net interest (expense) income.
+
+​
+
+The following table summarizes our results:
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Sales | ​ | $ | 1,176 | ​ | $ | 2,078 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Operating Results | ​ | ​ | Division (loss) profit | ​ | ( | 79 | ) | ​ | 250 | Less: Impairment and other charges | (1) | ​ | 16 | ​ | 1 | Less: Corporate expense | (2) | ​ | 10 | ​ | 21 | (Loss) income from operations | ​ | ( | 105 | ) | ​ | 228 | Interest (expense) income, net | ​ | ( | 1 | ) | ​ | 4 | Other income, net | ​ | 1 | ​ | 2 | (Loss) income before income taxes | ​ | $ | ( | 105 | ) | ​ | $ | 234
+[TABLE_END]
+
+​
+
+[TABLE_START]
+(1) | During the thirteen weeks ended May 2, 2020, we recorded pre-tax charges of | $ | 15 | million related to the impairment of certain Runners Point and Sidestep stores that will be closing before lease expiration and other underperforming stores in Europe. We recorded pre-tax charges of | $ | 1 | million in each of the thirteen weeks ended May 2, 2020 and May 4, 2019 related to administrative costs in connection with the pension plan reformation.
+[TABLE_END]
+
+[TABLE_START]
+(2) | Corporate expense consists of unallocated selling, general and administrative expenses, as well as depreciation and amortization related to our corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items.
+[TABLE_END]
+
+​
+
+​
+
+4. Impairment and Other Charges
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ($ in millions) | Impairment of long-lived assets and right-of-use assets | ​ | $ | 15 | ​ | $ | — | Pension litigation related charges | ​ | ​ | 1 | ​ | ​ | 1 | Total impairment and other charges | ​ | $ | 16 | ​ | $ | 1
+[TABLE_END]
+
+​
+
+In May 2020, we made the strategic decision to close our Runners Point business. As part of the decision to close the banner, certain Runners Point stores will convert to other banners and approximately 40 Runners Point and Sidestep stores will close prior to their natural lease expiration. Due to the COVID-19 pandemic and its effect on our actual and projected results, we determined that a triggering event had occurred for certain underperforming stores operating in Europe and, therefore, we conducted an impairment review during the first quarter of 2020. We evaluated the long-lived assets, including the right-of-use assets, of 70 stores and recorded non-cash charges of $ 15 million to write down store fixtures, leasehold improvements, and right-of-use assets.
+
+The Company and the Company’s U.S. pension plan were involved in litigation related to the conversion of the plan to a cash balance plan. The court entered its final judgment in 2018, which required the plan to be reformed as directed by the court order. We recorded charges of $ 1 million for both the thirteen weeks ended May 2, 2020 and May 4, 2019 related to administrative expenses in connection with the reformation.
+
+​
+
+First Quarter 2020 Form 10-Q Page 8
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+5. Cash, Cash Equivalents, and Restricted Cash
+
+The following table provides a reconciliation of cash and cash equivalents, as reported on our condensed consolidated balance sheets, to cash, cash equivalents, and restricted cash, as reported on our condensed consolidated statements of cash flows.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Cash and cash equivalents | ​ | $ | 1,012 | ​ | $ | 1,126 | Restricted cash included in other current assets | ​ | ​ | 7 | ​ | ​ | 5 | Restricted cash included in other non-current assets | ​ | ​ | 28 | ​ | ​ | 30 | Cash, cash equivalents, and restricted cash | ​ | $ | 1,047 | ​ | $ | 1,161
+[TABLE_END]
+
+​
+
+Amounts included in restricted cash primarily relate to amounts held in escrow in connection with various leasing arrangements in Europe and deposits held in insurance trusts to satisfy the requirement to collateralize part of the self-insured workers’ compensation and liability claims.
+
+6. Goodwill
+
+We review goodwill for impairment annually during the first quarter of each fiscal year, or more frequently if impairment indicators arise. The review of impairment consists of either using a qualitative approach to determine whether it is more likely than not that the fair value of the assets is less than their respective carrying values or a one-step quantitative impairment test.
+
+In performing the qualitative assessment, we consider many factors in evaluating whether the carrying value of goodwill may not be recoverable, including declines in our stock price and market capitalization in relation to the book value of the Company and macroeconomic conditions affecting retail. If, based on the results of the qualitative assessment, it is concluded that it is not more likely than not that the fair value of a reporting unit exceeds its carrying value, additional quantitative impairment testing is performed. The quantitative test requires that the carrying value of each reporting unit be compared with its estimated fair value. If the carrying value of a reporting unit is greater than its fair value, a goodwill impairment charge will be recorded for the difference (up to the carrying value of goodwill).
+
+We use a discounted cash flow approach to determine the fair value of a reporting unit. The determination of discounted cash flows of the reporting units and assets and liabilities within the reporting units requires significant estimates and assumptions. These estimates and assumptions primarily include, but are not limited to, the discount rate, terminal growth rates, earnings before depreciation and amortization, and capital expenditures forecasts. Due to the inherent uncertainty involved in making these estimates, actual results could differ from those estimates. We evaluate the merits of each significant assumption, both individually and in the aggregate, used to determine the fair value of the reporting units, as well as the fair values of the corresponding assets and liabilities within the reporting units.
+
+In addition to performing our qualitative assessment of as the beginning of the year, we performed an additional quantitative assessment due to the COVID-19 pandemic and its effect on our results and stock price. Neither assessment resulted in the recognition of impairment.
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 9
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+7. Other Intangible Assets, net
+
+The components of finite-lived intangible assets and intangible assets not subject to amortization are as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | May 2, 2020 | ​ | ​ | May 4, 2019 | ​ | ​ | Gross | ​ | Accum. | ​ | Net | ​ | Gross | ​ | Accum. | ​ | Net | ($ in millions) | ​ | value | ​ | amort. | ​ | value | ​ | value | ​ | amort. | ​ | value | Amortized intangible assets: | (1) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Lease acquisition costs | ​ | $ | 113 | ​ | $ | ( | 106 | ) | ​ | $ | 7 | ​ | $ | 116 | ​ | $ | ( | 108 | ) | ​ | $ | 8 | Trademarks / trade names | ​ | ​ | 20 | ​ | ​ | ( | 16 | ) | ​ | ​ | 4 | ​ | ​ | 20 | ​ | ​ | ( | 15 | ) | ​ | ​ | 5 | ​ | ​ | $ | 133 | ​ | $ | ( | 122 | ) | ​ | $ | 11 | ​ | $ | 136 | ​ | $ | ( | 123 | ) | ​ | $ | 13 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Indefinite life intangible assets: | (1) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Trademarks / trade names | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 8 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 9 | Other intangible assets, net | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 19 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | $ | 22
+[TABLE_END]
+
+[TABLE_START]
+(1) | The change in the ending balances reflects the effect of foreign currency fluctuations due primarily to movements of the euro in relation to the U.S. dollar.
+[TABLE_END]
+
+​
+
+The annual review of intangible assets with indefinite lives performed during the first quarter of 2020 did not result in the recognition of impairment.
+
+Amortization expense recorded is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ($ in millions) | ​ | ​ | May 2, 2020 | ​ | May 4, 2019 | Amortization expense | ​ | $ | 1 | ​ | $ | 1
+[TABLE_END]
+
+​
+
+Estimated future amortization expense for finite-life intangible assets is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ($ in millions) | Remainder of 2020 | ​ | $ | 2 | 2021 | ​ | ​ | 2 | 2022 | ​ | 2 | 2023 | ​ | ​ | 2 | 2024 | ​ | 1 | 2025 | ​ | 1
+[TABLE_END]
+
+​
+
+​
+
+​
+
+8. Revolving Credit Facility
+
+On May 19, 2016 , we entered into a credit agreement with our banks (“2016 Credit Agreement”). The 2016 Credit Agreement provides for a $ 400 million asset-based revolving credit facility maturing on May 19, 2021 . During the term of the 2016 Credit Agreement, we may also increase the commitments by up to $ 200 million, subject to customary conditions. In the first quarter of 2020, we have drawn $ 330 million of our credit facility.
+
+​
+
+Interest is determined by the eurodollar rate, determined by reference to LIBOR, plus a margin of 1.125 percent to 1.375 percent depending on availability under the 2016 Credit Agreement. In addition, we are paying a commitment fee of 0.20 percent per annum on the unused portion of the commitments.
+
+​
+
+We are not required to comply with any financial covenants unless certain events of default have occurred and are continuing, or if availability under the 2016 Credit Agreement does not exceed the greater of $ 40 million and 10 percent of the Loan Cap (as defined in the 2016 Credit Agreement). There are no restrictions relating to the payment of dividends and share repurchases as long as no default or event of default has occurred and the aggregate principal amount of unused commitments under the 2016 Credit Agreement is not less than 15 percent of the lesser of the aggregate amount of the commitments and the Borrowing Base, determined as of the preceding fiscal month and on a proforma basis for the following six fiscal months.
+
+First Quarter 2020 Form 10-Q Page 10
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+​
+
+9. Accumulated Other Comprehensive Loss
+
+Accumulated other comprehensive loss (“AOCL”), net of tax, is comprised of the following:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | February 1, | ​ | ​ | 2020 | 2019 | 2020 | ​ | ​ | ($ in millions) | Foreign currency translation adjustments | ​ | $ | ( | 120 | ) | ​ | $ | ( | 99 | ) | ​ | $ | ( | 104 | ) | ​ | Cash flow hedges | ​ | — | ​ | ( | 2 | ) | ​ | ​ | ( | 3 | ) | ​ | Unrecognized pension cost and postretirement benefit | ​ | ( | 284 | ) | ​ | ( | 283 | ) | ​ | ​ | ( | 287 | ) | ​ | ​ | ​ | $ | ( | 404 | ) | ​ | $ | ( | 384 | ) | ​ | $ | ( | 394 | ) | ​
+[TABLE_END]
+
+​
+
+The changes in AOCL for the thirteen weeks ended May 2, 2020 were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Foreign | ​ | ​ | ​ | ​ | Items Related | ​ | ​ | ​ | ​ | ​ | Currency | ​ | ​ | ​ | ​ | to Pension and | ​ | ​ | ​ | ​ | ​ | Translation | ​ | Cash Flow | ​ | Postretirement | ​ | ​ | ​ | ($ in millions) | Adjustments | Hedges | Benefits | Total | Balance as of February 1, 2020 | ​ | $ | ( | 104 | ) | ​ | $ | ( | 3 | ) | ​ | $ | ( | 287 | ) | ​ | $ | ( | 394 | ) | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | OCI before reclassification | ​ | ( | 16 | ) | ​ | ​ | 3 | ​ | ​ | 1 | ​ | ( | 12 | ) | Amortization of pension actuarial loss, net of tax | ​ | — | ​ | ​ | — | ​ | ​ | 2 | ​ | 2 | Other comprehensive income | ​ | ( | 16 | ) | ​ | 3 | ​ | 3 | ​ | ( | 10 | ) | Balance as of May 2, 2020 | ​ | $ | ( | 120 | ) | ​ | $ | — | ​ | $ | ( | 284 | ) | ​ | $ | ( | 404 | )
+[TABLE_END]
+
+​
+
+Reclassifications from AOCL for the thirteen weeks ended May 2, 2020 were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ($ in millions) | Amortization of actuarial loss: | ​ | Pension benefits | ​ | $ | 3 | Income tax benefit | ​ | ( | 1 | ) | Total, net of tax | ​ | $ | 2
+[TABLE_END]
+
+​
+
+​
+
+10. Fair Value Measurements
+
+Our financial assets are recorded at fair value, using a three-level fair value hierarchy that prioritizes the inputs used to measure fair value. The three levels of inputs used to measure fair value are categorized as follows:
+
+[TABLE_START]
+Level 1 | – | Quoted prices for identical instruments in active markets.
+[TABLE_END]
+
+[TABLE_START]
+Level 2 – | Observable inputs other than quoted prices included within Level 1, including quoted prices for similar instruments in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations in which all significant inputs or significant value-drivers are observable in active markets.
+[TABLE_END]
+
+[TABLE_START]
+Level 3 – | Model-derived valuations in which one or more significant inputs or significant value-drivers are unobservable.
+[TABLE_END]
+
+​
+
+First Quarter 2020 Form 10-Q Page 11
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+The fair value of the auction rate security, classified as available-for-sale, is determined by using quoted prices for similar instruments in active markets and accordingly is classified as a Level 2 instrument.
+
+Our derivative financial instruments are valued using market-based inputs to valuation models. These valuation models require a variety of inputs, including contractual terms, market prices, yield curves, and measures of volatility and therefore are classified as Level 2 instruments.
+
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | As of May 2, 2020 | ​ | As of May 4, 2019 | ​ | ​ | ($ in millions) | ​ | Level 1 | Level 2 | Level 3 | Level 1 | Level 2 | Level 3 | Assets | ​ | ​ | ​ | ​ | ​ | ​ | Available-for-sale security | ​ | ​ | — | ​ | ​ | 6 | ​ | ​ | — | ​ | ​ | — | ​ | ​ | 6 | ​ | ​ | — | Foreign exchange forward contracts | ​ | — | ​ | 2 | ​ | — | ​ | — | ​ | 1 | ​ | — | Total Assets | ​ | $ | — | ​ | $ | 8 | ​ | $ | — | ​ | $ | — | ​ | $ | 7 | ​ | $ | — | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Liabilities | ​ | ​ | ​ | ​ | ​ | ​ | Foreign exchange forward contracts | ​ | — | ​ | 2 | ​ | — | ​ | — | ​ | 3 | ​ | — | Total Liabilities | ​ | $ | — | ​ | $ | 2 | ​ | $ | — | ​ | $ | — | ​ | $ | 3 | ​ | $ | —
+[TABLE_END]
+
+​
+
+There were no transfers into or out of Level 1, Level 2, or Level 3 assets and liabilities for any of the periods presented.
+
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+
+Assets and liabilities recognized or disclosed at fair value on the consolidated financial statements on a nonrecurring basis include items such as property, plant and equipment, operating lease right-of-use assets, goodwill, other intangible assets, and minority investments that are not accounted for under the equity method of accounting. These assets are measured using Level 3 inputs, if determined to be impaired.
+
+Minority interests measured using the fair value option had a carrying value of $ 142 million and $ 133 million as of May 2, 2020 and May 4, 2019, respectively, and are included within Other assets. During the fourth quarter of 2019, we recorded a non-cash charge of $ 7 million related to the write-down of such minority investments.
+
+Long-Term Debt
+
+The fair value of long-term debt is determined by using model-derived valuations in which all significant inputs or significant value drivers are observable in active markets and therefore are classified as Level 2. The carrying value and estimated fair value of long-term debt were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | May 2, 2020 | May 4, 2019 | ​ | ($ in millions) | Carrying value | ​ | $ | 121 | ​ | $ | 123 | Fair value | ​ | $ | 121 | ​ | $ | 136
+[TABLE_END]
+
+​
+
+The carrying values of cash and cash equivalents, and other current receivables and payables approximate their fair value.
+
+​
+
+First Quarter 2020 Form 10-Q Page 12
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+11. Earnings Per Share
+
+We account for earnings per share (“EPS”) using the treasury stock method. Basic EPS is computed by dividing net (loss) income for the period by the weighted-average number of common shares outstanding at the end of the period. Diluted earnings per share reflects the weighted-average number of common shares outstanding during the period used in the basic EPS computation plus dilutive common stock equivalents. The computation of diluted earnings per share does not assume conversion, exercise, or contingent issuance of securities that would have an anti-dilutive effect on EPS.
+
+The computation of basic and diluted EPS is as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | (in millions, except per share data) | Net (loss) income | ​ | $ | ( | 110 | ) | ​ | $ | 172 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted-average common shares outstanding | ​ | 104.3 | ​ | 112.4 | Dilutive effect of potential common shares | ​ | — | ​ | 0.7 | Weighted-average common shares outstanding assuming dilution | ​ | 104.3 | ​ | 113.1 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | (Loss) earnings per share - basic | ​ | $ | ( | 1.06 | ) | ​ | $ | 1.53 | (Loss) earnings per share - diluted | ​ | $ | ( | 1.06 | ) | ​ | $ | 1.52 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Anti-dilutive share-based awards excluded from diluted calculation | ​ | 2.7 | ​ | 1.6
+[TABLE_END]
+
+​
+
+Restricted stock units related to our long-term incentive programs of 0.5 million and 0.8 million have been excluded from diluted weighted-average shares for the periods ended May 2, 2020 and May 4, 2019, respectively. The issuance of these shares are contingent on our performance metrics as compared to the pre-established performance goals, which have not been achieved.
+
+12. Pension
+
+We have a defined benefit pension plan covering certain of our North American employees.
+
+The components of net periodic pension benefit cost are presented in the table below. Service cost is recognized as part of SG&A expense, while the other components are recognized as part of Other income, net.
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | May 2, | ​ | ​ | May 4, | ​ | ​ | ​ | 2020 | ​ | ​ | 2019 | ​ | ​ | ($ in millions) | Service cost | ​ | $ | 4 | ​ | $ | 5 | Interest cost | ​ | ​ | 5 | ​ | ​ | 7 | Expected return on plan assets | ​ | ​ | ( | 9 | ) | ​ | ​ | ( | 9 | ) | Amortization of net loss | ​ | ​ | 3 | ​ | ​ | 3 | Net benefit expense | ​ | $ | 3 | ​ | $ | 6
+[TABLE_END]
+
+​
+
+​
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 13
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+13. Share-Based Compensation
+
+Total compensation expense, included in SG&A, and the associated tax benefits recognized related to our share-based compensation plans, were as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Options and shares purchased under the stock purchase plan | ​ | $ | 2 | ​ | $ | 2 | Restricted stock and restricted stock units | ​ | 1 | ​ | 5 | Total share-based compensation expense | ​ | $ | 3 | ​ | $ | 7 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Tax benefit recognized | ​ | $ | — | ​ | $ | 1
+[TABLE_END]
+
+​
+
+Valuation Model and Assumptions
+
+We use the Black-Scholes option-pricing model to estimate the fair value of share-based awards. The Black-Scholes option-pricing model incorporates various and subjective assumptions, including expected term and expected volatility.
+
+The following table shows assumptions used to compute share-based compensation expense for awards granted during the thirteen weeks ended May 2, 2020 and May 4, 2019:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Stock Option Plans | ​ | ​ | Stock Purchase Plan | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | May 2, | ​ | May 4, | ​ | ​ | 2020 | 2019 | 2020 | 2019 | Weighted-average risk free rate of interest | ​ | 0.6 | % | ​ | 2.2 | % | ​ | 2.2 | % | ​ | 2.3 | % | Expected volatility | ​ | 42 | % | ​ | 38 | % | ​ | 48 | % | ​ | 59 | % | Weighted-average expected award life (in years) | ​ | 5.5 | ​ | 5.5 | ​ | 1.0 | ​ | 1.0 | Dividend yield | ​ | 4.9 | % | ​ | 2.6 | % | ​ | 3.8 | % | ​ | 2.6 | % | Weighted-average fair value | ​ | $ | 5.03 | ​ | $ | 17.19 | ​ | $ | 11.91 | ​ | $ | 15.64 | ​
+[TABLE_END]
+
+​
+
+The information in the following table covers option activity under our stock option plans for the thirteen weeks ended May 2, 2020:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted- | Weighted- | ​ | ​ | Number | ​ | Average | ​ | Average | ​ | ​ | of | ​ | Remaining | ​ | Exercise | ​ | ​ | Shares | ​ | Contractual Life | ​ | Price | ​ | ​ | (in thousands) | (in years) | ​ | (per share) | Options outstanding at the beginning of the year | 2,881 | ​ | ​ | ​ | $ | 54.21 | Granted | 1,069 | ​ | ​ | ​ | 21.61 | Exercised | ( | 4 | ) | ​ | ​ | ​ | 15.10 | Expired or cancelled | ( | 44 | ) | ​ | ​ | ​ | 51.02 | Options outstanding at May 2, 2020 | 3,902 | ​ | 6.7 | ​ | $ | 45.35 | Options exercisable at May 2, 2020 | 2,473 | ​ | 5.0 | ​ | $ | 54.67 | Options available for future grant at May 2, 2020 | ​ | 5,571 | ​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 14
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+The total fair value of options vested during the thirteen weeks ended May 2, 2020 and May 4, 2019 was $ 5 million and $ 6 million, respectively. The cash received and related tax benefits realized from option exercises during the thirteen weeks ended May 2, 2020 was not significant.
+
+The total intrinsic value of options exercised (the difference between the market price of our common stock on the exercise date and the price paid by the optionee to exercise the option) is presented below:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, 2020 | ​ | May 4, 2019 | ​ | ​ | ($ in millions) | Exercised | ​ | $ | — | ​ | $ | 5
+[TABLE_END]
+
+​
+
+The aggregate intrinsic value for stock options outstanding, and outstanding and exercisable (the difference between our closing stock price on the last trading day of the period and the exercise price of the options, multiplied by the number of in-the-money stock options) is presented below:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, 2020 | ​ | May 4, 2019 | ​ | ​ | ($ in millions) | Outstanding | ​ | $ | 3 | ​ | $ | 20 | Outstanding and exercisable | ​ | $ | 1 | ​ | $ | 17
+[TABLE_END]
+
+​
+
+As of May 2, 2020 there was $ 7 million of total unrecognized compensation cost related to nonvested stock options, which is expected to be recognized over a remaining weighted-average period of 1.7 years.
+
+The following table summarizes information about stock options outstanding and exercisable at May 2, 2020:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Options Outstanding | Options Exercisable | ​ | ​ | ​ | ​ | Weighted- | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Average | ​ | Weighted- | ​ | ​ | ​ | Weighted- | ​ | ​ | ​ | ​ | Remaining | ​ | Average | ​ | ​ | ​ | Average | Range of Exercise | ​ | Number | ​ | Contractual | ​ | Exercise | ​ | Number | ​ | Exercise | Prices | Outstanding | Life | Price | Exercisable | Price | ​ | (in thousands, except prices per share and contractual life) | $ | 15.10 | to | $ | 23.09 | 1,181 | ​ | 9.0 | ​ | $ | 21.33 | 117 | ​ | $ | 18.84 | $ | 24.75 | to | $ | 34.75 | 376 | ​ | 2.8 | ​ | 32.13 | 333 | ​ | 31.77 | $ | 44.78 | to | $ | 45.75 | 563 | ​ | 6.0 | ​ | 44.91 | 454 | ​ | 44.94 | $ | 46.64 | to | $ | 62.11 | 910 | ​ | 6.2 | ​ | 59.95 | 697 | ​ | 60.51 | $ | 63.33 | to | $ | 73.21 | ​ | 872 | ​ | 6.2 | ​ | ​ | 68.60 | ​ | 872 | ​ | ​ | 68.60 | ​ | 3,902 | 6.7 | ​ | $ | 45.35 | 2,473 | ​ | $ | 54.67
+[TABLE_END]
+
+​
+
+Restricted Stock Units
+
+Restricted stock units (“RSU”) may be awarded to certain officers and key employees of the Company. Additionally, RSU awards are made to employees in connection with our long-term incentive program, and to nonemployee directors. Each RSU award represents the right to receive one share of our common stock provided that the performance and vesting conditions are satisfied.
+
+Generally, awards fully vest after the passage of time, typically three years. However, RSU awards made in connection with our performance-based long-term incentive program are earned after the attainment of certain performance metrics and, with regards to certain awards, vest after an additional one-year period.
+
+First Quarter 2020 Form 10-Q Page 15
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+No dividends are paid or accumulated on any RSU awards.
+
+Compensation expense is recognized using the market value at the date of grant and is amortized over the vesting period, provided the recipient continues to be employed by the Company.
+
+RSU activity for the thirteen weeks ended May 2, 2020 is summarized as follows:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Weighted-Average | ​ | ​ | ​ | ​ | Number | Remaining | Weighted-Average | ​ | ​ | of | Contractual | Grant Date | ​ | ​ | Shares | Life | Fair Value | ​ | ​ | (in thousands) | ​ | (in years) | ​ | (per share) | Nonvested at beginning of year | ​ | 936 | ​ | ​ | ​ | $ | 49.25 | Granted | ​ | 351 | ​ | ​ | ​ | 21.61 | Vested | ​ | ( | 54 | ) | ​ | ​ | ​ | 68.78 | Performance adjustment | (1) | ​ | ​ | ( | 132 | ) | ​ | ​ | ​ | ​ | ​ | ​ | Forfeited | ​ | ( | 6 | ) | ​ | ​ | ​ | 39.22 | Nonvested at May 2, 2020 | ​ | 1,095 | ​ | 1.6 | ​ | $ | 38.65 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Aggregate value ($ in millions) | ​ | $ | 42 | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+[TABLE_START]
+(1) | This represents adjustments made to performance-based RSU awards and reflect changes in estimates based upon our current performance against predefined financial targets.
+[TABLE_END]
+
+The total value of awards that vested during the thirteen weeks ended May 2, 2020 and May 4, 2019 was $ 4 million and $ 5 million, respectively. As of May 2, 2020, there was $ 19 million of total unrecognized compensation cost related to nonvested awards.
+
+​
+
+14. Income Taxes
+
+For the thirteen weeks ended May 2, 2020, we recorded an income tax provision of $ 5 million, which represented an effective tax rate of negative 4.9 percent on a pretax loss. Included in this quarter’s provision is a $ 27 million tax charge related to the revaluation of certain intellectual property rights pursuant to a non-U.S. advance pricing agreement.
+
+​
+
+We have historically calculated the provision for income taxes during interim reporting periods by applying an estimate of the annual effective tax rate for the full fiscal year income, excluding unusual or infrequently occurring discrete items, for the reporting period. In accordance with the authoritative guidance, we used a discrete effective tax rate method to calculate income taxes for the thirteen weeks ended May 2, 2020 because small changes in the estimated level and mix of annual income or loss by jurisdiction would result in significant changes in the estimated annual effective tax rate making the historical method unreliable.
+
+​
+
+On March 27, 2020, the Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”) was signed into law in the U.S. to provide certain relief as a result of the COVID-19 pandemic. In addition, governments around the world enacted or implemented various forms of tax relief measures in response to the economic conditions in the wake of COVID-19. We are required to recognize the effects of tax law changes in the period of enactment. We have assessed the applicability of the CARES Act and changes to income tax laws or regulations in other jurisdictions and determined there is no significant affect to our income tax provision for the thirteen weeks ended May 2, 2020. We continue to assess the effect of the CARES Act and ongoing government guidance related to COVID-19 that may be issued.
+
+​
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 16
+
+[PAGE BREAK]
+
+​
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+​
+
+15. Legal Proceedings
+
+​
+
+Legal proceedings pending against the Company or its consolidated subsidiaries consist of ordinary, routine litigation, including administrative proceedings, incidental to the business of the Company or businesses that have been sold or discontinued by the Company in past years. These legal proceedings include commercial, intellectual property, customer, environmental, and employment-related claims.
+
+We do not believe that the outcome of any such legal proceedings pending against the Company or its consolidated subsidiaries, as described above, would have a material adverse effect on our consolidated financial position, liquidity, or results of operations, taken as a whole, based upon current knowledge and taking into consideration current accruals. Litigation is inherently unpredictable. Judgments could be rendered or settlements made that could adversely affect the Company’s operating results or cash flows in a particular period.
+
+16. Subsequent Event
+
+Subsequent to the end of first quarter, given the recent social unrest experienced in various cities across the United States, we temporarily closed approximately 130 stores to protect the safety of team members and customers, most of which were already temporarily closed due to COVID-19. Many of these locations may be closed for the foreseeable future given the potentially extensive physical damage. The extent of physical damage, inventory loss, and potential business interruption cannot be determined until we are able to enter the stores safely and assess the damage with our insurance adjusters, such amounts may be significant. The timing and amount of any possible insurance recoveries related to the losses is currently uncertain.
+
+​
+
+First Quarter 2020 Form 10-Q Page 17
+
+[PAGE BREAK]
+
+​
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Business Overview
+
+Foot Locker, Inc. leads the celebration of sneaker and youth culture around the globe through a portfolio of brands including Foot Locker, Lady Foot Locker, Kids Foot Locker, Champs Sports, Eastbay, Footaction, Runners Point, and Sidestep. We operate primarily mall-based stores, as well as stores in high-traffic urban retail areas and high streets, in 27 countries including the United States, Canada, Europe, Australia, New Zealand, and Asia. Our purpose is to inspire and empower youth culture around the world, by fueling a shared passion for self-expression and creating unrivaled experiences at the heart of the global sneaker community.
+
+Foot Locker, Inc. uses its omni-channel capabilities to bridge the digital world and physical stores, including order-in-store, buy online and pickup-in-store, and buy online and ship-from-store, as well as e-commerce. We operate websites and mobile apps aligned with the brand names of our store banners (including footlocker.com, ladyfootlocker.com, kidsfootlocker.com, champssports.com, footaction.com, footlocker.ca, footlocker.eu (and related e-commerce sites in the various European countries that we operate), footlocker.com.au, runnerspoint.com, sidestep-shoes.com, footlocker.hk, footlocker.sg, and footlocker.my). These sites offer some of the largest online product selections and provide a seamless link between e-commerce and physical stores. We also operate the websites for eastbay.com, final-score.com, and eastbayteamsales.com.
+
+Foot Locker, Inc. and its subsidiaries hereafter are referred to as the “Company,” “we,” “our,” or “us.”
+
+Store Count
+
+At May 2, 2020, we operated 3,113 stores as compared with 3,129 and 3,201 stores at February 1, 2020 and May 4, 2019, respectively.
+
+Franchise Operations
+
+A total of 135 franchised stores were operating at May 2, 2020, as compared with 139 and 129 stores at February 1, 2020 and May 4, 2019, respectively. Revenue from franchised stores was not significant for any of the periods presented. These stores are not included in the operating store count above.
+
+COVID-19 Update
+
+In December 2019, a novel strain of coronavirus (COVID-19) was reported to have surfaced in Wuhan, China. In March 2020, the World Health Organization designated COVID-19 a pandemic. COVID-19 is having a significant effect on overall economic conditions in nearly all regions around the world and resulted in travel restrictions and business slowdowns or shutdowns. In March, we closed all our stores in North America, EMEA (Europe, Middle East, and Africa), and most of Asia Pacific. We also transitioned to a work-from-home environment for all our office team members and temporarily closed our distribution centers. Our stores remained closed for a significant portion of the first quarter, with approximately 100 stores reopened as of May 2, 2020.
+
+​
+
+We have set up a special management committee and the committee is taking the necessary precautionary measures to protect the health and safety of our team members, as well as following the guidance provided by local health authorities. We have been highly focused on the changes we are making to operate more safely in light of the COVID-19 pandemic. We implemented newly established health protocols, including providing personal protective equipment to our team members and implementing social distancing working practices. Prior to reopening our stores, we are implementing various protocols including: occupancy limits, installing protective shields at the register, encouraging social distancing, providing markers in our queue lines, implementing new processes for handling merchandise returns, and instituting new cleaning regimens, including enhanced cleaning of high-touch surfaces throughout the day.
+
+​
+
+First Quarter 2020 Form 10-Q Page 18
+
+[PAGE BREAK]
+
+​
+
+As we reopen stores, we are doing so in accordance with local government guidelines. As of June 9, 2020, we have approximately 2,200 stores open with an additional 175 expected to open in the next two weeks. We expect to continue reopening stores and other facilities around the world in a phased approach, as more states and countries reopen for retail and after considering our safety protocols. The expected number of store re-openings may be affected by the recent disruptions caused by social unrest across the United States.
+
+​
+
+We have taken numerous steps to protect the health and well-being of our team members, customers, and communities, while also focusing on further strengthening our financial liquidity and flexibility. On April 21, 2020, we communicated to our United States, Canadian, and Australian employees that we were temporarily furloughing (or its equivalent under applicable local law) the majority of our hourly store and certain of our hourly distribution centers team members. We continued to pay all active employees through the week ended April 26, 2020. Additionally, other measures to preserve our financial position were taken, such as temporarily reducing executive salaries, suspending the cash element of director compensation, temporarily suspending share repurchases and dividends, and by significantly reducing planned capital expenditures.
+
+​
+
+On March 27, 2020, the Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”) was enacted into law and provided opportunities for additional liquidity, emergency assistance for individuals, families and businesses affected by the novel coronavirus pandemic. During the first quarter, we recognized benefits from the CARES Act, including federal retention tax credits of up to $5,000 per employee for the wages and health insurance we continued to provide to team members not providing services, a deferral of employer social security taxes for the remainder of 2020, 50 percent of which is payable by December 2021 and the remainder payable by December 2022. Additionally, various jurisdictions in which we operate implemented similar legislation to encourage the continued employment of team members. We intend to continue to review and consider any available potential benefits under the CARES Act or other governmental support for which we qualify. During the first quarter of 2020, we recognized benefits of $40 million from the various governmental support programs. No U.S. employer social security taxes were deferred during the first quarter.
+
+Additionally, the CARES Act contains several significant income tax provisions, including a temporary five-year carryback of net operating losses and relaxed restrictions on business interest deductions, as well as a permanent technical correction to the depreciation method applicable to “qualified improvement property” placed in service after 2017. We are required to recognize the effect of tax law changes in the period of enactment. We have assessed the applicability of this legislation on our income tax provision and determined there is no significant effect to our first quarter 2020 income tax provision.
+
+The continuation of the coronavirus outbreak may cause prolonged or additional intermittent periods of store closures, modified operating schedules, and may result in changes in customer behaviors, including a potential reduction in consumer discretionary spending in our stores. We are experiencing an increase in operating costs for health and safety protocols for both our team members and customers. Due to the continued effects of the COVID-19 pandemic our results may be further negatively affected and may lead to increased asset recovery and valuation risks, such as long-lived tangible and right-of-use asset impairments and an inability to realize deferred tax assets due to sustaining losses in certain jurisdictions. The uncertainties in the global economy will likely affect the financial viability of some number of our vendors and require other changes to our operations. Given the dynamic nature of these circumstances, the duration of business disruption, and reduced customer traffic, the related financial affect cannot be reasonably estimated at this time but are expected to materially affect our business for the remainder of 2020. Due to these unprecedented conditions, we have withdrawn our financial guidance for 2020.
+
+Reconciliation of Non-GAAP Measures
+
+In addition to reporting our financial results in accordance with generally accepted accounting principles (“GAAP”), we report certain financial results that differ from what is reported under GAAP.
+
+First Quarter 2020 Form 10-Q Page 19
+
+[PAGE BREAK]
+
+​
+
+We have presented certain financial measures identified as non-GAAP, such as sales changes excluding foreign currency fluctuations, adjusted (loss) income before income taxes, adjusted net (loss) income, and adjusted diluted (loss) earnings per share.
+
+We present certain amounts as excluding the effects of foreign currency fluctuations, which are also considered non-GAAP measures. Where amounts are expressed as excluding the effects of foreign currency fluctuations, such changes are determined by translating all amounts in both years using the prior-year average foreign exchange rates. Presenting amounts on a constant currency basis is useful to investors because it enables them to better understand the changes in our business that are not related to currency movements.
+
+These non-GAAP measures are presented because we believe they assist investors in comparing our performance across reporting periods on a consistent basis by excluding items that we do not believe are indicative of our core business or affect comparability. In addition, these non-GAAP measures are useful in assessing our progress in achieving our long-term financial objectives. We estimate the tax effect of all non-GAAP adjustments by applying a marginal tax rate to each of the respective items. The income tax items represent the discrete amount that affected the period.
+
+The non-GAAP financial information is provided in addition to, and not as an alternative to, our reported results prepared in accordance with GAAP. Presented below is a reconciliation of GAAP and non-GAAP results for the thirteen weeks ended May 2, 2020 and May 4, 2019.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Pre-tax income: | ​ | ​ | (Loss) income before income taxes | ​ | $ | (105) | ​ | $ | 234 | Pre-tax amounts excluded from GAAP: | ​ | ​ | ​ | Impairment and other charges | ​ | 16 | ​ | 1 | Adjusted (loss) income before income taxes (non-GAAP) | ​ | $ | (89) | ​ | $ | 235 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | After-tax income: | ​ | ​ | Net (loss) income | ​ | $ | (110) | ​ | $ | 172 | After-tax adjustments excluded from GAAP: | ​ | ​ | ​ | Impairment and other charges, net of income tax benefit of $3 and $- million, respectively | ​ | ​ | 13 | ​ | ​ | 1 | Tax charge related to revaluation of certain intellectual property rights | ​ | 27 | ​ | — | Adjusted net (loss) income (non-GAAP) | ​ | $ | (70) | ​ | $ | 173 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Earnings per share: | ​ | ​ | ​ | Diluted (loss) earnings per share | ​ | $ | (1.06) | ​ | $ | 1.52 | Diluted EPS amounts excluded from GAAP: | ​ | ​ | ​ | ​ | Impairment and other charges | ​ | ​ | 0.13 | ​ | ​ | 0.01 | Tax charge related to revaluation of certain intellectual property rights | ​ | 0.26 | ​ | — | Adjusted diluted (loss) earnings per share (non-GAAP) | ​ | $ | (0.67) | ​ | $ | 1.53
+[TABLE_END]
+
+​
+
+For the thirteen weeks ended May 2, 2020, we recorded impairment charges of $15 million related to certain Runners Point and Sidestep stores that will be closing before lease expiration and other underperforming stores in Europe. In each of the thirteen weeks ended May 2, 2020 and May 4, 2019, we recorded $1 million related to administrative costs associated with the pension plan reformation. Also during the first quarter we recorded a $27 million tax charge related to the revaluation of certain intellectual property rights, pursuant to a non-U.S. advance pricing agreement.
+
+First Quarter 2020 Form 10-Q Page 20
+
+[PAGE BREAK]
+
+​
+
+Segment Reporting
+
+We have determined that we have three operating segments, North America, EMEA, and Asia Pacific. Our North America operating segment includes the results of the following banners operating in the U.S. and Canada: Foot Locker, Kids Foot Locker, Lady Foot Locker, Champs Sports, and Footaction, including each of their related e-commerce businesses, as well as our Eastbay business that includes internet, catalog, and team sales. Our EMEA operating segment includes the results of the following banners operating in Europe: Foot Locker, Runners Point, Sidestep, and Kids Foot Locker, including each of their related e-commerce businesses. Our Asia Pacific operating segment includes the results of Foot Locker and Kids Foot Locker and the related e-commerce businesses, as applicable, operating in Australia, New Zealand, and Asia. We have further aggregated these operating segments into one reportable segment based upon their shared customer base and similar economic characteristics.
+
+Results of Operations
+
+We evaluate performance based on several factors, of which the primary financial measure is the banner’s financial results referred to as division (loss) profit. Division (loss) profit reflects (loss) income before income taxes, impairment and other charges, corporate expenses, non-operating income, and net interest (expense) income. The following table summarizes our results:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | May 2, | May 4, | ​ | ​ | 2020 | ​ | 2019 | ​ | ​ | ($ in millions) | Sales | ​ | $ | 1,176 | ​ | $ | 2,078 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Operating Results | ​ | ​ | ​ | ​ | ​ | Division (loss) profit | ​ | (79) | ​ | ​ | 250 | Less: Impairment and other charges | (1) | ​ | 16 | ​ | ​ | 1 | Less: Corporate expense | (2) | ​ | 10 | ​ | ​ | 21 | (Loss) Income from operations | ​ | (105) | ​ | 228 | Interest (expense) income, net | ​ | (1) | ​ | ​ | 4 | Other income, net | (3) | ​ | 1 | ​ | ​ | 2 | (Loss) income before income taxes | ​ | $ | (105) | ​ | $ | 234
+[TABLE_END]
+
+​
+
+[TABLE_START]
+(1) | During the thirteen weeks ended May 2, 2020, we recorded pre-tax charges of $15 million related to the impairment of certain Runners Point and Sidestep stores that will be closing before lease expiration and other underperforming stores in Europe. We recorded pre-tax charges of $1 million in each of the thirteen weeks ended May 2, 2020 and May 4, 2019 related to administrative costs in connection with the pension plan reformation.
+[TABLE_END]
+
+[TABLE_START]
+(2) | Corporate expense consists of unallocated selling, general and administrative expenses as well as depreciation and amortization related to the Company’s corporate headquarters, centrally managed departments, unallocated insurance and benefit programs, certain foreign exchange transaction gains and losses, and other items.
+[TABLE_END]
+
+[TABLE_START]
+(3) | Other income included non-operating items, franchise royalty income, changes in the market value of our available-for-sale security, our share of earnings or losses related to our equity method investments, and net benefit expense related to our pension and postretirement programs excluding the service cost component.
+[TABLE_END]
+
+Sales
+
+All references to comparable-store sales for a given period relate to sales of stores that were open at the period-end and had been open for more than one year. The computation of consolidated comparable sales also includes our direct-to-customers channel. Stores opened or closed during the period are not included in the comparable-store base; however, stores closed temporarily for relocation or remodeling are included. Computations exclude the effect of foreign currency fluctuations.
+
+First Quarter 2020 Form 10-Q Page 21
+
+[PAGE BREAK]
+
+​
+
+The information shown below represents certain sales metrics by sales channel:
+
+​
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | May 4, | ​ | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Stores | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Sales | ​ | $ | 814 | ​ | $ | 1,758 | ​ | $ Change | ​ | $ | (944) | ​ | ​ | ​ | ​ | % Change | ​ | ​ | (53.7) | % | ​ | ​ | ​ | % of total sales | ​ | ​ | 69.2 | % | ​ | 84.6 | % | Comparable sales (decrease) increase | ​ | ​ | (53.4) | % | ​ | 2.9 | % | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Direct-to-customers | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Sales | ​ | $ | 362 | ​ | $ | 320 | ​ | $ Change | ​ | $ | 42 | ​ | ​ | ​ | ​ | % Change | ​ | ​ | 13.1 | % | ​ | ​ | ​ | % of total sales | ​ | ​ | 30.8 | % | ​ | 15.4 | % | Comparable sales increase | ​ | ​ | 14.3 | % | ​ | 14.8 | %
+[TABLE_END]
+
+​
+
+For the thirteen weeks ended May 2, 2020, sales decreased by $902 million, or 43.4 percent, to $1,176 million, from the prior-year period. Excluding the effect of foreign currency fluctuations, total sales decreased by $891 million, or 42.9 percent, for the thirteen weeks ended May 2, 2020.
+
+Total comparable sales decreased by 42.8 percent for the thirteen weeks ended May 2, 2020. The stores channel had a 53.4 percent decrease for the thirteen weeks ended May 2, 2020 as a result of the temporary closure of our stores across all of our banners around the world beginning in mid-March due to the COVID-19 pandemic. This decrease was partially offset by strong sales in our direct-to-customers channel, which increased by 14.3 percent for the thirteen weeks ended May 2, 2020 as customer demand was still high for our products.
+
+In each of our operating segments, the stores business declined significantly due to the temporary closures. The decline was across all product categories and wearer segments. However, as noted above, our direct-to-customers business increased, driven by sales of classic basketball styles and key launch footwear. We noted a significant increase in our domestic direct-to-customers business, partially as a result of  the federal stimulus payments received by our customers. Our previous investments in digital and supply chain capabilities allowed us to leverage this part of our business to continue to serve our customers achieving peak daily volume levels.
+
+Gross Margin
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | ​ | May 2, | ​ | May 4, | ​ | ​ | 2020 | 2019 | Gross margin rate | 23.0 | % | 33.2 | % | Basis point decrease in the gross margin rate | (1,020) | ​ | Components of the change- | ​ | ​ | Merchandise margin rate decline | (170) | ​ | Higher occupancy and buyers’ compensation expense rate | (850) | ​
+[TABLE_END]
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 22
+
+[PAGE BREAK]
+
+​
+
+Gross margin is calculated as sales minus cost of sales. Cost of sales includes: the cost of merchandise, freight, distribution costs including related depreciation expense, shipping and handling, occupancy and buyers’ compensation. Occupancy costs include rent (including fixed common area maintenance charges and other fixed non-lease components), real estate taxes, general maintenance, and utilities.
+
+The gross margin rate decreased to 23.0 percent for the thirteen weeks ended May 2, 2020 as compared with 33.2 percent in the corresponding prior-year period. The merchandise margin rate declined due to a higher proportion of direct-to-customer sales, which has a lower merchandise margin. The occupancy and buyers’ compensation expense rate significantly deleveraged. Although we withheld rent payments once our stores closed mid-March due to the COVID-19 pandemic, this was not reflected in the rent expense for the quarter. As negotiations with our landlords are completed, we will recognize the reduction of expense at that time.
+
+Selling, General and Administrative Expenses (SG&A)
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | SG&A | ​ | $ | 316 | ​ | $ | 416 | $ Change | ​ | $ | (100) | ​ | $ | ​ | % Change | ​ | (24.0) | % | ​ | SG&A as a percentage of sales | ​ | 26.9 | % | 20.0
+[TABLE_END]
+
+​
+
+SG&A decreased by $100 million to $316 million for the thirteen weeks ended May 2, 2020, as compared with the corresponding prior-year period. Excluding the effect of foreign currency fluctuations, SG&A decreased by $96 million for the thirteen weeks ended May 2, 2020, as compared with the corresponding prior-year period. As a percentage of sales, SG&A increased to 26.9 percent for the thirteen weeks ended May 2, 2020. The SG&A rate reflected significantly lower sales as a result of temporary store closures in connection with the COVID-19 pandemic. We carefully managed expenses by reducing spending in all areas of the business, including marketing, travel, and incentive compensation expenses, among other categories. We continued to pay our employees throughout most of the quarter, despite the temporary store closures. Store wage costs were partially offset by CARES Act retention credits and similar credits from other jurisdictions, which totaled $40 million.
+
+Corporate expense (a component of SG&A) decreased during the quarter primarily reflecting lower incentive compensation expenses as compared with the corresponding prior-year period.
+
+Depreciation and Amortization
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Depreciation and amortization | ​ | $ | 44 | ​ | $ | 44 | $ Change | ​ | $ | — | ​ | $ | ​ | % Change | ​ | — | % | ​
+[TABLE_END]
+
+​
+
+Depreciation and amortization expense was unchanged for the thirteen weeks ended May 2, 2020 as compared with the corresponding prior-year period. Excluding the effect of foreign currency fluctuations, depreciation and amortization increased $1 million for the thirteen weeks ended May 2, 2020, as compared with the corresponding prior-year period.
+
+First Quarter 2020 Form 10-Q Page 23
+
+[PAGE BREAK]
+
+​
+
+Impairment and Other Charges
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | ​ | 2020 | ​ | 2019 | ​ | ​ | ($ in millions) | Impairment and other charges | ​ | $ | 16 | ​ | $ | 1 | $ Change | ​ | $ | 15 | ​ | ​ | ​ | % Change | ​ | 1,500.0 | % | ​
+[TABLE_END]
+
+​
+
+Due to the COVID-19 pandemic and its effect on our actual and projected results, we determined that a triggering event had occurred for certain underperforming stores and, therefore, we conducted an impairment review during the first quarter of 2020. Additionally, in May 2020, we made the strategic decision to close our Runners Point business. As part of the decision to close the banner, certain Runners Point stores will convert to other banners and approximately 40 Runners Point and Sidestep stores will close prior to their natural lease expiration. We evaluated the long-lived assets, including the right-of-use assets, of 70 stores, which included the Runners Point and Sidestep stores identified for closure, and recorded non-cash charges of $15 million to write down store fixtures, leasehold improvements, and right-of-use assets.
+
+Also included in both periods are charges of $1 million related to administrative costs incurred in connection with the pension plan reformation.
+
+Division (Loss) Profit
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | May 4, | ​ | ​ | 2020 | ​ | 2019 | ​ | ​ | ​ | ($ in millions) | Division (loss) profit | ​ | $ | (79) | ​ | $ | 250 | ​ | Division (loss) profit margin | ​ | (6.7) | % | 12.0 | %
+[TABLE_END]
+
+​
+
+We recognized a division loss of $79 million for the thirteen weeks ended May 2, 2020, as compared with division profit of $250 million in the corresponding prior-year period. Lower sales due to the temporary store closures caused by the COVID-19 pandemic, along with reduced margin rates and higher SG&A, as a percentage of sales, decreased the results for the quarter as compared with the corresponding prior-year period. Management is continuing to monitor the results of each of the banners as the recovery from the COVID-19 pandemic continues. Due to the uncertainty surrounding the pandemic and assumptions around the continuing effects of the COVID-19 pandemic, we may be required to perform an impairment analysis over certain store long-lived tangible and right-of-use assets in future quarters.
+
+Interest (Expense) Income, Net
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Interest expense | ​ | $ | (3) | ​ | $ | (2) | Interest income | ​ | 2 | ​ | 6 | Interest (expense) income, net | ​ | $ | (1) | ​ | $ | 4
+[TABLE_END]
+
+​
+
+We recorded $1 million of net interest expense for the thirteen weeks ended May 2, 2020, as compared with net interest income of $4 million for the corresponding prior-year period. Interest expense increased due to the drawdown of the revolving credit facility in March 2020. Additionally, interest income decreased primarily as a result of lower average interest rates on our cash and cash equivalents.
+
+First Quarter 2020 Form 10-Q Page 24
+
+[PAGE BREAK]
+
+​
+
+Other Income, Net
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | ​ | 2020 | ​ | 2019 | ​ | ​ | ($ in millions) | Other income, net | ​ | $ | 1 | ​ | $ | 2 | $ Change | ​ | $ | (1) | ​ | ​ | ​ | % Change | ​ | (50.0) | % | ​
+[TABLE_END]
+
+​
+
+Other income includes non-operating items, including franchise royalty income, changes in the market value of our available-for-sale security, our share of earnings or losses related to our equity method investments, and net benefit expense related to our pension and postretirement programs excluding the service cost component.
+
+Income Taxes
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | May 2, | May 4, | ​ | ​ | 2020 | ​ | 2019 | ​ | ​ | ($ in millions) | Provision for income taxes | ​ | $ | 5 | ​ | $ | 62 | ​ | Effective tax rate | ​ | (4.9) | % | 26.4 | %
+[TABLE_END]
+
+​
+
+We regularly assess the adequacy of our provisions for income tax contingencies in accordance with applicable authoritative guidance on accounting for income taxes. As a result, we may adjust the reserves for unrecognized tax benefits considering new facts and developments, such as changes to interpretations of relevant tax law, assessments from taxing authorities, settlements with taxing authorities, and lapses of statutes of limitation. The changes in the tax reserves were not significant for any of the periods presented.
+
+During the thirteen weeks ended May 2, 2020, we recorded a $27 million tax charge related to the revaluation of certain intellectual property rights pursuant to a non-U.S. advance pricing agreement. In addition, we recognized a $2 million tax benefit for the reversal of a withholding tax accrual that is no longer required.
+
+​
+
+Excluding the charge related to the revaluation and the benefit from the withholding tax reversal, the effective tax rate for the thirteen weeks ended May 2, 2020 would have been approximately 20 percent, a decrease as compared with the corresponding prior-year period, primarily due to the mix of loss in the various jurisdictions in which we operate.
+
+​
+
+During the thirteen weeks ended May 4, 2019, the Company recognized a tax benefit of $3 million due to an adjustment to a foreign tax credit valuation allowance.
+
+We have historically calculated the provision for income taxes during interim reporting periods by applying an estimate of the annual effective tax rate for the full fiscal year to income, excluding unusual or infrequently occurring discrete items, for the reporting period. In accordance with the authoritative guidance, we used a discrete effective tax rate method to calculate taxes for the thirteen weeks ended May 2, 2020 because small changes in the estimated level and mix of annual income or loss by jurisdiction would result in significant changes in the estimated annual effective tax rate making the historical method unreliable. Due to this volatility, we cannot forecast the expected full-year tax rate at this time. The actual tax rate could vary significantly depending on the level and mix of income or loss in the various jurisdictions in which we operate.
+
+First Quarter 2020 Form 10-Q Page 25
+
+[PAGE BREAK]
+
+​
+
+Net Income
+
+For the thirteen weeks ended May 2, 2020, we reported a net loss of $110 million as compared to net income of $172 million in the corresponding prior-year period. Diluted loss per share was $1.06 as compared to diluted earnings per share of $1.52 for the thirteen weeks ended May 4, 2019.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+Our primary source of liquidity continues to be cash flow from operations, while the principal uses of cash are to fund inventory and other working capital requirements; finance capital expenditures related to store openings, store remodelings, internet and mobile sites, information systems, and other support facilities; make retirement plan contributions, quarterly dividend payments, and interest payments; and fund other cash requirements to support the development of our short-term and long-term operating strategies. We also from time to time may make investments in other companies that we believe support our vision of serving youth culture. We generally finance real estate with operating leases. We believe our cash, cash equivalents, and future cash flow from operations will be adequate to fund these requirements.
+
+The Company may also from time to time repurchase its common stock or seek to retire or purchase outstanding debt through open market purchases, privately negotiated transactions, or otherwise. Share repurchases and retirement of debt, if any, will depend on prevailing market conditions, liquidity requirements, contractual restrictions, strategic considerations, and other factors. The amounts involved may be material.
+
+Due to the COVID-19 pandemic, and in an effort to conserve cash, we temporarily suspended our share repurchase program. As of May 2, 2020, $867 million remained available under the current 3-year share repurchase program. Also, after thoughtful consideration by our Board of Directors, we suspended our second quarter dividend distribution to preserve our balance sheet strength and flexibility. While returning capital to our shareholders continues to be one of our capital allocation priorities, given the current environment, we believe this is the prudent and responsible action to take at this time and one that will ultimately enable us to create more shareholder value over the long term. Our Board of Directors will continue to evaluate potential for future dividend distributions on a quarterly basis.
+
+Any material adverse change in customer demand, fashion trends, competitive market forces, or customer acceptance of our merchandise mix, retail locations and websites, uncertainties related to the effect of competitive products and pricing, our reliance on a few key vendors for a significant portion of our merchandise purchases and risks associated with global product sourcing, economic conditions worldwide, the effects of currency fluctuations, uncertainties caused by the COVID-19 pandemic, as well as other factors listed under the heading “Disclosure Regarding Forward-Looking Statements,” could affect our ability to continue to fund our needs from business operations.
+
+Operating Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Net cash (used in) provided by operating activities | ​ | $ | (116) | ​ | $ | 318 | $ Change | ​ | $ | (434) | ​ | $ | ​
+[TABLE_END]
+
+​
+
+Operating activities reflects net (loss) income adjusted for non-cash items and working capital changes. Adjustments to net (loss) income for non-cash items include impairment charges, depreciation and amortization, deferred income taxes, and share-based compensation expense.
+
+First Quarter 2020 Form 10-Q Page 26
+
+[PAGE BREAK]
+
+​
+
+The decrease in cash provided by operating activities, compared with the same period last year, reflected a decrease in net income and higher inventories, which were partially offset by higher accounts payable. Also, during the thirteen weeks ended May 4, 2019, we contributed $55 million to our U.S. qualified pension plan primarily representing the funds available in the qualified settlement fund established in connection with the pension matter.
+
+As of May 2, 2020, we have withheld approximately $90 million of lease payments as we continue to negotiate rent deferrals or abatements with our landlords for the period that our stores were closed due to the COVID-19 pandemic. Also, we extended payment terms with our suppliers and vendors in order to preserve liquidity.
+
+Investing Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Net cash (used in) investing activities | ​ | $ | (58) | ​ | $ | (90) | $ Change | ​ | $ | 32 | ​ | $ | ​
+[TABLE_END]
+
+​
+
+For the thirteen weeks ended May 2, 2020, capital expenditures increased by $7 million to $52 million, as compared with the corresponding prior-year period. Our full-year capital spending is expected to be $143 million, which is $128 million lower than the target that was established at the beginning of the year and reflects changes in the timing of certain projects due to the COVID-19 pandemic. However, this is $5 million higher than the amount recently announced, a result of strategic decisions made to convert certain Runners Point stores to our other banners as well as to open and remodel additional stores in Australia. The revised forecast includes $83 million related to the remodeling or relocation of approximately 55 existing stores and the opening of approximately 60 new stores, as well as $60 million for the development of information systems, websites, and infrastructure, including supply chain initiatives. Cash used in investing activities is also lower this period as the thirteen weeks ended May 2, 2020 included $6 million in minority investments as compared with $45 million in the corresponding prior-year period.
+
+Financing Activities
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Thirteen weeks ended | ​ | ​ | May 2, | ​ | May 4, | ​ | 2020 | 2019 | ​ | ​ | ($ in millions) | Net cash provided by (used in) financing activities | ​ | $ | 288 | ​ | $ | (43) | $ Change | ​ | $ | 331 | ​ | $ | ​
+[TABLE_END]
+
+​
+
+During the thirteen weeks ended weeks ended May 2, 2020, we did not repurchase shares of our common stock, as compared with 32,100 shares repurchased for $2 million in the corresponding prior-year period. We also declared and paid dividends of $42 million and $43 million during the first quarter of 2020 and 2019, respectively. This represented quarterly rates of $0.40 and $0.38 per share for 2020 and 2019, respectively. The first quarter dividend was declared prior to the COVID-19 pandemic. In the first quarter of 2020, in order to increase our cash position and help preserve our financial flexibility we have drawn $330 million of our credit facility.
+
+Restructuring
+
+In May 2020, we announced that after a comprehensive assessment of our operations and the competitive landscape in Germany, we decided to consolidate the Runners Point business into our other operations in Europe.
+
+First Quarter 2020 Form 10-Q Page 27
+
+[PAGE BREAK]
+
+​
+
+As part of this plan, select Runners Point stores will be converted to either Sidestep or Foot Locker stores, with approximately 40 remaining Runners Point stores and certain Sidestep stores expected to close prior to lease expiration.
+
+In addition, we plan to restructure and consolidate the Runners Point and Sidestep support and logistics functions into Foot Locker Europe's headquarters in the Netherlands, in compliance with local legislation. We expect this transition to occur largely over the remainder of fiscal 2020 and to wind down the Runners Point business by yearend. We look forward to continuing to serve our Runners Point customers through our Sidestep and Foot Locker stores, as well as through our online channels. Also, as part of the next phase of the Champs Sports and Eastbay strategic initiative, we are restructuring positions and aligning several functions across the brands and plan to consolidate select Eastbay operations from Wausau, Wisconsin into the Champs Sports headquarters in Bradenton, Florida. These actions will not significantly affect our financial position or cash flows.
+
+Critical Accounting Policies and Estimates
+
+Other than the adoption of ASU 2017-04 , Simplifying the test for Goodwill Impairment , on February 2, 2020 as discussed in Note 1, Summary of Significant Accounting Policies , and Note 6, Goodwill , to the Condensed Consolidated Financial Statements, there have been no significant changes to our critical accounting policies and estimates from the information provided in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” included in the Annual Report on Form 10-K for the fiscal year ended February 1, 2020.
+
+Recent Accounting Pronouncements
+
+Descriptions of the recently issued and adopted accounting principles are included in Item 1. “Financial Statements” in Note 1, Summary of Significant Accounting Policies , to the Condensed Consolidated Financial Statements.
+
+Item 4. Controls and Procedures
+
+During the quarter, the Company’s management performed an evaluation, under the supervision and with the participation of the Company’s Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), of the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)). Based on that evaluation, the Company’s CEO and CFO concluded that the Company’s disclosure controls and procedures were effective to ensure that information relating to the Company that is required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC rules and forms, and is accumulated and communicated to management, including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure.
+
+We are currently migrating our e-commerce order management system beginning with our North American websites throughout 2020 with two of our smaller volume e-commerce sites live on the new system as of May 2, 2020. In connection with this implementation and resulting business process changes, we may make changes to the design and operation of our internal control over financial reporting. Also, during the first quarter of 2020 we substantially completed the rollout of our new point-of-sale software.
+
+During the quarter ended May 2, 2020, there were no changes in the Company’s internal control over financial reporting, other than the implementation of new e-commerce order management system, (as defined in Rules 13a-15(f) of the Exchange Act) that materially affected or are reasonably likely to affect the Company’s internal control over financial reporting.
+
+​
+
+First Quarter 2020 Form 10-Q Page 28
+
+[PAGE BREAK]
+
+​
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+Information regarding the Company’s legal proceedings is contained in the Legal Proceedings note under Item 1. “Financial Statements” in Part I.
+
+Item 1A. Risk Factors
+
+In addition to the other information discussed in this report, the factors described in Part I, Item 1A. “Risk Factors” in our 2019 Annual Report on Form 10-K filed with the SEC on March 27, 2020 should be considered as they could materially affect our business, financial condition, or future results.
+
+There have not been any significant changes with respect to the risks described in our 2019 Form 10-K, other than the item noted below.
+
+Riots, vandalism, and other crimes and acts of violence may affect the markets in which we operate, our customers, delivery of our products and customer service, and could have a material adverse effect on our business, results of operations, or financial condition.
+
+Our business may be adversely affected by instability, disruption, or destruction, regardless of cause, including riots, civil insurrection or social unrest, and manmade disasters or crimes. Such events may result in property damage and loss and may also cause customers to suspend their decisions to shop in our stores, interrupt our supply chain, and cause restrictions, postponements, and cancellations of events that attract large crowds and public gatherings, such as store marketing events.
+
+Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may adversely affect our business, financial condition or operating results.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+The following table provides information with respect to shares of the Company’s common stock for the thirteen weeks ended May 2, 2020:
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | Total Number of | ​ | Dollar Value of | ​ | ​ | Total | ​ | Average | ​ | Shares Purchased as | ​ | Shares that may | ​ | ​ | Number | ​ | Price | ​ | Part of Publicly | ​ | yet be Purchased | ​ | ​ | of Shares | ​ | Paid Per | ​ | Announced | ​ | Under the | Date Purchased | Purchased | (1) | Share | (1) | Program | (2) | Program | (2) | February 2 to February 29, 2020 | — | ​ | $ | — | — | ​ | $ | 867,215,222 | March 1 to April 4, 2020 | 22,879 | ​ | 19.38 | — | ​ | 867,215,222 | April 5 to May 2, 2020 | — | ​ | — | — | ​ | 867,215,222 | ​ | 22,879 | ​ | $ | 19.38 | — | ​
+[TABLE_END]
+
+​
+
+[TABLE_START]
+(1) | These columns reflect shares acquired in satisfaction of the tax withholding obligations of holders of restricted stock unit awards, which vested during the quarter. The calculation of the average price paid per share includes all fees, commissions, and other costs associated with the repurchase of such shares.
+[TABLE_END]
+
+[TABLE_START]
+(2) | The current $1.2 billion share repurchase program extends through January 2022.
+[TABLE_END]
+
+​
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 29
+
+[PAGE BREAK]
+
+​
+
+Item 6. Exhibits
+
+[TABLE_START]
+​ | ​ | ​ | Exhibit No. | Description | 15* | ​ | Accountants’ Acknowledgement. | 31.1* | ​ | Certification of Chief Executive Officer Pursuant to Rule 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | 31.2* | ​ | Certification of Chief Financial Officer Pursuant to Rule 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | 32** | ​ | Certification of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. | 99* | ​ | Report of Independent Registered Public Accounting Firm. | 101.INS* | ​ | Inline XBRL Instance Document. | 101.SCH* | ​ | Inline XBRL Taxonomy Extension Schema. | 101.CAL* | ​ | Inline XBRL Taxonomy Extension Calculation Linkbase. | 101.DEF* | ​ | Inline XBRL Taxonomy Extension Definition Linkbase. | 101.LAB* | ​ | Inline XBRL Taxonomy Extension Label Linkbase. | 101.PRE* | ​ | Inline XBRL Taxonomy Extension Presentation Linkbase. | 104* | ​ | The cover page from the Company’s Quarterly Report on Form 10-Q for the quarter ended May 2, 2020, formatted, in Inline XBRL (included in Exhibit 101)
+[TABLE_END]
+
+​
+
+*    Filed herewith.
+
+**   Furnished herewith.
+
+[TABLE_START]
+​ | ​ | ​ | ​ | ​ | ​
+[TABLE_END]
+
+​
+
+​
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 30
+
+[PAGE BREAK]
+
+​
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+[TABLE_START]
+​ | ​ | Date: June 10, 2020 | FOOT LOCKER, INC. | ​ | ​ | ​ | ​ | ​ | /s/ Lauren B. Peters | ​ | LAUREN B. PETERS | ​ | Executive Vice President and Chief Financial Officer
+[TABLE_END]
+
+​
+
+​
+
+​
+
+​
+
+First Quarter 2020 Form 10-Q Page 31
+
+[PAGE BREAK]
