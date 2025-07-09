@@ -125,187 +125,302 @@ def clean_sec_text(text: str) -> str:
 # 4. MULTI-STRATEGY SECTION DETECTION
 # =============================================================================
 
+# def detect_sections_strategy_1_improved(content: str) -> List[DocumentSection]:
+#     """
+#     Improved Strategy 1: Patterns based on real SEC filing structure
+#     """
+#     sections = []
+
+#     # Much more comprehensive patterns based on your actual files
+#     patterns = [
+#         # PART patterns - handle various formats
+#         re.compile(r'^\s*PART\s+([IVX]+)(?:\s*[-–—].*?)?$', re.I | re.M),
+#         re.compile(r'^PART\s+([IVX]+)(?:\s*[-–—].*?)?$', re.I | re.M),
+
+#         # ITEM patterns - much more flexible
+#         re.compile(r'^\s*ITEM\s+(\d{1,2}[A-C]?)(?:[.\s–—])', re.I | re.M),
+#         re.compile(r'^ITEM\s+(\d{1,2}[A-C]?)(?:[.\s–—])', re.I | re.M),
+#         re.compile(r'Item\s+(\d{1,2}[A-C]?)(?:[.\s–—])', re.I | re.M),
+
+#         # Number-dot format common in SEC filings
+#         re.compile(r'^(\d{1,2}[A-C]?)\.\s+[A-Z][A-Za-z\s]{10,}', re.I | re.M),
+
+#         # Content-based patterns for known sections
+#         re.compile(r'^.{0,50}(BUSINESS)\s*$', re.I | re.M),
+#         re.compile(r'^.{0,50}(RISK FACTORS)\s*$', re.I | re.M),
+#         re.compile(r'^.{0,50}(LEGAL PROCEEDINGS)\s*$', re.I | re.M),
+#         re.compile(r'^.{0,50}(FINANCIAL STATEMENTS)\s*$', re.I | re.M),
+#         re.compile(r'^.{0,50}(MANAGEMENT.S DISCUSSION)\s*', re.I | re.M),
+#         re.compile(r'^.{0,50}(PROPERTIES)\s*$', re.I | re.M),
+#         re.compile(r'^.{0,50}(CONTROLS AND PROCEDURES)\s*$', re.I | re.M),
+#     ]
+
+#     all_matches = []
+
+#     # Process each pattern
+#     for pattern_idx, pattern in enumerate(patterns):
+#         for match in pattern.finditer(content): # Use pre-compiled pattern
+#             # Get the full line containing this match
+#             line_start = content.rfind('\n', 0, match.start()) + 1
+#             line_end = content.find('\n', match.end())
+#             if line_end == -1:
+#                 line_end = len(content)
+
+#             full_line = content[line_start:line_end].strip()
+
+#             # Filter out obvious false positives (e.g., content that looks like a header but isn't)
+#             if (len(full_line) > 400 or  # Too long to be a header
+#                 len(full_line) < 3 or    # Too short (e.g., just "1.")
+#                 ('TABLE' in full_line.upper() and ('START' in full_line.upper() or 'END' in full_line.upper())) or # Exclude table markers if not part of a valid section header
+#                 full_line.count(' ') > 20):  # Too many words, likely not a header
+#                 continue
+
+#             # Heuristic to filter out TOC entries that might match general patterns
+#             if any(toc_indicator in full_line.lower() for toc_indicator in ['table of contents', 'index']):
+#                 continue
+            
+#             section_id = None
+#             section_title = full_line # Default to full line if specific extraction fails
+
+#             groups = match.groups()
+#             if groups:
+#                 potential_id = groups[0].strip()
+#                 # Determine if the first captured group is a valid Item/Part ID
+#                 is_item_id = re.match(r'^\d+[A-C]?$', potential_id, re.I)
+#                 is_part_id = re.match(r'^[IVX]+$', potential_id, re.I)
+
+#                 if is_item_id or is_part_id:
+#                     section_id = potential_id
+#                     if len(groups) > 1 and groups[1]: # If a title group was also captured
+#                         section_title = groups[1].strip()
+#                         # Clean up title: remove trailing table markers like "[TABLE_END]" if they were captured
+#                         section_title = re.sub(r'\[TABLE_END\]\s*.*', '', section_title, flags=re.I).strip()
+#                         section_title = section_title.replace('|', '').strip() # Remove pipe characters
+#                     else: # No explicit title captured by a group
+#                         # Try to extract a clean title from the remainder of the line after the ID
+#                         remaining_line_after_id = full_line[match.end() - line_start:].strip()
+#                         clean_line = re.sub(r'^\s*\.?\s*[-–—]?\s*', '', remaining_line_after_id).strip()
+#                         if clean_line and len(clean_line) < 200: # Ensure extracted title isn't too long
+#                             section_title = clean_line
+#                         else:
+#                              section_title = full_line # Fallback to full line if cleaning is problematic
+#                 else: # First captured group was not a standard Item/Part ID, treat as part of title
+#                     section_title = full_line
+#                     # For generic named sections (e.g., "BUSINESS"), assign a canonical ID if not part of an Item/Part already
+#                     if 'BUSINESS' in full_line.upper() and not is_item_id and not is_part_id: section_id = '1'
+#                     elif 'RISK FACTORS' in full_line.upper() and not is_item_id and not is_part_id: section_id = '1A'
+#                     # Add other named section mappings if needed.
+
+#             # Store the original start/end of the line for correct content extraction
+#             all_matches.append({
+#                 'start_pos': line_start,
+#                 'end_pos': line_end,
+#                 'full_line': full_line,
+#                 'section_id': section_id if section_id else 'unknown',
+#                 'section_title': section_title,
+#                 'pattern_idx': pattern_idx,
+#                 'match_start': match.start()
+#             })
+
+#     # Sort matches primarily by start_pos, secondarily by pattern_idx (to prefer more specific patterns early in the list)
+#     all_matches.sort(key=lambda x: (x['start_pos'], x['pattern_idx']))
+
+#     # Filter duplicate/overlapping matches. Prioritize more specific patterns (lower pattern_idx).
+#     final_matches = []
+#     if all_matches:
+#         final_matches.append(all_matches[0])
+#         for i in range(1, len(all_matches)):
+#             current_match = all_matches[i]
+#             last_added_match = final_matches[-1]
+
+#             # If current match starts very close to the last added match,
+#             # consider if it's a duplicate or a better alternative.
+#             if current_match['start_pos'] - last_added_match['start_pos'] < 100: # Within 100 chars
+#                 # Prefer matches with a specific Item/Part ID over 'unknown' or less specific types
+#                 if current_match['section_id'] != 'unknown' and last_added_match['section_id'] == 'unknown':
+#                     final_matches[-1] = current_match
+#                 # If both are specific, prefer the one matched by a higher-priority pattern (lower index means earlier in list)
+#                 elif current_match['section_id'] != 'unknown' and last_added_match['section_id'] != 'unknown' and current_match['pattern_idx'] < last_added_match['pattern_idx']:
+#                     final_matches[-1] = current_match
+#                 # If they have the same ID but the new match offers a cleaner/more robust title
+#                 elif current_match['section_id'] == last_added_match['section_id'] and len(current_match['section_title']) < len(last_added_match['section_title']) * 0.8: # Heuristic for "cleaner"
+#                      final_matches[-1] = current_match
+#                 # Otherwise, if it's too close and not a better candidate, skip as duplicate
+#             else:
+#                 final_matches.append(current_match) # Add if sufficiently far apart
+
+#     logger.info(f"🔍 Universal SEC detection found {len(final_matches)} unique sections:")
+#     for i, match in enumerate(final_matches[:15]):
+#         logger.info(f"  {i+1}: Item/Part {match['section_id']} - {match['section_title'][:60]}...")
+
+#     # Convert to DocumentSection objects
+#     final_document_sections = []
+#     current_part = None # Track current part for 10Q item context
+
+#     for i, match in enumerate(final_matches):
+#         start_pos = match['start_pos']
+#         end_pos = final_matches[i + 1]['start_pos'] if i + 1 < len(final_matches) else len(content)
+
+#         section_content = content[start_pos:end_pos].strip()
+
+#         section_id = match['section_id'].upper()
+#         title = match['section_title']
+
+#         section_type = 'content' # Default type
+#         item_number = None
+#         part = None
+
+#         if re.match(r'^[IVX]+$', section_id):
+#             section_type = 'part'
+#             part = f"PART {section_id}"
+#             current_part = part # Update current part for subsequent items
+#             # Refine title: remove "PART X" if it's already in the title to avoid redundancy.
+#             clean_title_part = title.upper().replace(part, '').strip(' -.')
+#             if clean_title_part:
+#                 title = f"{part} - {clean_title_part}"
+#             else:
+#                 title = part # Fallback to just "PART X"
+#         elif re.match(r'^\d+[A-C]?$', section_id):
+#             section_type = 'item'
+#             item_number = section_id
+#             part = current_part # Assign current part context to this item (inherited)
+#             # Refine title: remove "Item X" if it's already in the title
+#             clean_title_item = title.upper().replace(f"ITEM {item_number}", '').strip(' -.')
+#             if clean_title_item:
+#                 title = f"Item {item_number} - {clean_title_item}"
+#             else:
+#                 title = f"Item {item_number}" # Fallback to just "Item X"
+#         # For named_section (e.g., "BUSINESS" when it's not explicitly an Item number)
+#         elif any(keyword in title.upper() for keyword in ['BUSINESS', 'RISK FACTORS', 'LEGAL PROCEEDINGS', 'FINANCIAL STATEMENTS', 'MANAGEMENT\'S DISCUSSION', 'PROPERTIES', 'CONTROLS AND PROCEDURES']):
+#             section_type = 'named_section'
+
+
+#         final_document_sections.append(DocumentSection(
+#             title=title,
+#             content=section_content,
+#             section_type=section_type,
+#             item_number=item_number,
+#             part=part, # Store the part info (either detected directly or inherited)
+#             start_pos=start_pos,
+#             end_pos=end_pos
+#         ))
+
+#     return final_document_sections
+
 def detect_sections_strategy_1_improved(content: str) -> List[DocumentSection]:
     """
     Improved Strategy 1: Patterns based on real SEC filing structure
     """
-    sections = []
+    sections: List[DocumentSection] = []
 
-    # Much more comprehensive patterns based on your actual files
     patterns = [
-        # PART patterns - handle various formats
+        # PART patterns
         re.compile(r'^\s*PART\s+([IVX]+)(?:\s*[-–—].*?)?$', re.I | re.M),
         re.compile(r'^PART\s+([IVX]+)(?:\s*[-–—].*?)?$', re.I | re.M),
 
-        # ITEM patterns - much more flexible
-        re.compile(r'^\s*ITEM\s+(\d{1,2}[A-C]?)(?:[.\s–—])', re.I | re.M),
-        re.compile(r'^ITEM\s+(\d{1,2}[A-C]?)(?:[.\s–—])', re.I | re.M),
-        re.compile(r'Item\s+(\d{1,2}[A-C]?)(?:[.\s–—])', re.I | re.M),
+        # ITEM patterns (hyphens escaped at end of class)
+        re.compile(r'^\s*ITEM\s+(\d{1,2}[A-C]?)(?:[.\s–—-])', re.I | re.M),
+        re.compile(r'^ITEM\s+(\d{1,2}[A-C]?)(?:[.\s–—-])', re.I | re.M),
+        re.compile(r'Item\s+(\d{1,2}[A-C]?)(?:[.\s–—-])', re.I | re.M),
 
-        # Number-dot format common in SEC filings
+        # Number-dot format
         re.compile(r'^(\d{1,2}[A-C]?)\.\s+[A-Z][A-Za-z\s]{10,}', re.I | re.M),
 
-        # Content-based patterns for known sections
-        re.compile(r'^.{0,50}(BUSINESS)\s*$', re.I | re.M),
-        re.compile(r'^.{0,50}(RISK FACTORS)\s*$', re.I | re.M),
-        re.compile(r'^.{0,50}(LEGAL PROCEEDINGS)\s*$', re.I | re.M),
-        re.compile(r'^.{0,50}(FINANCIAL STATEMENTS)\s*$', re.I | re.M),
-        re.compile(r'^.{0,50}(MANAGEMENT.S DISCUSSION)\s*', re.I | re.M),
-        re.compile(r'^.{0,50}(PROPERTIES)\s*$', re.I | re.M),
-        re.compile(r'^.{0,50}(CONTROLS AND PROCEDURES)\s*$', re.I | re.M),
+        # Named sections
+        re.compile(r'^.{0,50}\b(BUSINESS)\b\s*$', re.I | re.M),
+        re.compile(r'^.{0,50}\b(RISK FACTORS)\b\s*$', re.I | re.M),
+        re.compile(r'^.{0,50}\b(LEGAL PROCEEDINGS)\b\s*$', re.I | re.M),
+        re.compile(r'^.{0,50}\b(FINANCIAL STATEMENTS)\b\s*$', re.I | re.M),
+        re.compile(r'^.{0,50}\b(MANAGEMENT\.S DISCUSSION)\b', re.I | re.M),
+        re.compile(r'^.{0,50}\b(PROPERTIES)\b\s*$', re.I | re.M),
+        re.compile(r'^.{0,50}\b(CONTROLS AND PROCEDURES)\b\s*$', re.I | re.M),
     ]
 
     all_matches = []
 
-    # Process each pattern
-    for pattern_idx, pattern in enumerate(patterns):
-        for match in pattern.finditer(content): # Use pre-compiled pattern
-            # Get the full line containing this match
-            line_start = content.rfind('\n', 0, match.start()) + 1
-            line_end = content.find('\n', match.end())
+    for idx, pattern in enumerate(patterns):
+        for m in pattern.finditer(content):
+            # extract full line
+            line_start = content.rfind('\n', 0, m.start()) + 1
+            line_end = content.find('\n', m.end())
             if line_end == -1:
                 line_end = len(content)
 
             full_line = content[line_start:line_end].strip()
 
-            # Filter out obvious false positives (e.g., content that looks like a header but isn't)
-            if (len(full_line) > 400 or  # Too long to be a header
-                len(full_line) < 3 or    # Too short (e.g., just "1.")
-                ('TABLE' in full_line.upper() and ('START' in full_line.upper() or 'END' in full_line.upper())) or # Exclude table markers if not part of a valid section header
-                full_line.count(' ') > 20):  # Too many words, likely not a header
+            # filter out obvious false positives
+            if (len(full_line) > 400 or
+                len(full_line) < 3 or
+                ('TABLE' in full_line.upper() and ('START' in full_line.upper() or 'END' in full_line.upper())) or
+                full_line.count(' ') > 20):
+                continue
+            if any(tok in full_line.lower() for tok in ['table of contents', 'index']):
                 continue
 
-            # Heuristic to filter out TOC entries that might match general patterns
-            if any(toc_indicator in full_line.lower() for toc_indicator in ['table of contents', 'index']):
-                continue
-            
+            groups = m.groups()
             section_id = None
-            section_title = full_line # Default to full line if specific extraction fails
+            section_title = full_line
 
-            groups = match.groups()
             if groups:
-                potential_id = groups[0].strip()
-                # Determine if the first captured group is a valid Item/Part ID
-                is_item_id = re.match(r'^\d+[A-C]?$', potential_id, re.I)
-                is_part_id = re.match(r'^[IVX]+$', potential_id, re.I)
+                first = groups[0].strip()
+                # item vs part
+                if re.match(r'^\d+[A-C]?$', first, re.I):
+                    section_id = first.upper()
+                elif re.match(r'^[IVX]+$', first, re.I):
+                    section_id = first.upper()
 
-                if is_item_id or is_part_id:
-                    section_id = potential_id
-                    if len(groups) > 1 and groups[1]: # If a title group was also captured
-                        section_title = groups[1].strip()
-                        # Clean up title: remove trailing table markers like "[TABLE_END]" if they were captured
-                        section_title = re.sub(r'\[TABLE_END\]\s*.*', '', section_title, flags=re.I).strip()
-                        section_title = section_title.replace('|', '').strip() # Remove pipe characters
-                    else: # No explicit title captured by a group
-                        # Try to extract a clean title from the remainder of the line after the ID
-                        remaining_line_after_id = full_line[match.end() - line_start:].strip()
-                        clean_line = re.sub(r'^\s*\.?\s*[-–—]?\s*', '', remaining_line_after_id).strip()
-                        if clean_line and len(clean_line) < 200: # Ensure extracted title isn't too long
-                            section_title = clean_line
-                        else:
-                             section_title = full_line # Fallback to full line if cleaning is problematic
-                else: # First captured group was not a standard Item/Part ID, treat as part of title
-                    section_title = full_line
-                    # For generic named sections (e.g., "BUSINESS"), assign a canonical ID if not part of an Item/Part already
-                    if 'BUSINESS' in full_line.upper() and not is_item_id and not is_part_id: section_id = '1'
-                    elif 'RISK FACTORS' in full_line.upper() and not is_item_id and not is_part_id: section_id = '1A'
-                    # Add other named section mappings if needed.
+                # if there's a second group (named pattern), use it
+                if len(groups) > 1 and groups[1]:
+                    title = groups[1].strip()
+                    title = re.sub(r'\[TABLE_END\].*$', '', title, flags=re.I).replace('|', '').strip()
+                    if title:
+                        section_title = title
+                else:
+                    # try to parse remainder of the line as title
+                    rem = full_line[m.end() - line_start :].lstrip(" .–—-").strip()
+                    if 0 < len(rem) < 200:
+                        section_title = rem
 
-            # Store the original start/end of the line for correct content extraction
+            # fallback canonical IDs for pure-named sections
+            if not section_id:
+                up = full_line.upper()
+                if 'BUSINESS' in up:
+                    section_id = '1'
+                elif 'RISK FACTORS' in up:
+                    section_id = '1A'
+                elif 'LEGAL PROCEEDINGS' in up:
+                    section_id = '3'
+                # add others if needed...
+
             all_matches.append({
                 'start_pos': line_start,
                 'end_pos': line_end,
-                'full_line': full_line,
-                'section_id': section_id if section_id else 'unknown',
+                'section_id': section_id or 'UNKNOWN',
                 'section_title': section_title,
-                'pattern_idx': pattern_idx,
-                'match_start': match.start()
             })
 
-    # Sort matches primarily by start_pos, secondarily by pattern_idx (to prefer more specific patterns early in the list)
-    all_matches.sort(key=lambda x: (x['start_pos'], x['pattern_idx']))
+    # sort and dedupe by start_pos
+    all_matches.sort(key=lambda x: x['start_pos'])
+    unique = []
+    seen_starts = set()
+    for m in all_matches:
+        if m['start_pos'] not in seen_starts:
+            seen_starts.add(m['start_pos'])
+            unique.append(m)
 
-    # Filter duplicate/overlapping matches. Prioritize more specific patterns (lower pattern_idx).
-    final_matches = []
-    if all_matches:
-        final_matches.append(all_matches[0])
-        for i in range(1, len(all_matches)):
-            current_match = all_matches[i]
-            last_added_match = final_matches[-1]
-
-            # If current match starts very close to the last added match,
-            # consider if it's a duplicate or a better alternative.
-            if current_match['start_pos'] - last_added_match['start_pos'] < 100: # Within 100 chars
-                # Prefer matches with a specific Item/Part ID over 'unknown' or less specific types
-                if current_match['section_id'] != 'unknown' and last_added_match['section_id'] == 'unknown':
-                    final_matches[-1] = current_match
-                # If both are specific, prefer the one matched by a higher-priority pattern (lower index means earlier in list)
-                elif current_match['section_id'] != 'unknown' and last_added_match['section_id'] != 'unknown' and current_match['pattern_idx'] < last_added_match['pattern_idx']:
-                    final_matches[-1] = current_match
-                # If they have the same ID but the new match offers a cleaner/more robust title
-                elif current_match['section_id'] == last_added_match['section_id'] and len(current_match['section_title']) < len(last_added_match['section_title']) * 0.8: # Heuristic for "cleaner"
-                     final_matches[-1] = current_match
-                # Otherwise, if it's too close and not a better candidate, skip as duplicate
-            else:
-                final_matches.append(current_match) # Add if sufficiently far apart
-
-    logger.info(f"🔍 Universal SEC detection found {len(final_matches)} unique sections:")
-    for i, match in enumerate(final_matches[:15]):
-        logger.info(f"  {i+1}: Item/Part {match['section_id']} - {match['section_title'][:60]}...")
-
-    # Convert to DocumentSection objects
-    final_document_sections = []
-    current_part = None # Track current part for 10Q item context
-
-    for i, match in enumerate(final_matches):
-        start_pos = match['start_pos']
-        end_pos = final_matches[i + 1]['start_pos'] if i + 1 < len(final_matches) else len(content)
-
-        section_content = content[start_pos:end_pos].strip()
-
-        section_id = match['section_id'].upper()
-        title = match['section_title']
-
-        section_type = 'content' # Default type
-        item_number = None
-        part = None
-
-        if re.match(r'^[IVX]+$', section_id):
-            section_type = 'part'
-            part = f"PART {section_id}"
-            current_part = part # Update current part for subsequent items
-            # Refine title: remove "PART X" if it's already in the title to avoid redundancy.
-            clean_title_part = title.upper().replace(part, '').strip(' -.')
-            if clean_title_part:
-                title = f"{part} - {clean_title_part}"
-            else:
-                title = part # Fallback to just "PART X"
-        elif re.match(r'^\d+[A-C]?$', section_id):
-            section_type = 'item'
-            item_number = section_id
-            part = current_part # Assign current part context to this item (inherited)
-            # Refine title: remove "Item X" if it's already in the title
-            clean_title_item = title.upper().replace(f"ITEM {item_number}", '').strip(' -.')
-            if clean_title_item:
-                title = f"Item {item_number} - {clean_title_item}"
-            else:
-                title = f"Item {item_number}" # Fallback to just "Item X"
-        # For named_section (e.g., "BUSINESS" when it's not explicitly an Item number)
-        elif any(keyword in title.upper() for keyword in ['BUSINESS', 'RISK FACTORS', 'LEGAL PROCEEDINGS', 'FINANCIAL STATEMENTS', 'MANAGEMENT\'S DISCUSSION', 'PROPERTIES', 'CONTROLS AND PROCEDURES']):
-            section_type = 'named_section'
-
-
-        final_document_sections.append(DocumentSection(
-            title=title,
-            content=section_content,
-            section_type=section_type,
-            item_number=item_number,
-            part=part, # Store the part info (either detected directly or inherited)
-            start_pos=start_pos,
-            end_pos=end_pos
+    # build DocumentSection list
+    for i, m in enumerate(unique):
+        start = m['start_pos']
+        end = unique[i+1]['start_pos'] if i+1 < len(unique) else len(content)
+        sections.append(DocumentSection(
+            id=m['section_id'],
+            title=m['section_title'],
+            start_char=start,
+            end_char=end
         ))
 
-    return final_document_sections
+    logger.info(f"Strategy 1 found {len(sections)} sections")
+    return sections
 
 def detect_sections_from_toc_universal(content: str) -> List[DocumentSection]:
     """
