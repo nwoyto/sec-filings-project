@@ -2,6 +2,17 @@
 
 This project develops an AI-powered financial analyst assistant capable of answering questions based on SEC (Securities and Exchange Commission) filings. It leverages vector embeddings, a vector database (Pinecone), and an OpenAI Agent with custom tools to provide detailed, source-backed financial insights.
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [1. Project Overview](#1-project-overview)
+- [2. Project Structure](#2-project-structure)
+- [3. Setup and Installation](#3-setup-and-installation)
+- [4. Core Components and Development Workflow](#4-core-components-and-development-workflow)
+- [5. Evaluation Criteria & Project Alignment](#5-evaluation-criteria--project-alignment)
+- [6. Future Improvements](#6-future-improvements)
+- [7. Limitations and Quantitative Evaluation](#7-limitations-and-quantitative-evaluation)
+
 #### See EnhancedChunkingReport.md for an analysis of vector search efficiency between initial chunking strategy and an enhanced chunking strategy.
 
 ## 1. Project Overview
@@ -217,3 +228,69 @@ This project provides a solid foundation for a financial analyst agent. Here's a
     - **Automated Evaluation Framework:** Build a robust, automated evaluation framework for RAG quality (e.g., Mean Average Precision (MAP), Normalized Discounted Cumulative Gain (NDCG)) and agent performance, integrated into a CI/CD pipeline for continuous improvement.
 
 This roadmap provides a clear path to evolve the project from a functional prototype to a robust, scalable, and highly capable financial analyst assistant, addressing the various levels of logic and reasoning behind design choices and outlining the optimal state and how to get there.
+
+
+## 7. Limitations and Quantitative Evaluation
+
+This section outlines the key limitations of the current implementation, with a focus on areas requiring additional rigor for production-readiness. The most significant gap is in quantitative evaluation of retrieval quality and semantic performance.
+
+### 7.1 MCP Server Limitations
+
+- **Error Handling**: The server currently lacks input validation and graceful failure mechanisms. If required metadata is missing or malformed, some tools may return empty or misleading results without explanation.
+
+- **Tool Selection Robustness**: There is no fallback mechanism if the agent attempts to invoke a non-existent or unsupported tool. Queries that do not align exactly with the expected format or metadata may fail silently.
+
+- **Limited Abstraction**: Financial tools are rigid in input structure. For example, a query for "profitability" must match expected keywords or metadata to be correctly routed. There's no intermediate reasoning layer to interpret ambiguous or higher-level queries.
+
+- **Minimal Logging**: Tool usage, execution paths, and argument resolution are not systematically logged. This reduces observability and hinders debugging or performance tracing.
+
+- **Basic Test Coverage**: The MCP server test suite primarily covers simple expected cases. It does not include stress tests, malformed input cases, or multi-step tool chaining scenarios.
+
+### 7.2 Chunking and Sectioning Limitations
+
+- **Item Parsing is Primitive**: Item identification relies on basic filename parsing or shallow heuristics. It does not leverage deeper sectioning techniques based on document structure or table of contents references, which could greatly improve relevance and retrieval alignment.
+
+- **Static Overlap Strategy**: The sliding window approach ensures context continuity, but does not adapt based on content density or topic shifts. A smarter dynamic chunking method could improve coherence and embedding quality.
+
+### 7.3 Embedding and Storage Tradeoffs
+
+- **Text Stored in Metadata**: For speed and simplicity, the full chunk text is stored directly in Pinecone metadata. This inflates index size and is not scalable. A future version should implement hybrid storage using external object storage for full-text retrieval.
+
+- **No Deduplication or Reranking**: Retrieved chunks are passed directly to the LLM without reranking or filtering. There is no logic to avoid redundancy or boost higher-quality content.
+
+### 7.4 Quantitative Evaluation: Current Gaps
+
+The project currently lacks a structured framework for evaluating retrieval effectiveness, embedding quality, and end-to-end agent response accuracy. This is the most critical limitation.
+
+### 7.5 Proposed Evaluation Framework
+
+To address this, the following components should be introduced:
+
+#### Retrieval Relevance
+- **Precision@K**: Percentage of top-K retrieved chunks that are relevant (based on manual or synthetic ground truth).
+- **Recall@K**: Proportion of all known relevant chunks that appear in top-K results.
+- **F1@K**: Harmonic mean of precision and recall.
+
+Ground truth can be manually annotated or synthetically inferred from known section markers (e.g., [TABLE_START], section headers).
+
+#### Chunking Evaluation
+- **Token Distribution**: Track average, min, max token counts per chunk.
+- **Chunk Coherence**: Sample and manually rate chunk readability and semantic completeness.
+- **Overlap Effectiveness**: Measure how often overlapping tokens meaningfully preserve query context.
+
+#### Embedding Space Diagnostics
+- **t-SNE / UMAP Visualization**: Visual inspection of chunk embedding clusters by ticker or section type.
+- **Intra-Class vs Inter-Class Similarity**: Average cosine similarity within vs. across filings of the same type.
+
+#### Tool Accuracy
+- **Metric Validation**: For tools like `calculate_pe_ratio`, verify computed results against expected outputs derived from known filings.
+- **Edge Case Handling**: Test behavior under zero, null, or negative inputs.
+
+#### Latency and Efficiency
+- **Query Latency**: Measure time from prompt submission to agent response.
+- **Batch Efficiency**: Track speed gains from batched embedding and Pinecone upserts vs. single calls.
+- **Tool Execution Time**: Log average runtime per MCP tool.
+
+### Summary
+
+The project establishes a functional end-to-end system and a clear design foundation. However, the lack of systematic evaluation and resiliency limits confidence in its robustness. The roadmap for improvement centers on deeper evaluation, stronger error handling, and more flexible interpretation within the MCP server.
