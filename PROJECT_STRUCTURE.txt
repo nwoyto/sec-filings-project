@@ -8,7 +8,7 @@ This document provides an overview of the structure and files in the TakeHomePro
 
 - `.DS_Store`: System file created by macOS; can be ignored.
 - `.env`: Stores environment variables (e.g., API keys for OpenAI and Pinecone).
-- `clients.py`: Initializes and configures clients for OpenAI (AsyncOpenAI) and Pinecone, loading API keys from the `.env` file. Used for interacting with embedding and vector database services.
+- `src/utils/clients.py`: Initializes and configures clients for OpenAI (AsyncOpenAI) and Pinecone, loading API keys from the `.env` file. Used for interacting with embedding and vector database services.
 - `embed_skeleton.py`: Contains asynchronous functions for processing SEC filings. It iterates through the `processed_filings` directory, processes each file, and contains placeholders for preprocessing, chunking, embedding, and uploading logic. Entry point for batch processing filings.
 - `requirements.txt`: Lists all Python dependencies required for the project, including OpenAI, Pinecone, dotenv, and others.
 - `test_mcp.py`: Contains test code for running an OpenAI Agent with an MCP server, designed to answer financial questions based on SEC filings. Includes dummy prompts and placeholders for further testing.

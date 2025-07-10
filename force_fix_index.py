@@ -1,7 +1,7 @@
 # force_fix_index.py - Force delete and recreate index
 
 import time
-from clients import pinecone_client
+from src.utils.clients import pinecone_client
 
 # Check current index
 try:

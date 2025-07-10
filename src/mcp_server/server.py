@@ -8,7 +8,7 @@ from typing import Any, Dict, List, Optional
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
 from mcp.types import Tool, TextContent
-from clients import openai_client, index
+from src.utils.clients import openai_client, index
 from pydantic import BaseModel
 
 # Configure logging
