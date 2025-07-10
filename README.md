@@ -2,6 +2,8 @@
 
 This project develops an AI-powered financial analyst assistant capable of answering questions based on SEC (Securities and Exchange Commission) filings. It leverages vector embeddings, a vector database (Pinecone), and an OpenAI Agent with custom tools to provide detailed, source-backed financial insights.
 
+#### EnhancedChunkingReport.md is a analysis in vector search efficiency between initial simplisitc chunking strategy and an enhanced chunking strategy.
+
 ## 1. Project Overview
 
 The core idea is to transform unstructured SEC filing documents into a searchable knowledge base. By embedding chunks of these filings into a vector space, we can perform semantic searches to retrieve relevant information, which an AI agent then uses to answer complex financial queries and perform calculations.
