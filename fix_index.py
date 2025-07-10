@@ -1,4 +1,4 @@
-from clients import pinecone_client
+from src.utils.clients import pinecone_client
 
 # Delete the existing index
 try:

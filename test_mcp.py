@@ -59,11 +59,10 @@ async def test():
     # Configure MCP server parameters to run our SEC filing search server
     params = {
         "command": "python",
-        "args": ["mcp_server.py"]
+        "args": ["src/mcp_server/server.py"]
     }
     
     async with MCPServerStdio(params=params) as server:
         await run(server)
 
-if __name__ == "__main__":
-    asyncio.run(test())
+if __name__ == "__main__":    asyncio.run(test())

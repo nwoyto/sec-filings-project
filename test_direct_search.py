@@ -1,7 +1,7 @@
 # test_direct_search.py - Test the search functionality directly
 
 import asyncio
-from clients import openai_client, index
+from src.utils.clients import openai_client, index
 
 async def test_direct_search():
     """Test search directly without MCP"""
