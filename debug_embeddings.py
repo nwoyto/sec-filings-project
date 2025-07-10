@@ -1,7 +1,7 @@
 # debug_embeddings.py - Check what dimensions we're actually getting
 
 import asyncio
-from clients import openai_client
+from src.utils.clients import openai_client
 
 async def test_embedding_dimensions():
     """Test what dimensions we get from different text inputs"""
