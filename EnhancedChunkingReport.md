@@ -1,6 +1,6 @@
 # Performance Analysis: Enhanced Chunking Strategy
 
-#### Analysis on enhcanced chunking strategy as it relates to latency and response evaluation/ tool execution. No ground truthhdata set was created to quantitatively evaluate semantic search and is a top priority.
+#### Analysis on enhcanced chunking strategy as it relates to latency and response evaluation/ tool execution. No ground truth data set was created to quantitatively evaluate semantic search and is a top priority.
 
 ## Chunking Strategy Improvements
 
