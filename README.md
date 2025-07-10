@@ -84,7 +84,7 @@ Ensure your `processed_filings/` directory contains the .txt files of SEC filing
 ### 3.6 Run the Embedding Pipeline:
 Execute the main embedding pipeline script to process your filings and upload them to Pinecone. This will create the Pinecone index if it doesn't already exist.
 ```bash
-python -m python -m embed_skeleton
+python -m embed_skeleton
 ```
 ### 3.7 Run Agent Test Cases:
 Once the embeddings are uploaded, you can run the agent's test cases to verify its functionality and tool usage.
