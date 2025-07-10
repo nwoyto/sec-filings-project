@@ -53,7 +53,7 @@ cd sec-filings-project
 (or download .zip)
 ### 3.2 Create and activate a virtual environment:
 ```bash
-conda create -n take-home-project python=3.11 # Or your preferred Python version
+conda create -n take-home-project python=3.11
 conda activate take-home-project
 ```
 ### 3.3 Install dependencies::
