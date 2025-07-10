@@ -4,7 +4,6 @@ This project develops an AI-powered financial analyst assistant capable of answe
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [1. Project Overview](#1-project-overview)
 - [2. Project Structure](#2-project-structure)
 - [3. Setup and Installation](#3-setup-and-installation)
