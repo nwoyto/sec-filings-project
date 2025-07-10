@@ -6,7 +6,7 @@ This project develops an AI-powered financial analyst assistant capable of answe
 
 The core idea is to transform unstructured SEC filing documents into a searchable knowledge base. By embedding chunks of these filings into a vector space, we can perform semantic searches to retrieve relevant information, which an AI agent then uses to answer complex financial queries and perform calculations.
 
-This challenge was deliberately under-specified to evaluate the approach to ambiguity, architectural decisions, and balancing tradeoffs. The primary objectives were to:
+The primary objectives were to:
 - Preprocess and chunk raw SEC filing documents into meaningful units.
 - Generate semantic embeddings using OpenAI's text-embedding-3-small model.
 - Upload these embeddings to a pre-configured Pinecone vector database, including useful metadata.
@@ -48,10 +48,11 @@ sec-filings-project/
 git clone <your-repo-url>
 cd sec-filings-project
 ```
+(or download .zip)
 ### 3.2 Create and activate a virtual environment:
 ```bash
-python3 -m venv take-home-project
-source take-home-project/bin/activate
+conda create -n take-home-project python=3.11 # Or your preferred Python version
+conda activate take-home-project
 ```
 ### 3.3 Install dependencies::
 ```bash
@@ -92,7 +93,7 @@ This section outlines the project's key components, the decision-making process 
 **Flow:** Raw SEC filings (assumed to be pre-downloaded and converted to text in processed_filings/) are read, parsed for metadata, chunked, and then prepared for embedding.
 
 - Initial Approach (Rough Skeleton & Iterative Refinement):  
-    My initial goal for this take-home project, given the time constraints, was to quickly establish a functional baseline. This meant prioritizing getting a rough skeleton or draft of the pipeline working end-to-end. For instance, initial preprocessing logic might have been more consolidated. The subsequent development focused on iteratively refining and optimizing these foundational components.
+    My initial goal for this take-home project, given the 5-hr constraint, was to quickly establish a functional baseline. This meant prioritizing getting a rough skeleton or draft of the pipeline working end-to-end. For instance, initial preprocessing logic was more consolidated. The subsequent development focused on iteratively refining and optimizing these foundational components.
 - **Refactoring Decisions (Modularity & Clarity):**
   - **Separation of Concerns:** The original monolithic preprocessing logic was refactored into dedicated modules:
     - src/preprocessing/metadata_extractor.py: Solely responsible for parsing basic filing info from filenames.
@@ -100,7 +101,7 @@ This section outlines the project's key components, the decision-making process 
     - src/utils/financial_parsing.py: Created as a new utility module to house the extract_value function, centralizing reusable financial parsing logic.
   - **Rationale:** This modularity significantly improves code readability, maintainability, and testability. Each component now has a clear, single responsibility, aligning with good software engineering principles.
 - **Chunking Strategy (Semantic with Overlap):**
-  - **Initial Implicit Strategy:** Early versions might have relied on simpler fixed-size or basic paragraph splitting. While quick to implement, these methods can lead to critical context loss at chunk boundaries or incoherent chunks.
+  - **Initial Implicit Strategy:** Early versions relied on simpler fixed-size or basic paragraph splitting. While quick to implement, these methods can lead to critical context loss at chunk boundaries or incoherent chunks.
   - **Refinement Decision:** Implemented a semantic-aware chunking strategy within src/preprocessing/chunker.py that:
     - Splits narrative text into **sentences** (using NLTK) as primary semantic units.
     - Falls back to **paragraphs** if sentences are excessively long or NLTK encounters issues, ensuring units are always manageable.
@@ -124,13 +125,10 @@ This section outlines the project's key components, the decision-making process 
     - **OpenAI Embeddings:** generate_embeddings now sends lists of texts to OpenAI in larger batches (openai_embedding_batch_size).
     - **Pinecone Upserts:** upload_chunks_to_pinecone collects generated vectors into batches (pinecone_upsert_batch_size, typically 100 vectors) before performing a single index.upsert() call.
   - **Rationale (Computational Efficiency):** Batching dramatically reduces API call overhead, improves throughput, and speeds up the entire ingestion pipeline. This directly addresses the need for "making new computational loads more efficient" and contributes to the "correctness and clarity of your embedding pipeline."
-- **Pinecone Index Creation & Client Initialization:**
-  - **Initial Challenges & Iterative Solution:** Encountered various NotFoundException and BadRequest errors related to index creation. These issues stemmed from the evolving Pinecone client API versions and the specific requirements for creating serverless indexes (e.g., the need for ServerlessSpec and precise cloud/region parameters, and the distinction from create_index_for_model). The solution involved an iterative debugging process, adapting src/utils/clients.py to match the exact API expectations for serverless index creation.
-  - **Rationale:** Ensuring the pipeline can programmatically create the necessary infrastructure for a fresh start or connect to an existing index robustly.
 - **Text Storage in Metadata:**
   - **Decision (for this project):** The full text of each chunk is stored directly in Pinecone's metadata.
   - **Rationale (Assignment Context & Tradeoff):** This simplifies the retrieval pipeline for a take-home project/POC, as a single Pinecone query returns both the vector similarity and the content needed for the LLM. This was a conscious tradeoff to meet project scope and time constraints.
-  - **Best Practice in Production (Future Improvement):** For scalable and cost-efficient production systems, the best practice is to implement a hybrid retrieval system. Store the full text of chunks in a dedicated, cost-effective document store (e.g., AWS S3, Google Cloud Storage, or a NoSQL database). Pinecone would then only store the vector embeddings and a unique chunk_id (as a pointer to the text in the document store), along with minimal filtering metadata. This separates concerns, reduces Pinecone storage costs, and optimizes retrieval.
+  - **Best Practice in Production (Future Improvement):** For scalable and cost-efficient production systems, the best practice is to implement a hybrid retrieval system. Store the full text from chunks in a dedicated, cost-effective document store (e.g., AWS S3, Google Cloud Storage, or a NoSQL database). Pinecone would then only store the vector embeddings and a unique chunk_id (as a pointer to the text in the document store), along with minimal filtering metadata. This separates concerns, reduces Pinecone storage costs, and optimizes retrieval.
 
 ### **4.3. Agent and Tooling (MCP Server)**
 
@@ -196,7 +194,7 @@ This section directly addresses how the project meets the specified evaluation c
 
 ## **6\. Future Enhancements & Roadmap**
 
-This project provides a solid foundation for a powerful financial analyst agent. Given the 5-hour project scope, the focus was on building a clean and useful baseline. Here's a roadmap for future development, prioritizing key areas for robustness, scalability, and enhanced capabilities:
+This project provides a solid foundation for a financial analyst agent. Here's a roadmap for future development, prioritizing key areas for robustness, scalability, and enhanced capabilities:
 
 1. **Phase 1: Core Quality & Robustness (High Priority)**
     - **Advanced Section Parsing:** Implement the multi-strategy section detection (TOC-based, advanced regex) from the older preprocessing.py into a new src/preprocessing/section_parser.py. This will significantly improve chunk quality and item_id accuracy, directly impacting retrieval performance.
