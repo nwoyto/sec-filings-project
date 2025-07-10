@@ -57,4 +57,5 @@ if __name__ == "__main__":
     except nltk.downloader.LookupError:
         nltk.download("stopwords")
 
-    asyncio.run(process_filings())    print("Pipeline complete!")
+    asyncio.run(process_filings())
+    print("Pipeline complete!")
