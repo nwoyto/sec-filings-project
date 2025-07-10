@@ -47,7 +47,7 @@ sec-filings-project/
 
 ### 3.1 Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nwoyto/sec-filings-project.git
 cd sec-filings-project
 ```
 (or download .zip)

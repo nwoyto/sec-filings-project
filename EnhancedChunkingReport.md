@@ -1,6 +1,6 @@
 # Performance Analysis: Enhanced Chunking Strategy
 
-#### Analysis on enhcanced chunking strategy as it relates to latency and response evaluation/ tool execution. No ground truthhdata set was created to quantitatively evaluate semantic search and is a top priority.
+#### Analysis on enhcanced chunking strategy as it relates to latency and response evaluation/ tool execution. No ground truth data set was created to quantitatively evaluate semantic search and is a top priority.
 
 ## Chunking Strategy Improvements
 
@@ -18,7 +18,6 @@ The new semantic chunking strategy delivers **57% faster search performance** (1
 | Metric | Old Strategy | New Strategy | Improvement |
 |--------|-------------|-------------|-------------|
 | Average Latency | 1,266ms | 546ms | -57% |
-| Successful Tests | 6/7 improved | - | Substantial gains |
 | Anomaly | Test 1 (Apple Revenue) | 1,426ms → 1,854ms | Needs investigation |
 
 ## Response Quality by Task Type
