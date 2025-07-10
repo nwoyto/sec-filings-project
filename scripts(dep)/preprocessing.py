@@ -131,7 +131,7 @@ def clean_sec_text(text: str) -> str:
 #     """
 #     sections = []
 
-#     # Much more comprehensive patterns based on your actual files
+#     # Much more comprehensive patterns
 #     patterns = [
 #         # PART patterns - handle various formats
 #         re.compile(r'^\s*PART\s+([IVX]+)(?:\s*[-–—].*?)?$', re.I | re.M),

@@ -38,7 +38,7 @@ class EmbeddingPipeline:
         all_embeddings = []
         # OpenAI's client handles batching
         
-        # If you were to implement explicit batching here:
+        # To implement explicit batching:
         # for i in range(0, len(texts), self.openai_embedding_batch_size):
         #     batch_texts = texts[i:i + self.openai_embedding_batch_size]
         #     try:
